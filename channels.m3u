@@ -1,1915 +1,1915 @@
 #EXTM3U
-#EXTINF:-1, Yes Tv
-http://192.99.54.242/ca_eng/YES_TV/index.m3u8
-#EXTINF:-1, W Network
-http://192.99.54.242/ca_eng/W_NETWORK/index.m3u8
-#EXTINF:-1, Vision Tv
-http://192.99.54.242/ca_eng/VISION_TV/index.m3u8
-#EXTINF:-1, Travel + Escape
-http://192.99.54.242/ca_eng/TRAVELESCAPE/index.m3u8
-#EXTINF:-1, Toronto 5 Live
-http://192.99.54.242/ca_eng/TORONTO_5_LIVE/index.m3u8
-#EXTINF:-1, Toronto 4 Live
-http://192.99.54.242/ca_eng/TORONTO_4_LIVE/index.m3u8
-#EXTINF:-1, Toronto 3 Live
-http://192.99.54.242/ca_eng/TORONTO_3_LIVE/index.m3u8
-#EXTINF:-1, Toronto 2 Live
-http://192.99.54.242/ca_eng/TORONTO_2_LIVE/index.m3u8
-#EXTINF:-1, Toronto 1 Live
-http://192.99.54.242/ca_eng/TORONTO_1_LIVE/index.m3u8
-#EXTINF:-1, Tlc Canada
-http://192.99.54.242/ca_eng/TLC/index.m3u8
-#EXTINF:-1, The Weather Network
-http://192.99.54.242/ca_eng/THE_WEATHER_NETWORK/index.m3u8
-#EXTINF:-1, The Shopping Channel
-http://192.99.54.242/ca_eng/THE_SHOPPING_CHANNEL/index.m3u8
-#EXTINF:-1, Stingray Hit List
-http://192.99.54.242/ca_eng/STINGRAY_HIT_LIST/index.m3u8
-#EXTINF:-1, Stingray Hiphop
-http://192.99.54.242/ca_eng/STINGRAY_HIPHOP/R&B/index.m3u8
-#EXTINF:-1, Stingray Greatest Hits
-http://192.99.54.242/ca_eng/STINGRAY_GREATEST_HITS/index.m3u8
-#EXTINF:-1, Slice
-http://192.99.54.242/ca_eng/SLICE/index.m3u8
-#EXTINF:-1, Show Case
-http://192.99.54.242/ca_eng/SHOW_CASE/index.m3u8
-#EXTINF:-1, Paramount Channel
-http://192.99.54.242/ca_eng/PARAMOUNT_CHANNEL/index.m3u8
-#EXTINF:-1, Omni 2
-http://192.99.54.242/ca_eng/OMNI_2/index.m3u8
-#EXTINF:-1, Omni 1
-http://192.99.54.242/ca_eng/OMNI_1/index.m3u8
-#EXTINF:-1, Oln
-http://192.99.54.242/ca_eng/OLN/index.m3u8
-#EXTINF:-1, National Geographic Wild Canada
-http://192.99.54.242/ca_eng/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Canada
-http://192.99.54.242/ca_eng/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Much Music
-http://192.99.54.242/ca_eng/MUCH_MUSIC/index.m3u8
-#EXTINF:-1, Msnbc Canada
-http://192.99.54.242/ca_eng/MSNBC/index.m3u8
-#EXTINF:-1, Investigation Discovery Canada
-http://192.99.54.242/ca_eng/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1, History Canada
-http://192.99.54.242/ca_eng/HISTORY/index.m3u8
-#EXTINF:-1, Hgtv Canada
-http://192.99.54.242/ca_eng/HGTV/index.m3u8
-#EXTINF:-1, Gsn Canada
-http://192.99.54.242/ca_eng/GSN/index.m3u8
-#EXTINF:-1, Global Toronto
-http://192.99.54.242/ca_eng/GLOBAL_TORONTO/index.m3u8
-#EXTINF:-1, Global Ontario News
-http://192.99.54.242/ca_eng/GLOBAL_ONTARIO_NEWS/index.m3u8
-#EXTINF:-1, Global National News
-http://192.99.54.242/ca_eng/GLOBAL_NATIONAL_NEWS/index.m3u8
-#EXTINF:-1, Global Halifax
-http://192.99.54.242/ca_eng/GLOBAL_HALIFAX/index.m3u8
-#EXTINF:-1, Global Edmonton
-http://192.99.54.242/ca_eng/GLOBAL_EDMONTON/index.m3u8
-#EXTINF:-1, Global Calgary
-http://192.99.54.242/ca_eng/GLOBAL_CALGARY/index.m3u8
-#EXTINF:-1, Global British Columbia News
-http://192.99.54.242/ca_eng/GLOBAL_BRITISH_COLUMBIA_NEWS/index.m3u8
-#EXTINF:-1, Global British Columbia
-http://192.99.54.242/ca_eng/GLOBAL_BRITISH_COLUMBIA/index.m3u8
-#EXTINF:-1, Global Alberta News
-http://192.99.54.242/ca_eng/GLOBAL_ALBERTA_NEWS/index.m3u8
-#EXTINF:-1, Game Tv
-http://192.99.54.242/ca_eng/GAME_TV/index.m3u8
-#EXTINF:-1, Fxx Canada
-http://192.99.54.242/ca_eng/FXX/index.m3u8
-#EXTINF:-1, Fx Canada
-http://192.99.54.242/ca_eng/FX/index.m3u8
-#EXTINF:-1, Food Network Canada
-http://192.99.54.242/ca_eng/FOOD_NETWORK/index.m3u8
-#EXTINF:-1, English Movies 3 Canada
-http://192.99.54.242/ca_eng/ENGLISH_MOVIES_3/index.m3u8
-#EXTINF:-1, English Movies 2 Canada
-http://192.99.54.242/ca_eng/ENGLISH_MOVIES_2/index.m3u8
-#EXTINF:-1, English Movies 1 Canada
-http://192.99.54.242/ca_eng/ENGLISH_MOVIES_1/index.m3u8
-#EXTINF:-1, E! Canada
-http://192.99.54.242/ca_eng/E!/index.m3u8
-#EXTINF:-1, Discovery Science Canada
-http://192.99.54.242/ca_eng/DISCOVERY_SCIENCE/index.m3u8
-#EXTINF:-1, Discovery Channel Canada
-http://192.99.54.242/ca_eng/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1, Ctv Toronto
-http://192.99.54.242/ca_eng/CTV_TORONTO/index.m3u8
-#EXTINF:-1, Ctv Sci-fi
-http://192.99.54.242/ca_eng/CTV_SCI-FI/index.m3u8
-#EXTINF:-1, Ctv North Bay
-http://192.99.54.242/ca_eng/CTV_NORTH_BAY/index.m3u8
-#EXTINF:-1, Ctv News Channel
-http://192.99.54.242/ca_eng/CTV_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1, Ctv Drama
-http://192.99.54.242/ca_eng/CTV_DRAMA/index.m3u8
-#EXTINF:-1, Ctv Comedy
-http://192.99.54.242/ca_eng/CTV_COMEDY/index.m3u8
-#EXTINF:-1, Ctv 2
-http://192.99.54.242/ca_eng/CTV_2/index.m3u8
-#EXTINF:-1, Ctv
-http://192.99.54.242/ca_eng/CTV/index.m3u8
-#EXTINF:-1, Crave 4
-http://192.99.54.242/ca_eng/CRAVE_4/index.m3u8
-#EXTINF:-1, Crave 3
-http://192.99.54.242/ca_eng/CRAVE_3/index.m3u8
-#EXTINF:-1, Crave 2
-http://192.99.54.242/ca_eng/CRAVE_2/index.m3u8
-#EXTINF:-1, Crave 1
-http://192.99.54.242/ca_eng/CRAVE_1/index.m3u8
-#EXTINF:-1, Cpac English
-http://192.99.54.242/ca_eng/CPAC/index.m3u8
-#EXTINF:-1, Cp24
-http://192.99.54.242/ca_eng/CP24/index.m3u8
-#EXTINF:-1, Cnbc Canada
-http://192.99.54.242/ca_eng/CNBC/index.m3u8
-#EXTINF:-1, City Tv Vancouver
-http://192.99.54.242/ca_eng/CITY_TV_VANCOUVER/index.m3u8
-#EXTINF:-1, City Tv Toronto
-http://192.99.54.242/ca_eng/CITY_TV_TORONTO/index.m3u8
-#EXTINF:-1, City Tv Calgary
-http://192.99.54.242/ca_eng/CITY_TV_CALGARY/index.m3u8
-#EXTINF:-1, City Tv
-http://192.99.54.242/ca_eng/CITY_TV/index.m3u8
-#EXTINF:-1, Cbs Canada
-http://192.99.54.242/ca_eng/CBS/index.m3u8
-#EXTINF:-1, Cbc Yellowknife
-http://192.99.54.242/ca_eng/CBC_YELLOWKNIFE/index.m3u8
-#EXTINF:-1, Cbc Winnipeg
-http://192.99.54.242/ca_eng/CBC_WINNIPEG/index.m3u8
-#EXTINF:-1, Cbc Windsor
-http://192.99.54.242/ca_eng/CBC_WINDSOR/index.m3u8
-#EXTINF:-1, Cbc Vancouver
-http://192.99.54.242/ca_eng/CBC_VANCOUVER/index.m3u8
-#EXTINF:-1, Cbc Toronto
-http://192.99.54.242/ca_eng/CBC_TORONTO/index.m3u8
-#EXTINF:-1, Cbc St. Johns
-http://192.99.54.242/ca_eng/CBC_ST._JOHNS/index.m3u8
-#EXTINF:-1, Cbc Regina
-http://192.99.54.242/ca_eng/CBC_REGINA/index.m3u8
-#EXTINF:-1, Cbc Quebec
-http://192.99.54.242/ca_eng/CBC_QUEBEC/index.m3u8
-#EXTINF:-1, Cbc Ottawa
-http://192.99.54.242/ca_eng/CBC_OTTAWA/index.m3u8
-#EXTINF:-1, Cbc Ontario
-http://192.99.54.242/ca_eng/CBC_ONTARIO/index.m3u8
-#EXTINF:-1, Cbc News Network
-http://192.99.54.242/ca_eng/CBC_NEWS_NETWORK/index.m3u8
-#EXTINF:-1, Cbc Montreal
-http://192.99.54.242/ca_eng/CBC_MONTREAL/index.m3u8
-#EXTINF:-1, Cbc Halifax
-http://192.99.54.242/ca_eng/CBC_HALIFAX/index.m3u8
-#EXTINF:-1, Cbc Fredericton
-http://192.99.54.242/ca_eng/CBC_FREDERICTON/index.m3u8
-#EXTINF:-1, Cbc Edmonton
-http://192.99.54.242/ca_eng/CBC_EDMONTON/index.m3u8
-#EXTINF:-1, Cbc Charlottetown
-http://192.99.54.242/ca_eng/CBC_CHARLOTTETOWN/index.m3u8
-#EXTINF:-1, Cbc Calgary
-http://192.99.54.242/ca_eng/CBC_CALGARY/index.m3u8
-#EXTINF:-1, Bravo Canada
-http://192.99.54.242/ca_eng/BRAVO/index.m3u8
-#EXTINF:-1, Bnn Bloomberg
-http://192.99.54.242/ca_eng/BNN_BLOOMBERG/index.m3u8
-#EXTINF:-1, Bet Canada
-http://192.99.54.242/ca_eng/BET/index.m3u8
-#EXTINF:-1, Bbc Earth
-http://192.99.54.242/ca_eng/BBC_EARTH/index.m3u8
-#EXTINF:-1, Animal Planet Canada
-http://192.99.54.242/ca_eng/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1, Amc Canada
-http://192.99.54.242/ca_eng/AMC/index.m3u8
-#EXTINF:-1, Adult Swim
-http://192.99.54.242/ca_eng/ADULT_SWIM/index.m3u8
-#EXTINF:-1, Abc Canada
-http://192.99.54.242/ca_eng/ABC/index.m3u8
-#EXTINF:-1, A&e Canada
-http://192.99.54.242/ca_eng/A&E/index.m3u8
-#EXTINF:-1, Zee Tamil
-http://192.99.54.242/ind_tam/ZEE/index.m3u8
-#EXTINF:-1, Vanavil Plus
-http://192.99.54.242/ind_tam/VANAVIL_PLUS/index.m3u8
-#EXTINF:-1, Tata Sky Tamil Cinema
-http://192.99.54.242/ind_tam/TATASKY_CINEMA/index.m3u8
-#EXTINF:-1, Tamil Songs
-http://192.99.54.242/ind_tam/TAMIL_SONGS/index.m3u8
-#EXTINF:-1, Tamil Movies 3
-http://192.99.54.242/ind_tam/TAMIL_MOVIES_3/index.m3u8
-#EXTINF:-1, Tamil Movies 2
-http://192.99.54.242/ind_tam/TAMIL_MOVIES_2/index.m3u8
-#EXTINF:-1, Tamil Movies 1
-http://192.99.54.242/ind_tam/TAMIL_MOVIES_1/index.m3u8
-#EXTINF:-1, Tamil Dubbed Movies
-http://192.99.54.242/ind_tam/TAMIL_DUBBED_MOVIES/index.m3u8
-#EXTINF:-1, Sun Tv India
-http://192.99.54.242/ind_tam/SUN_TV/index.m3u8
-#EXTINF:-1, Sun Music India
-http://192.99.54.242/ind_tam/SUN_MUSIC/index.m3u8
-#EXTINF:-1, Sun Life India
-http://192.99.54.242/ind_tam/SUN_LIFE/index.m3u8
-#EXTINF:-1, Star Vijay
-http://192.99.54.242/ind_tam/STAR_VIJAY/index.m3u8
-#EXTINF:-1, Sri Sankara Tv
-http://192.99.54.242/ind_tam/SRI_SANKARA_TV/index.m3u8
-#EXTINF:-1, Spiritual
-http://192.99.54.242/ind_tam/SPIRITUAL/index.m3u8
-#EXTINF:-1, Sony Bbc Earth Tamil India
-http://192.99.54.242/ind_tam/SONY_BBC_EARTH/index.m3u8
-#EXTINF:-1, Sivan Tv
-http://192.99.54.242/ind_tam/SIVAN_TV/index.m3u8
-#EXTINF:-1, Selfie
-http://192.99.54.242/ind_tam/SELFIE/index.m3u8
-#EXTINF:-1, Sangammam Tv
-http://192.99.54.242/ind_tam/SANGAMMAM_TV/index.m3u8
-#EXTINF:-1, Polimer News
-http://192.99.54.242/ind_tam/POLIMER_NEWS/index.m3u8
-#EXTINF:-1, One Yes
-http://192.99.54.242/ind_tam/ONE_YES/index.m3u8
-#EXTINF:-1, Nethra Tv
-http://192.99.54.242/ind_tam/NETHRA_TV/index.m3u8
-#EXTINF:-1, National Geographic Wild Tamil India
-http://192.99.54.242/ind_tam/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Tamil India
-http://192.99.54.242/ind_tam/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Mahabarat
-http://192.99.54.242/ind_tam/MAHABARAT/index.m3u8
-#EXTINF:-1, Magic Box Story
-http://192.99.54.242/ind_tam/MAGIC_BOX_STORY/index.m3u8
-#EXTINF:-1, Lord Tv
-http://192.99.54.242/ind_tam/LORD_TV/index.m3u8
-#EXTINF:-1, Ktv India
-http://192.99.54.242/ind_tam/KTV/index.m3u8
-#EXTINF:-1, Jaya Tv
-http://192.99.54.242/ind_tam/JAYA_TV/index.m3u8
-#EXTINF:-1, Ibc Songs
-http://192.99.54.242/ind_tam/IBC_SONGS/index.m3u8
-#EXTINF:-1, Ibc Comedy
-http://192.99.54.242/ind_tam/IBC_COMEDY/index.m3u8
-#EXTINF:-1, Ibc Bakthi
-http://192.99.54.242/ind_tam/IBC_BAKTHI/index.m3u8
-#EXTINF:-1, Hosanna
-http://192.99.54.242/ind_tam/HOSANNA/index.m3u8
-#EXTINF:-1, Holy Mary
-http://192.99.54.242/ind_tam/HOLY_MARY/index.m3u8
-#EXTINF:-1, History Tamil
-http://192.99.54.242/ind_tam/HISTORY/index.m3u8
-#EXTINF:-1, Fox Life Tamil
-http://192.99.54.242/ind_tam/FOX_LIFE/index.m3u8
-#EXTINF:-1, Food Network Tamil
-http://192.99.54.242/ind_tam/FOOD_NETWORK/index.m3u8
-#EXTINF:-1, Eelam Tv
-http://192.99.54.242/ind_tam/EELAM_TV/index.m3u8
-#EXTINF:-1, Discovery Tamil
-http://192.99.54.242/ind_tam/DISCOVERY/index.m3u8
-#EXTINF:-1, Dheeran Tv
-http://192.99.54.242/ind_tam/DHEERAN_TV/index.m3u8
-#EXTINF:-1, Dd Podhigai
-http://192.99.54.242/ind_tam/DD_PODHIGAI/index.m3u8
-#EXTINF:-1, Colors Tamil India
-http://192.99.54.242/ind_tam/COLORS/index.m3u8
-#EXTINF:-1, Bible Study
-http://192.99.54.242/ind_tam/BIBLE_STUDY/index.m3u8
-#EXTINF:-1, Anboli Tv
-http://192.99.54.242/ind_tam/ANBOLI_TV/index.m3u8
-#EXTINF:-1, Ambaal Tv
-http://192.99.54.242/ind_tam/AMBAAL_TV/index.m3u8
-#EXTINF:-1, Alalai Express
-http://192.99.54.242/ind_tam/ALALAI_EXPRESS/index.m3u8
-#EXTINF:-1, 7s Music
-http://192.99.54.242/ind_tam/7S_MUSIC/index.m3u8
-#EXTINF:-1, Zeste French
-http://192.99.54.242/ca_fr/ZESTE/index.m3u8
-#EXTINF:-1, Z Tele French
-http://192.99.54.242/ca_fr/Z_TELE/index.m3u8
-#EXTINF:-1, Yoopa French
-http://192.99.54.242/ca_fr/YOOPA/index.m3u8
-#EXTINF:-1, Vie French
-http://192.99.54.242/ca_fr/VIE/index.m3u8
-#EXTINF:-1, V Montreal French
-http://192.99.54.242/ca_fr/V_MONTREAL/index.m3u8
-#EXTINF:-1, Tvo French
-http://192.99.54.242/ca_fr/TVO/index.m3u8
-#EXTINF:-1, Tva Quebec French
-http://192.99.54.242/ca_fr/TVA_QUEBEC/index.m3u8
-#EXTINF:-1, Tv5 Quebec French
-http://192.99.54.242/ca_fr/TV5_QUEBEC/index.m3u8
-#EXTINF:-1, Tv5 Monde French
-http://192.99.54.242/fr/TV5_MONDE/index.m3u8
-#EXTINF:-1, Tf1 French
-http://192.99.54.242/fr/TF1/index.m3u8
-#EXTINF:-1, Tele Quebec French
-http://192.99.54.242/ca_fr/TELE_QUEBEC/index.m3u8
-#EXTINF:-1, Tcm Cinema French
-http://192.99.54.242/fr/TCM_CINEMA/index.m3u8
-#EXTINF:-1, Super Ecran 4 French
-http://192.99.54.242/ca_fr/SUPER_ECRAN_4/index.m3u8
-#EXTINF:-1, Super Ecran 3 French
-http://192.99.54.242/ca_fr/SUPER_ECRAN_3/index.m3u8
-#EXTINF:-1, Super Ecran 2 French
-http://192.99.54.242/ca_fr/SUPER_ECRAN_2/index.m3u8
-#EXTINF:-1, Super Ecran 1 French
-http://192.99.54.242/ca_fr/SUPER_ECRAN_1/index.m3u8
-#EXTINF:-1, Rfm Tv French
-http://192.99.54.242/fr/RFM_TV/index.m3u8
-#EXTINF:-1, Rds French
-http://192.99.54.242/ca_fr/RDS/index.m3u8
-#EXTINF:-1, Rds 2 French
-http://192.99.54.242/ca_fr/RDS_2/index.m3u8
-#EXTINF:-1, Rdi French
-http://192.99.54.242/ca_fr/RDI/index.m3u8
-#EXTINF:-1, Paris Premiere French
-http://192.99.54.242/fr/PARIS_PREMIERE/index.m3u8
-#EXTINF:-1, Paramount Channel French
-http://192.99.54.242/fr/PARAMOUNT_CHANNEL/index.m3u8
-#EXTINF:-1, Ocs Max French
-http://192.99.54.242/fr/OCS_MAX/index.m3u8
-#EXTINF:-1, Ocs Geants French
-http://192.99.54.242/fr/OCS_GEANTS/index.m3u8
-#EXTINF:-1, Ocs City French
-http://192.99.54.242/fr/OCS_CITY/index.m3u8
-#EXTINF:-1, Ocs Choc French
-http://192.99.54.242/fr/OCS_CHOC/index.m3u8
-#EXTINF:-1, National Geographic Wild French
-http://192.99.54.242/fr/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic French
-http://192.99.54.242/fr/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Mtv Dance French
-http://192.99.54.242/fr/MTV_DANCE/index.m3u8
-#EXTINF:-1, Meteo Media
-http://192.99.54.242/ca_fr/METEO_MEDIA/index.m3u8
-#EXTINF:-1, Mcm French
-http://192.99.54.242/fr/MCM/index.m3u8
-#EXTINF:-1, Lcn French
-http://192.99.54.242/ca_fr/LCN/index.m3u8
-#EXTINF:-1, Lci French
-http://192.99.54.242/fr/LCI/index.m3u8
-#EXTINF:-1, Histoire Tv French
-http://192.99.54.242/fr/HISTOIRE/index.m3u8
-#EXTINF:-1, Guill French
-http://192.99.54.242/fr/GUILL/index.m3u8
-#EXTINF:-1, France Info French
-http://192.99.54.242/fr/FRANCE_INFO/index.m3u8
-#EXTINF:-1, France 2 French
-http://192.99.54.242/fr/FRANCE_2/index.m3u8
-#EXTINF:-1, Discovery Science French
-http://192.99.54.242/fr/DISCOVERY_SCIENCE/index.m3u8
-#EXTINF:-1, Discovery Investigation French
-http://192.99.54.242/fr/DISCOVERY_INVESTIGATION/index.m3u8
-#EXTINF:-1, Discovery Channel French
-http://192.99.54.242/fr/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1, Crume Investigation French
-http://192.99.54.242/ca_fr/CRUME_INVESTIGATION/index.m3u8
-#EXTINF:-1, Crime Disctrict French
-http://192.99.54.242/fr/CRIME_DISCTRICT/index.m3u8
-#EXTINF:-1, Cpac French
-http://192.99.54.242/ca_fr/CPAC/index.m3u8
-#EXTINF:-1, Comedy Central French
-http://192.99.54.242/fr/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1, Cnews French
-http://192.99.54.242/fr/CNEWS/index.m3u8
-#EXTINF:-1, Cine Premiere French
-http://192.99.54.242/fr/CINE_PREMIERE/index.m3u8
-#EXTINF:-1, Cine Frisson French
-http://192.99.54.242/fr/CINE_FRISSON/index.m3u8
-#EXTINF:-1, Cine Famiz French
-http://192.99.54.242/fr/CINE_FAMIZ/index.m3u8
-#EXTINF:-1, Cine Emotion French
-http://192.99.54.242/fr/CINE_EMOTION/index.m3u8
-#EXTINF:-1, Cine Club French
-http://192.99.54.242/fr/CINE_CLUB/index.m3u8
-#EXTINF:-1, Cine Classic French
-http://192.99.54.242/fr/CINE_CLASSIC/index.m3u8
-#EXTINF:-1, Cherie 25 French
-http://192.99.54.242/fr/CHERIE_25/index.m3u8
-#EXTINF:-1, Chasse&peche French
-http://192.99.54.242/fr/CHASSE&PECHE/index.m3u8
-#EXTINF:-1, Casa French
-http://192.99.54.242/ca_fr/CASA/index.m3u8
-#EXTINF:-1, Canal Series French
-http://192.99.54.242/fr/CANAL_SERIES/index.m3u8
-#EXTINF:-1, Canal Savoir French
-http://192.99.54.242/ca_fr/CANAL_SAVOIR/index.m3u8
-#EXTINF:-1, Canal J French
-http://192.99.54.242/fr/CANAL_J/index.m3u8
-#EXTINF:-1, Canal Id French
-http://192.99.54.242/ca_fr/CANAL_ID/index.m3u8
-#EXTINF:-1, Canal French
-http://192.99.54.242/fr/CANAL/index.m3u8
-#EXTINF:-1, Canal Family French
-http://192.99.54.242/fr/CANAL_FAMILY/index.m3u8
-#EXTINF:-1, Canal Cinema French
-http://192.99.54.242/fr/CANAL_CINEMA/index.m3u8
-#EXTINF:-1, C Star French
-http://192.99.54.242/fr/C_STAR/index.m3u8
-#EXTINF:-1, Brava French
-http://192.99.54.242/fr/BRAVA/index.m3u8
-#EXTINF:-1, Bfm Tv French
-http://192.99.54.242/ca_fr/BFM_TV/index.m3u8
-#EXTINF:-1, Bet French
-http://192.99.54.242/fr/BET/index.m3u8
-#EXTINF:-1, Aete French
-http://192.99.54.242/ca_fr/AETE/index.m3u8
-#EXTINF:-1, Action French
-http://192.99.54.242/ca_fr/ACTION/index.m3u8
-#EXTINF:-1, 6 Ter French
-http://192.99.54.242/ca_fr/6_TER/index.m3u8
-#EXTINF:-1, 13 Emu Rue French
-http://192.99.54.242/ca_fr/13_EMU_RUE/index.m3u8
-#EXTINF:-1, Willow Xtra
-http://192.99.54.242/spo/WILLOW_XTRA/index.m3u8
-#EXTINF:-1, Willow Tv 2
-http://192.99.54.242/spo/WILLOW_2/index.m3u8
-#EXTINF:-1, Willow Tv
-http://192.99.54.242/spo/WILLOW_TV/index.m3u8
-#EXTINF:-1, Willow Canada
-http://192.99.54.242/spo/WILLOW_CANADA/index.m3u8
-#EXTINF:-1, Supersport Cricket
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_CRICKET/index.m3u8
-#EXTINF:-1, Star Sports Select 2
-http://192.99.54.242/spo/STAR_SPORTS_SELECT_2/index.m3u8
-#EXTINF:-1, Star Sports Select 1
-http://192.99.54.242/spo/STAR_SPORTS_SELECT_1/index.m3u8
-#EXTINF:-1, Star Sports First
-http://192.99.54.242/spo/STAR_SPORTS_FIRST/index.m3u8
-#EXTINF:-1, Star Sports 3
-http://192.99.54.242/spo/STAR_SPORTS_3/index.m3u8
-#EXTINF:-1, Star Sports 2
-http://192.99.54.242/spo/STAR_SPORTS_2/index.m3u8
-#EXTINF:-1, Star Sports 1 Tamil
-http://192.99.54.242/spo/TAMIL/STAR_SPORTS/index.m3u8
-#EXTINF:-1, Star Sports 1 Hindi
-http://192.99.54.242/spo/HINDI/STAR_SPORTS_1/index.m3u8
-#EXTINF:-1, Star Sports 1 English
-http://192.99.54.242/spo/STAR_SPORTS_1/index.m3u8
-#EXTINF:-1, Sony Ten 3
-http://192.99.54.242/spo/SONY_TEN_3/index.m3u8
-#EXTINF:-1, Sony Ten 2
-http://192.99.54.242/spo/SONY_TEN_2/index.m3u8
-#EXTINF:-1, Sony Ten 1
-http://192.99.54.242/spo/SONY_TEN_1/index.m3u8
-#EXTINF:-1, Sony Six
-http://192.99.54.242/spo/SONY_SIX/index.m3u8
-#EXTINF:-1, Sky Sports Cricket
-http://192.99.54.242/spo/SKY_SPORTS_CRICKET/index.m3u8
-#EXTINF:-1, Jio Cricket
-http://192.99.54.242/spo/JIO_CRICKET/index.m3u8
-#EXTINF:-1, Geo Super
-http://192.99.54.242/spo/GEO_SUPER/index.m3u8
-#EXTINF:-1, Dd Sports
-http://192.99.54.242/spo/DD_SPORTS/index.m3u8
-#EXTINF:-1, Astro Cricket
-http://192.99.54.242/spo/ASTRO_CRICKET/index.m3u8
-#EXTINF:-1, Weather Nation
+#EXTINF:-1,Weather Nation
 http://192.99.54.242/us/WEATHER_NATION/index.m3u8
-#EXTINF:-1, Usa Network
+#EXTINF:-1,Usa Network
 http://192.99.54.242/us/USA_NETWORK/index.m3u8
-#EXTINF:-1, Tv Land
+#EXTINF:-1,Tv Land
 http://192.99.54.242/us/TV_LAND/index.m3u8
-#EXTINF:-1, Tru Tv
+#EXTINF:-1,Tru Tv
 http://192.99.54.242/us/TRU_TV/index.m3u8
-#EXTINF:-1, Tnt
+#EXTINF:-1,Tnt
 http://192.99.54.242/us/TNT/index.m3u8
-#EXTINF:-1, Tlc Usa
+#EXTINF:-1,Tlc Usa
 http://192.99.54.242/us/TLC/index.m3u8
-#EXTINF:-1, The Weather Channel
+#EXTINF:-1,The Weather Channel
 http://192.99.54.242/us/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1, The Cw
+#EXTINF:-1,The Cw
 http://192.99.54.242/us/THE_CW/index.m3u8
-#EXTINF:-1, Tbs
+#EXTINF:-1,Tbs
 http://192.99.54.242/us/TBS/index.m3u8
-#EXTINF:-1, Tbd
+#EXTINF:-1,Tbd
 http://192.99.54.242/us/TBD/index.m3u8
-#EXTINF:-1, Starz West
+#EXTINF:-1,Starz West
 http://192.99.54.242/us/STARZ_WEST/index.m3u8
-#EXTINF:-1, Starz Kids And Family
+#EXTINF:-1,Starz Kids And Family
 http://192.99.54.242/us/STARZ_KIDS_AND_FAMILY/index.m3u8
-#EXTINF:-1, Starz In Black
+#EXTINF:-1,Starz In Black
 http://192.99.54.242/us/STARZ_IN_BLACK/index.m3u8
-#EXTINF:-1, Starz Encore West
+#EXTINF:-1,Starz Encore West
 http://192.99.54.242/us/STARZ_ENCORE_WEST/index.m3u8
-#EXTINF:-1, Starz Encore Suspense
+#EXTINF:-1,Starz Encore Suspense
 http://192.99.54.242/us/STARZ_ENCORE_SUSPENSE/index.m3u8
-#EXTINF:-1, Starz Encore Family
+#EXTINF:-1,Starz Encore Family
 http://192.99.54.242/us/STARZ_ENCORE_FAMILY/index.m3u8
-#EXTINF:-1, Starz Encore East
+#EXTINF:-1,Starz Encore East
 http://192.99.54.242/us/STARZ_ENCORE_EAST/index.m3u8
-#EXTINF:-1, Starz Encore Classic
+#EXTINF:-1,Starz Encore Classic
 http://192.99.54.242/us/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1, Starz Encore Black
+#EXTINF:-1,Starz Encore Black
 http://192.99.54.242/us/STARZ_ENCORE_BLACK/index.m3u8
-#EXTINF:-1, Starz Encore Action
+#EXTINF:-1,Starz Encore Action
 http://192.99.54.242/us/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1, Starz Edge
+#EXTINF:-1,Starz Edge
 http://192.99.54.242/us/STARZ_EDGE/index.m3u8
-#EXTINF:-1, Starz East
+#EXTINF:-1,Starz East
 http://192.99.54.242/us/STARZ_EAST/index.m3u8
-#EXTINF:-1, Starz Comedy
+#EXTINF:-1,Starz Comedy
 http://192.99.54.242/us/STARZ_COMEDY/index.m3u8
-#EXTINF:-1, Starz Cinema
+#EXTINF:-1,Starz Cinema
 http://192.99.54.242/us/STARZ_CINEMA/index.m3u8
-#EXTINF:-1, Outdoor Channel
+#EXTINF:-1,Outdoor Channel
 http://192.99.54.242/us/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1, Nbc Washington
+#EXTINF:-1,Nbc Washington
 http://192.99.54.242/us/NBC_WASHINGTON/index.m3u8
-#EXTINF:-1, Nbc Texas
+#EXTINF:-1,Nbc Texas
 http://192.99.54.242/us/NBC_TEXAS/index.m3u8
-#EXTINF:-1, Nbc San Diego
+#EXTINF:-1,Nbc San Diego
 http://192.99.54.242/us/NBC_SAN_DIEGO/index.m3u8
-#EXTINF:-1, Nbc Philadelphia
+#EXTINF:-1,Nbc Philadelphia
 http://192.99.54.242/us/NBC_PHILADELPHIA/index.m3u8
-#EXTINF:-1, Nbc Miami
+#EXTINF:-1,Nbc Miami
 http://192.99.54.242/us/NBC_MIAMI/index.m3u8
-#EXTINF:-1, Nbc Los Angeles
+#EXTINF:-1,Nbc Los Angeles
 http://192.99.54.242/us/NBC_LOS_ANGELES/index.m3u8
-#EXTINF:-1, Nbc Connecticut
+#EXTINF:-1,Nbc Connecticut
 http://192.99.54.242/us/NBC_CONNECTICUT/index.m3u8
-#EXTINF:-1, Nbc
+#EXTINF:-1,Nbc
 http://192.99.54.242/us/NBC/index.m3u8
-#EXTINF:-1, National Geographic Wild Usa
+#EXTINF:-1,National Geographic Wild Usa
 http://192.99.54.242/us/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Usa
+#EXTINF:-1,National Geographic Usa
 http://192.99.54.242/us/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Nasa Tv
+#EXTINF:-1,Nasa Tv
 http://192.99.54.242/us/NASA_TV/index.m3u8
-#EXTINF:-1, My Orlando
+#EXTINF:-1,My Orlando
 http://192.99.54.242/us/MY_ORLANDO/index.m3u8
-#EXTINF:-1, My New Jersey
+#EXTINF:-1,My New Jersey
 http://192.99.54.242/us/MY_NEW_JERSEY/index.m3u8
-#EXTINF:-1, My Minneapolis
+#EXTINF:-1,My Minneapolis
 http://192.99.54.242/us/MY_MINNEAPOLIS/index.m3u8
-#EXTINF:-1, My Los Angeles
+#EXTINF:-1,My Los Angeles
 http://192.99.54.242/us/MY_LOS_ANGELES/index.m3u8
-#EXTINF:-1, My Houston
+#EXTINF:-1,My Houston
 http://192.99.54.242/us/MY_HOUSTON/index.m3u8
-#EXTINF:-1, My Dallas
+#EXTINF:-1,My Dallas
 http://192.99.54.242/us/MY_DALLAS/index.m3u8
-#EXTINF:-1, My Charlotte
+#EXTINF:-1,My Charlotte
 http://192.99.54.242/us/MY_CHARLOTTE/index.m3u8
-#EXTINF:-1, My Arizona
+#EXTINF:-1,My Arizona
 http://192.99.54.242/us/MY_ARIZONA/index.m3u8
-#EXTINF:-1, Msnbc Usa
+#EXTINF:-1,Msnbc Usa
 http://192.99.54.242/us/MSNBC/index.m3u8
-#EXTINF:-1, Investigation Discovery Usa
+#EXTINF:-1,Investigation Discovery Usa
 http://192.99.54.242/us/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1, Hln
+#EXTINF:-1,Hln
 http://192.99.54.242/us/HLN/index.m3u8
-#EXTINF:-1, History Usa
+#EXTINF:-1,History Usa
 http://192.99.54.242/us/HISTORY/index.m3u8
-#EXTINF:-1, History 2
+#EXTINF:-1,History 2
 http://192.99.54.242/us/HISTORY_2/index.m3u8
-#EXTINF:-1, Hgtv Usa
+#EXTINF:-1,Hgtv Usa
 http://192.99.54.242/us/HGTV/index.m3u8
-#EXTINF:-1, Hbo Zone
+#EXTINF:-1,Hbo Zone
 http://192.99.54.242/us/HBO_ZONE/index.m3u8
-#EXTINF:-1, Hbo Signature
+#EXTINF:-1,Hbo Signature
 http://192.99.54.242/us/HBO_SIGNATURE/index.m3u8
-#EXTINF:-1, Hbo Family
+#EXTINF:-1,Hbo Family
 http://192.99.54.242/us/HBO_FAMILY/index.m3u8
-#EXTINF:-1, Hbo Comedy
+#EXTINF:-1,Hbo Comedy
 http://192.99.54.242/us/HBO_COMEDY/index.m3u8
-#EXTINF:-1, Hbo 2
+#EXTINF:-1,Hbo 2
 http://192.99.54.242/us/HBO_2/index.m3u8
-#EXTINF:-1, Hbo 1 West
+#EXTINF:-1,Hbo 1 West
 http://192.99.54.242/us/HBO_1_WEST/index.m3u8
-#EXTINF:-1, Hbo 1 East
+#EXTINF:-1,Hbo 1 East
 http://192.99.54.242/us/HBO_1_EAST/index.m3u8
-#EXTINF:-1, Gsn Usa
+#EXTINF:-1,Gsn Usa
 http://192.99.54.242/us/GSN/index.m3u8
-#EXTINF:-1, Fxx Usa
+#EXTINF:-1,Fxx Usa
 http://192.99.54.242/us/FXX/index.m3u8
-#EXTINF:-1, Fxm Usa
+#EXTINF:-1,Fxm Usa
 http://192.99.54.242/us/FXM/index.m3u8
-#EXTINF:-1, Fx Usa
+#EXTINF:-1,Fx Usa
 http://192.99.54.242/us/FX/index.m3u8
-#EXTINF:-1, Fox Soul
+#EXTINF:-1,Fox Soul
 http://192.99.54.242/us/FOX_SOUL/index.m3u8
-#EXTINF:-1, Fox Q13
+#EXTINF:-1,Fox Q13
 http://192.99.54.242/us/FOX_Q_13/index.m3u8
-#EXTINF:-1, Fox News Now
+#EXTINF:-1,Fox News Now
 http://192.99.54.242/us/FOX_NEWS_NOW/index.m3u8
-#EXTINF:-1, Fox News
+#EXTINF:-1,Fox News
 http://192.99.54.242/us/FOX_NEWS/index.m3u8
-#EXTINF:-1, Fox Life Usa
+#EXTINF:-1,Fox Life Usa
 http://192.99.54.242/us/FOX_LIFE/index.m3u8
-#EXTINF:-1, Fox Business
+#EXTINF:-1,Fox Business
 http://192.99.54.242/us/FOX_BUSINESS/index.m3u8
-#EXTINF:-1, Fox Buffalo
+#EXTINF:-1,Fox Buffalo
 http://192.99.54.242/us/FOX_BUFFALO/index.m3u8
-#EXTINF:-1, Fox 9
+#EXTINF:-1,Fox 9
 http://192.99.54.242/us/FOX_9/index.m3u8
-#EXTINF:-1, Fox 7
+#EXTINF:-1,Fox 7
 http://192.99.54.242/us/FOX_7/index.m3u8
-#EXTINF:-1, Fox 6
+#EXTINF:-1,Fox 6
 http://192.99.54.242/us/FOX_6/index.m3u8
-#EXTINF:-1, Fox 5
+#EXTINF:-1,Fox 5
 http://192.99.54.242/us/FOX_5/index.m3u8
-#EXTINF:-1, Fox 4
+#EXTINF:-1,Fox 4
 http://192.99.54.242/us/FOX_4/index.m3u8
-#EXTINF:-1, Fox 29
+#EXTINF:-1,Fox 29
 http://192.99.54.242/us/FOX_29/index.m3u8
-#EXTINF:-1, Fox 25
+#EXTINF:-1,Fox 25
 http://192.99.54.242/us/FOX_25/index.m3u8
-#EXTINF:-1, Fox 2
+#EXTINF:-1,Fox 2
 http://192.99.54.242/us/FOX_2/index.m3u8
-#EXTINF:-1, Fox 13 Sky Tower
+#EXTINF:-1,Fox 13 Sky Tower
 http://192.99.54.242/us/FOX_13_SKY_TOWER/index.m3u8
-#EXTINF:-1, Fox 13
+#EXTINF:-1,Fox 13
 http://192.99.54.242/us/FOX_13/index.m3u8
-#EXTINF:-1, Fox 11
+#EXTINF:-1,Fox 11
 http://192.99.54.242/us/FOX_11/index.m3u8
-#EXTINF:-1, Fox 10
+#EXTINF:-1,Fox 10
 http://192.99.54.242/us/FOX_10/index.m3u8
-#EXTINF:-1, Food Network Usa
+#EXTINF:-1,Food Network Usa
 http://192.99.54.242/us/FOOD_NETWORK/index.m3u8
-#EXTINF:-1, Fail Army
+#EXTINF:-1,Fail Army
 http://192.99.54.242/us/FAIL_ARMY/index.m3u8
-#EXTINF:-1, English Movies 3 Usa
+#EXTINF:-1,English Movies 3 Usa
 http://192.99.54.242/us/ENGLISH_MOVIES_3/index.m3u8
-#EXTINF:-1, English Movies 2 Usa
+#EXTINF:-1,English Movies 2 Usa
 http://192.99.54.242/us/ENGLISH_MOVIES_2/index.m3u8
-#EXTINF:-1, English Movies 1 Usa
+#EXTINF:-1,English Movies 1 Usa
 http://192.99.54.242/us/ENGLISH_MOVIES_1/index.m3u8
-#EXTINF:-1, E! Usa
+#EXTINF:-1,E! Usa
 http://192.99.54.242/us/E!/index.m3u8
-#EXTINF:-1, Discovery Velocity Usa
+#EXTINF:-1,Discovery Velocity Usa
 http://192.99.54.242/us/DISCOVERY_VELOCITY/index.m3u8
-#EXTINF:-1, Discovery Science Usa
+#EXTINF:-1,Discovery Science Usa
 http://192.99.54.242/us/DISCOVERY_SCIENCE/index.m3u8
-#EXTINF:-1, Discovery Life Usa
+#EXTINF:-1,Discovery Life Usa
 http://192.99.54.242/us/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1, Discovery Family Usa
+#EXTINF:-1,Discovery Family Usa
 http://192.99.54.242/us/DISCOVERY_FAMILY/index.m3u8
-#EXTINF:-1, Discovery Channel Usa
+#EXTINF:-1,Discovery Channel Usa
 http://192.99.54.242/us/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1, Cw Seed
+#EXTINF:-1,Cw Seed
 http://192.99.54.242/us/CW_SEED/index.m3u8
-#EXTINF:-1, Csn Washington Plus
+#EXTINF:-1,Csn Washington Plus
 http://192.99.54.242/us/CSN_WASHINGTON_PLUS/index.m3u8
-#EXTINF:-1, Csn Washington
+#EXTINF:-1,Csn Washington
 http://192.99.54.242/us/CSN_WASHINGTON/index.m3u8
-#EXTINF:-1, Csn Philadelphia
+#EXTINF:-1,Csn Philadelphia
 http://192.99.54.242/us/CSN_PHILADELPHIA/index.m3u8
-#EXTINF:-1, Csn Chicago Plus
+#EXTINF:-1,Csn Chicago Plus
 http://192.99.54.242/us/CSN_CHICAGO_PLUS/index.m3u8
-#EXTINF:-1, Csn Chicago
+#EXTINF:-1,Csn Chicago
 http://192.99.54.242/us/CSN_CHICAGO/index.m3u8
-#EXTINF:-1, Csn Boston
+#EXTINF:-1,Csn Boston
 http://192.99.54.242/us/CSN_BOSTON/index.m3u8
-#EXTINF:-1, Cooking Channel
+#EXTINF:-1,Cooking Channel
 http://192.99.54.242/us/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1, Comet Tv
+#EXTINF:-1,Comet Tv
 http://192.99.54.242/us/COMET_TV/index.m3u8
-#EXTINF:-1, Cnn
+#EXTINF:-1,Cnn
 http://192.99.54.242/us/CNN/index.m3u8
-#EXTINF:-1, Cnbc World
+#EXTINF:-1,Cnbc World
 http://192.99.54.242/us/CNBC_WORLD/index.m3u8
-#EXTINF:-1, Cnbc Usa
+#EXTINF:-1,Cnbc Usa
 http://192.99.54.242/us/CNBC/index.m3u8
-#EXTINF:-1, Charge!
+#EXTINF:-1,Charge!
 http://192.99.54.242/us/CHARGE!/index.m3u8
-#EXTINF:-1, Cbsn
+#EXTINF:-1,Cbsn
 http://192.99.54.242/us/CBSN/index.m3u8
-#EXTINF:-1, Cbs West Palm Beach
+#EXTINF:-1,Cbs West Palm Beach
 http://192.99.54.242/us/CBS_WEST_PALM_BEACH/index.m3u8
-#EXTINF:-1, Cbs Usa
+#EXTINF:-1,Cbs Usa
 http://192.99.54.242/us/CBS/index.m3u8
-#EXTINF:-1, Cbs Seattle
+#EXTINF:-1,Cbs Seattle
 http://192.99.54.242/us/CBS_SEATTLE/index.m3u8
-#EXTINF:-1, Cbs Philadelphia
+#EXTINF:-1,Cbs Philadelphia
 http://192.99.54.242/us/CBS_PHILADELPHIA/index.m3u8
-#EXTINF:-1, Cbs Milwaukee
+#EXTINF:-1,Cbs Milwaukee
 http://192.99.54.242/us/CBS_MILWAUKEE/index.m3u8
-#EXTINF:-1, Cbs Miami
+#EXTINF:-1,Cbs Miami
 http://192.99.54.242/us/CBS_MIAMI/index.m3u8
-#EXTINF:-1, Cbs Louisville
+#EXTINF:-1,Cbs Louisville
 http://192.99.54.242/us/CBS_LOUISVILLE/index.m3u8
-#EXTINF:-1, Cbs Harrisburg
+#EXTINF:-1,Cbs Harrisburg
 http://192.99.54.242/us/CBS_HARRISBURG/index.m3u8
-#EXTINF:-1, Cbs Fort Worth
+#EXTINF:-1,Cbs Fort Worth
 http://192.99.54.242/us/CBS_FORT_WORTH/index.m3u8
-#EXTINF:-1, Cbs Drama
+#EXTINF:-1,Cbs Drama
 http://192.99.54.242/us/CBS_DRAMA/index.m3u8
-#EXTINF:-1, Cbs Columbus
+#EXTINF:-1,Cbs Columbus
 http://192.99.54.242/us/CBS_COLUMBUS/index.m3u8
-#EXTINF:-1, Cbs Cansas City
+#EXTINF:-1,Cbs Cansas City
 http://192.99.54.242/us/CBS_CANSAS_CITY/index.m3u8
-#EXTINF:-1, Cbs California
+#EXTINF:-1,Cbs California
 http://192.99.54.242/us/CBS_CALIFORNIA/index.m3u8
-#EXTINF:-1, Cbs Atlanta
+#EXTINF:-1,Cbs Atlanta
 http://192.99.54.242/us/CBS_ATLANTA/index.m3u8
-#EXTINF:-1, Cbs Arizona
+#EXTINF:-1,Cbs Arizona
 http://192.99.54.242/us/CBS_ARIZONA/index.m3u8
-#EXTINF:-1, Cbc
+#EXTINF:-1,Cbc
 http://192.99.54.242/us/CBC/index.m3u8
-#EXTINF:-1, C-span 3
+#EXTINF:-1,C-span 3
 http://192.99.54.242/us/C-SPAN_3/index.m3u8
-#EXTINF:-1, C-span 2
+#EXTINF:-1,C-span 2
 http://192.99.54.242/us/C-SPAN_2/index.m3u8
-#EXTINF:-1, C-span 1
+#EXTINF:-1,C-span 1
 http://192.99.54.242/us/C-SPAN_1/index.m3u8
-#EXTINF:-1, Bravo Usa
+#EXTINF:-1,Bravo Usa
 http://192.99.54.242/us/BRAVO/index.m3u8
-#EXTINF:-1, Bet Usa
+#EXTINF:-1,Bet Usa
 http://192.99.54.242/us/BET/index.m3u8
-#EXTINF:-1, Bet Her
+#EXTINF:-1,Bet Her
 http://192.99.54.242/us/BET_HER/index.m3u8
-#EXTINF:-1, Bbc America
+#EXTINF:-1,Bbc America
 http://192.99.54.242/us/BBC_AMERICA/index.m3u8
-#EXTINF:-1, Animal Planet Usa
+#EXTINF:-1,Animal Planet Usa
 http://192.99.54.242/us/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1, Amc Usa
+#EXTINF:-1,Amc Usa
 http://192.99.54.242/us/AMC/index.m3u8
-#EXTINF:-1, Afv
+#EXTINF:-1,Afv
 http://192.99.54.242/us/AFV/index.m3u8
-#EXTINF:-1, Accu Weather
+#EXTINF:-1,Accu Weather
 http://192.99.54.242/us/ACCU_WEATHER/index.m3u8
-#EXTINF:-1, Abc Washington
+#EXTINF:-1,Abc Washington
 http://192.99.54.242/us/ABC_WASHINGTON/index.m3u8
-#EXTINF:-1, Abc Usa
+#EXTINF:-1,Abc Usa
 http://192.99.54.242/us/ABC/index.m3u8
-#EXTINF:-1, Abc Texas
+#EXTINF:-1,Abc Texas
 http://192.99.54.242/us/ABC_TEXAS/index.m3u8
-#EXTINF:-1, Abc Tampa
+#EXTINF:-1,Abc Tampa
 http://192.99.54.242/us/ABC_TAMPA/index.m3u8
-#EXTINF:-1, Abc St Louis
+#EXTINF:-1,Abc St Louis
 http://192.99.54.242/us/ABC_ST_LOUIS/index.m3u8
-#EXTINF:-1, Abc Spark
+#EXTINF:-1,Abc Spark
 http://192.99.54.242/us/ABC_SPARK/index.m3u8
-#EXTINF:-1, Abc Seatle
+#EXTINF:-1,Abc Seatle
 http://192.99.54.242/us/ABC_SEATLE/index.m3u8
-#EXTINF:-1, Abc San Francisco
+#EXTINF:-1,Abc San Francisco
 http://192.99.54.242/us/ABC_SAN_FRANCISCO/index.m3u8
-#EXTINF:-1, Abc San Antonio
+#EXTINF:-1,Abc San Antonio
 http://192.99.54.242/us/ABC_SAN_ANTONIO/index.m3u8
-#EXTINF:-1, Abc Saltlake City
+#EXTINF:-1,Abc Saltlake City
 http://192.99.54.242/us/ABC_SALTLAKE_CITY/index.m3u8
-#EXTINF:-1, Abc Sacramento
+#EXTINF:-1,Abc Sacramento
 http://192.99.54.242/us/ABC_SACRAMENTO/index.m3u8
-#EXTINF:-1, Abc Raleigh Durham
+#EXTINF:-1,Abc Raleigh Durham
 http://192.99.54.242/us/ABC_RALEIGH_DURHAM/index.m3u8
-#EXTINF:-1, Abc Portland
+#EXTINF:-1,Abc Portland
 http://192.99.54.242/us/ABC_PORTLAND/index.m3u8
-#EXTINF:-1, Abc Pittsburg
+#EXTINF:-1,Abc Pittsburg
 http://192.99.54.242/us/ABC_PITTSBURG/index.m3u8
-#EXTINF:-1, Abc Philadelphia
+#EXTINF:-1,Abc Philadelphia
 http://192.99.54.242/us/ABC_PHILADELPHIA/index.m3u8
-#EXTINF:-1, Abc Orlando
+#EXTINF:-1,Abc Orlando
 http://192.99.54.242/us/ABC_ORLANDO/index.m3u8
-#EXTINF:-1, Abc Ohio
+#EXTINF:-1,Abc Ohio
 http://192.99.54.242/us/ABC_OHIO/index.m3u8
-#EXTINF:-1, Abc Newyork
+#EXTINF:-1,Abc Newyork
 http://192.99.54.242/us/ABC_NEWYORK/index.m3u8
-#EXTINF:-1, Abc News
+#EXTINF:-1,Abc News
 http://192.99.54.242/us/ABC_NEWS/index.m3u8
-#EXTINF:-1, Abc Minnesota
+#EXTINF:-1,Abc Minnesota
 http://192.99.54.242/us/ABC_MINNESOTA_HD/index.m3u8
-#EXTINF:-1, Abc Milwaukee
+#EXTINF:-1,Abc Milwaukee
 http://192.99.54.242/us/ABC_MILWAUKEE/index.m3u8
-#EXTINF:-1, Abc Miami
+#EXTINF:-1,Abc Miami
 http://192.99.54.242/us/ABC_MIAMI/index.m3u8
-#EXTINF:-1, Abc Los Angeles
+#EXTINF:-1,Abc Los Angeles
 http://192.99.54.242/us/ABC_LOS_ANGELES/index.m3u8
-#EXTINF:-1, Abc Kansas City
+#EXTINF:-1,Abc Kansas City
 http://192.99.54.242/us/ABC_KANSAS_CITY/index.m3u8
-#EXTINF:-1, Abc Indiana
+#EXTINF:-1,Abc Indiana
 http://192.99.54.242/us/ABC_INDIANA/index.m3u8
-#EXTINF:-1, Abc Houston
+#EXTINF:-1,Abc Houston
 http://192.99.54.242/us/ABC_HOUSTON/index.m3u8
-#EXTINF:-1, Abc Fresno
+#EXTINF:-1,Abc Fresno
 http://192.99.54.242/us/ABC_FRESNO/index.m3u8
-#EXTINF:-1, Abc Fhoenix
+#EXTINF:-1,Abc Fhoenix
 http://192.99.54.242/us/ABC_FHOENIX/index.m3u8
-#EXTINF:-1, Abc Family
+#EXTINF:-1,Abc Family
 http://192.99.54.242/us/ABC_FAMILY/index.m3u8
-#EXTINF:-1, Abc Durham
+#EXTINF:-1,Abc Durham
 http://192.99.54.242/us/ABC_DURHAM/index.m3u8
-#EXTINF:-1, Abc Detroit
+#EXTINF:-1,Abc Detroit
 http://192.99.54.242/us/ABC_DETROIT/index.m3u8
-#EXTINF:-1, Abc Dallas
+#EXTINF:-1,Abc Dallas
 http://192.99.54.242/us/ABC_DALLAS/index.m3u8
-#EXTINF:-1, Abc Connecticut
+#EXTINF:-1,Abc Connecticut
 http://192.99.54.242/us/ABC_CONNECTICUT/index.m3u8
-#EXTINF:-1, Abc Columbus
+#EXTINF:-1,Abc Columbus
 http://192.99.54.242/us/ABC_COLUMBUS/index.m3u8
-#EXTINF:-1, Abc Cleveland
+#EXTINF:-1,Abc Cleveland
 http://192.99.54.242/us/ABC_CLEVELAND/index.m3u8
-#EXTINF:-1, Abc Chicago
+#EXTINF:-1,Abc Chicago
 http://192.99.54.242/us/ABC_CHICAGO/index.m3u8
-#EXTINF:-1, Abc Charlotte
+#EXTINF:-1,Abc Charlotte
 http://192.99.54.242/us/ABC_CHARLOTTE/index.m3u8
-#EXTINF:-1, Abc California
+#EXTINF:-1,Abc California
 http://192.99.54.242/us/ABC_CALIFORNIA/index.m3u8
-#EXTINF:-1, Abc Buffalo
+#EXTINF:-1,Abc Buffalo
 http://192.99.54.242/us/ABC_BUFFALO/index.m3u8
-#EXTINF:-1, Abc Boston
+#EXTINF:-1,Abc Boston
 http://192.99.54.242/us/ABC_BOSTON/index.m3u8
-#EXTINF:-1, Abc Baltimore
+#EXTINF:-1,Abc Baltimore
 http://192.99.54.242/us/ABC_BALTIMORE/index.m3u8
-#EXTINF:-1, Abc Atlanta
+#EXTINF:-1,Abc Atlanta
 http://192.99.54.242/us/ABC_ATLANTA/index.m3u8
-#EXTINF:-1, A&e Usa
+#EXTINF:-1,A&e Usa
 http://192.99.54.242/us/A&E/index.m3u8
-#EXTINF:-1, Yesterday
+#EXTINF:-1,Yesterday
 http://192.99.54.242/uk/YESTERDAY/index.m3u8
-#EXTINF:-1, Tlc Uk
+#EXTINF:-1,Tlc Uk
 http://192.99.54.242/uk/TLC/index.m3u8
-#EXTINF:-1, Tcm Uk
+#EXTINF:-1,Tcm Uk
 http://192.99.54.242/uk/TCM/index.m3u8
-#EXTINF:-1, Starz Uk
+#EXTINF:-1,Starz Uk
 http://192.99.54.242/uk/STARZ/index.m3u8
-#EXTINF:-1, Sky Two
+#EXTINF:-1,Sky Two
 http://192.99.54.242/uk/SKY_TWO/index.m3u8
-#EXTINF:-1, Sky One
+#EXTINF:-1,Sky One
 http://192.99.54.242/uk/SKY_ONE/index.m3u8
-#EXTINF:-1, Sky Living
+#EXTINF:-1,Sky Living
 http://192.99.54.242/uk/SKY_LIVING/index.m3u8
-#EXTINF:-1, Sky Cinema Thriller
+#EXTINF:-1,Sky Cinema Thriller
 http://192.99.54.242/uk/SKY_CINEMA_THRILLER/index.m3u8
-#EXTINF:-1, Sky Cinema Showcase
+#EXTINF:-1,Sky Cinema Showcase
 http://192.99.54.242/uk/SKY_CINEMA_SHOWCASE/index.m3u8
-#EXTINF:-1, Sky Cinema Select
+#EXTINF:-1,Sky Cinema Select
 http://192.99.54.242/uk/SKY_CINEMA_SELECT/index.m3u8
-#EXTINF:-1, Sky Cinema Sci-fi
+#EXTINF:-1,Sky Cinema Sci-fi
 http://192.99.54.242/uk/SKY_CINEMA_SCI-FI/index.m3u8
-#EXTINF:-1, Sky Cinema Premiere
+#EXTINF:-1,Sky Cinema Premiere
 http://192.99.54.242/uk/SKY_CINEMA_PREMIERE/index.m3u8
-#EXTINF:-1, Sky Cinema Modern Greats
+#EXTINF:-1,Sky Cinema Modern Greats
 http://192.99.54.242/uk/SKY_CINEMA_MODERN_GREATS/index.m3u8
-#EXTINF:-1, Sky Cinema Family
+#EXTINF:-1,Sky Cinema Family
 http://192.99.54.242/uk/SKY_CINEMA_FAMILY/index.m3u8
-#EXTINF:-1, Sky Cinema Drama
+#EXTINF:-1,Sky Cinema Drama
 http://192.99.54.242/uk/SKY_CINEMA_DRAMA/index.m3u8
-#EXTINF:-1, Sky Cinema Disney
+#EXTINF:-1,Sky Cinema Disney
 http://192.99.54.242/uk/SKY_CINEMA_DISNEY/index.m3u8
-#EXTINF:-1, Sky Cinema Crime & Thriller
+#EXTINF:-1,Sky Cinema Crime & Thriller
 http://192.99.54.242/uk/SKY_CINEMA_CRIME_&_THRILLER/index.m3u8
-#EXTINF:-1, Sky Cinema Comedy
+#EXTINF:-1,Sky Cinema Comedy
 http://192.99.54.242/uk/SKY_CINEMA_COMEDY/index.m3u8
-#EXTINF:-1, Sky Cinema Action
+#EXTINF:-1,Sky Cinema Action
 http://192.99.54.242/uk/SKY_CINEMA_ACTION/index.m3u8
-#EXTINF:-1, Sky Atlantic
+#EXTINF:-1,Sky Atlantic
 http://192.99.54.242/uk/SKY_ATLANTIC/index.m3u8
-#EXTINF:-1, Sky Arts
+#EXTINF:-1,Sky Arts
 http://192.99.54.242/uk/SKY_ARTS/index.m3u8
-#EXTINF:-1, National Geographic Wild Uk
+#EXTINF:-1,National Geographic Wild Uk
 http://192.99.54.242/uk/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Uk
+#EXTINF:-1,National Geographic Uk
 http://192.99.54.242/uk/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Itv Be
+#EXTINF:-1,Itv Be
 http://192.99.54.242/uk/ITV_BE/index.m3u8
-#EXTINF:-1, Itv 4
+#EXTINF:-1,Itv 4
 http://192.99.54.242/uk/ITV_4/index.m3u8
-#EXTINF:-1, Itv 3
+#EXTINF:-1,Itv 3
 http://192.99.54.242/uk/ITV_3/index.m3u8
-#EXTINF:-1, Itv 2
+#EXTINF:-1,Itv 2
 http://192.99.54.242/uk/ITV_2/index.m3u8
-#EXTINF:-1, Itv 1
+#EXTINF:-1,Itv 1
 http://192.99.54.242/uk/ITV_1/index.m3u8
-#EXTINF:-1, Investigation Discovery Uk
+#EXTINF:-1,Investigation Discovery Uk
 http://192.99.54.242/uk/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1, History Uk
+#EXTINF:-1,History Uk
 http://192.99.54.242/uk/HISTORY/index.m3u8
-#EXTINF:-1, Hgtv Uk
+#EXTINF:-1,Hgtv Uk
 http://192.99.54.242/uk/HGTV/index.m3u8
-#EXTINF:-1, Food Network Uk
+#EXTINF:-1,Food Network Uk
 http://192.99.54.242/uk/FOOD_NETWORK/index.m3u8
-#EXTINF:-1, English Movies 3 Uk
+#EXTINF:-1,English Movies 3 Uk
 http://192.99.54.242/uk/ENGLISH_MOVIES_3/index.m3u8
-#EXTINF:-1, English Movies 2 Uk
+#EXTINF:-1,English Movies 2 Uk
 http://192.99.54.242/uk/ENGLISH_MOVIES_2/index.m3u8
-#EXTINF:-1, English Movies 1 Uk
+#EXTINF:-1,English Movies 1 Uk
 http://192.99.54.242/uk/ENGLISH_MOVIES_1/index.m3u8
-#EXTINF:-1, E! Uk
+#EXTINF:-1,E! Uk
 http://192.99.54.242/uk/E!/index.m3u8
-#EXTINF:-1, Discovery Turbo Uk
+#EXTINF:-1,Discovery Turbo Uk
 http://192.99.54.242/uk/DISCOVERY_TURBO/index.m3u8
-#EXTINF:-1, Discovery Science Uk
+#EXTINF:-1,Discovery Science Uk
 http://192.99.54.242/uk/DISCOVERY_SCIENCE/index.m3u8
-#EXTINF:-1, Discovery Channel Uk
+#EXTINF:-1,Discovery Channel Uk
 http://192.99.54.242/uk/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1, Comedy Central Uk
+#EXTINF:-1,Comedy Central Uk
 http://192.99.54.242/uk/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1, Bet Uk
+#EXTINF:-1,Bet Uk
 http://192.99.54.242/uk/BET/index.m3u8
-#EXTINF:-1, Bbc Entertainment
+#EXTINF:-1,Bbc Entertainment
 http://192.99.54.242/uk/BBC_ENTERTAINMENT/index.m3u8
-#EXTINF:-1, Bbc 3
+#EXTINF:-1,Bbc 3
 http://192.99.54.242/uk/BBC_3/index.m3u8
-#EXTINF:-1, Bbc 2
+#EXTINF:-1,Bbc 2
 http://192.99.54.242/uk/BBC_2/index.m3u8
-#EXTINF:-1, Bbc 1
+#EXTINF:-1,Bbc 1
 http://192.99.54.242/uk/BBC_1/index.m3u8
-#EXTINF:-1, Zee Punjabi News
-http://192.99.54.242/ind_punj/ZEE_PUNJABI_NEWS/index.m3u8
-#EXTINF:-1, Zee Punjabi Music
-http://192.99.54.242/ind_punj/ZEE_PUNJABI_MUSIC/index.m3u8
-#EXTINF:-1, Zee Punjabi
-http://192.99.54.242/ind_punj/ZEE_PUNJABI/index.m3u8
-#EXTINF:-1, Vision Punjab Tv
-http://192.99.54.242/ind_punj/VISION_PUNJAB_TV/index.m3u8
-#EXTINF:-1, Tv84
-http://192.99.54.242/ind_hin/TV84/index.m3u8
-#EXTINF:-1, Tv Punjab
-http://192.99.54.242/ind_punj/TV_PUNJAB/index.m3u8
-#EXTINF:-1, Tatasky De Rang
-http://192.99.54.242/ind_punj/TATASKY_DE_RANG/index.m3u8
-#EXTINF:-1, Sikh Channel
-http://192.99.54.242/ind_punj/SIKH_CHANNEL/index.m3u8
-#EXTINF:-1, Punjabi Zindabad
-http://192.99.54.242/ind_punj/PUNJABI_ZINDABAD/index.m3u8
-#EXTINF:-1, Punjabi Movies 6
-http://192.99.54.242/ind_punj/PUNJABI_MOVIES_6/index.m3u8
-#EXTINF:-1, Punjabi Movies 5
-http://192.99.54.242/ind_punj/PUNJABI_MOVIES_5/index.m3u8
-#EXTINF:-1, Punjabi Movies 4
-http://192.99.54.242/ind_punj/PUNJABI_MOVIES_4/index.m3u8
-#EXTINF:-1, Punjabi Movies 3
-http://192.99.54.242/ind_punj/PUNJABI_MOVIES_3/index.m3u8
-#EXTINF:-1, Punjabi Movies 2
-http://192.99.54.242/ind_punj/PUNJABI_MOVIES_2/index.m3u8
-#EXTINF:-1, Punjabi Movies 1
-http://192.99.54.242/ind_punj/PUNJABI_MOVIES_1/index.m3u8
-#EXTINF:-1, Punjabi Active
-http://192.99.54.242/ind_punj/PUNJABI_ACTIVE/index.m3u8
-#EXTINF:-1, Ptv Pardesi
-http://192.99.54.242/ind_punj/PTV_PARDESI/index.m3u8
-#EXTINF:-1, Ptn 24
-http://192.99.54.242/ind_punj/PTN_24/index.m3u8
-#EXTINF:-1, Ptc Simran
-http://192.99.54.242/ind_punj/PTC_SIMRAN/index.m3u8
-#EXTINF:-1, Ptc Punjabi Gold
-http://192.99.54.242/ind_punj/PTC_PUNJABI_GOLD/index.m3u8
-#EXTINF:-1, Ptc Punjabi
-http://192.99.54.242/ind_punj/PTC_PUNJABI/index.m3u8
-#EXTINF:-1, Ptc News
-http://192.99.54.242/ind_punj/PTC_NEWS/index.m3u8
-#EXTINF:-1, Ptc Music
-http://192.99.54.242/ind_punj/PTC_MUSIC/index.m3u8
-#EXTINF:-1, Ptc Dhol
-http://192.99.54.242/ind_punj/PTC_DHOL/index.m3u8
-#EXTINF:-1, Ptc Chakde
-http://192.99.54.242/ind_punj/PTC_CHAKDE/index.m3u8
-#EXTINF:-1, Pitaara Tv
-http://192.99.54.242/ind_punj/PITAARA_TV/index.m3u8
-#EXTINF:-1, Pitaara International
-http://192.99.54.242/ind_punj/PITAARA_INTERNATIONAL/index.m3u8
-#EXTINF:-1, Pbn Music
-http://192.99.54.242/ind_punj/PBN_MUSIC/index.m3u8
-#EXTINF:-1, Pardesi Tv
-http://192.99.54.242/ind_punj/PARDESI_TV/index.m3u8
-#EXTINF:-1, Nagara Tv
-http://192.99.54.242/ind_punj/NAGARA_TV/index.m3u8
-#EXTINF:-1, Mh One News
-http://192.99.54.242/ind_punj/MH_ONE_NEWS/index.m3u8
-#EXTINF:-1, Mh One Music
-http://192.99.54.242/ind_punj/MH_ONE_MUSIC/index.m3u8
-#EXTINF:-1, Mehfil Tv
-http://192.99.54.242/ind_punj/MEHFIL_TV/index.m3u8
-#EXTINF:-1, Manoranjan Movies
-http://192.99.54.242/ind_punj/MANORANJAN_MOVIES/index.m3u8
-#EXTINF:-1, Maha Punjabi
-http://192.99.54.242/ind_punj/MAHA_PUNJABI/index.m3u8
-#EXTINF:-1, Live Gurbani
-http://192.99.54.242/ind_punj/LIVE_GURBANI/index.m3u8
-#EXTINF:-1, Khalistan Tv
-http://192.99.54.242/ind_punj/KHALISTAN_TV/index.m3u8
-#EXTINF:-1, Jus Punjabi
-http://192.99.54.242/ind_punj/JUS_PUNJABI/index.m3u8
-#EXTINF:-1, Jus One
-http://192.99.54.242/ind_punj/JUS_ONE/index.m3u8
-#EXTINF:-1, Jhanjar Punjabi
-http://192.99.54.242/ind_punj/JHANJAR_PUNJABI/index.m3u8
-#EXTINF:-1, Jhanjar Music
-http://192.99.54.242/ind_punj/JHANJAR_MUSIC/index.m3u8
-#EXTINF:-1, Janta Tv
-http://192.99.54.242/ind_punj/JANTA_TV/index.m3u8
-#EXTINF:-1, Gurdwara Sahib
-http://192.99.54.242/ind_punj/GURDWARA_SAHIB/index.m3u8
-#EXTINF:-1, Garv Punjab
-http://192.99.54.242/ind_punj/GARV_PUNJAB/index.m3u8
-#EXTINF:-1, Garv Gurbani
-http://192.99.54.242/ind_punj/GARV_GURBANI/index.m3u8
-#EXTINF:-1, Fastway News
-http://192.99.54.242/ind_punj/FASTWAY_NEWS/index.m3u8
-#EXTINF:-1, Desi Plus
-http://192.99.54.242/ind_punj/DESI_PLUS/index.m3u8
-#EXTINF:-1, Desi Channel
-http://192.99.54.242/ind_punj/DESI_CHANNEL/index.m3u8
-#EXTINF:-1, Dd Punjabi
-http://192.99.54.242/ind_punj/DD_PUNJABI/index.m3u8
-#EXTINF:-1, Daily Gurbani Tv
-http://192.99.54.242/ind_punj/DAILY_GURBANI_TV/index.m3u8
-#EXTINF:-1, Cine Voice
-http://192.99.54.242/ind_punj/CINE_VOICE/index.m3u8
-#EXTINF:-1, Chardikla Time Tv
-http://192.99.54.242/ind_punj/CHARDIKLA_TIME_TV/index.m3u8
-#EXTINF:-1, Channel Y
-http://192.99.54.242/ind_punj/CHANNEL_Y/index.m3u8
-#EXTINF:-1, Boogle Bollywood
-http://192.99.54.242/ind_punj/BOOGLE_BOLLYWOOD/index.m3u8
-#EXTINF:-1, Balle Balle
-http://192.99.54.242/ind_punj/BALLE_BALLE_TV/index.m3u8
-#EXTINF:-1, Aone Tv
-http://192.99.54.242/ind_punj/AONE_TV/index.m3u8
-#EXTINF:-1, Amritt Sagar
-http://192.99.54.242/ind_punj/AMRITT_SAGAR/index.m3u8
-#EXTINF:-1, Amar Ujala
-http://192.99.54.242/ind_punj/AMAR_UJALA/index.m3u8
-#EXTINF:-1, Alpha Etc Punjabi
-http://192.99.54.242/ind_punj/ALPHA_ETC_PUNJABI/index.m3u8
-#EXTINF:-1, Akaal India
-http://192.99.54.242/ind_punj/AKAAL/index.m3u8
-#EXTINF:-1, Abp Sanjha
-http://192.99.54.242/ind_punj/ABP_SANJHA/index.m3u8
-#EXTINF:-1, 5aab Tv
-http://192.99.54.242/ind_punj/5_AAB_TV/index.m3u8
-#EXTINF:-1, 9x Tashan
-http://192.99.54.242/ind_punj/9X_TASHAN/index.m3u8
-#EXTINF:-1, Yes Network
-http://192.99.54.242/spo/YES_NETWORK/index.m3u8
-#EXTINF:-1, Wwe
-http://192.99.54.242/spo/WWE/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 9 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_9_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 8 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_8_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 7 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_7_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 6 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_6_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 5 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_5_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 4 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_4_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 3 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_3_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 2 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_2_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 2
-http://192.99.54.242/spo/UFC_FIGHT_PASS_2/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 10 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_10_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 1 Live During Events
-http://192.99.54.242/spo/UFC_FIGHT_PASS_1_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Ufc Fight Pass 1
-http://192.99.54.242/spo/UFC_FIGHT_PASS_1/index.m3u8
-#EXTINF:-1, Tva Sports French
-http://192.99.54.242/spo/TVA_SPORTS/index.m3u8
-#EXTINF:-1, Tsn 5
-http://192.99.54.242/spo/TSN_5/index.m3u8
-#EXTINF:-1, Tsn 4
-http://192.99.54.242/spo/TSN_4/index.m3u8
-#EXTINF:-1, Tsn 3
-http://192.99.54.242/spo/TSN_3/index.m3u8
-#EXTINF:-1, Tsn 2
-http://192.99.54.242/spo/TSN_2/index.m3u8
-#EXTINF:-1, Tsn 1
-http://192.99.54.242/spo/TSN_1/index.m3u8
-#EXTINF:-1, Trend Tv
-http://192.99.54.242/spo/TREND_TV/index.m3u8
-#EXTINF:-1, Supersport Variety 4
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_VARIETY_4/index.m3u8
-#EXTINF:-1, Supersport Variety 3
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_VARIETY_3/index.m3u8
-#EXTINF:-1, Supersport Variety 2
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_VARIETY_2/index.m3u8
-#EXTINF:-1, Supersport Variety 1
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_VARIETY_1/index.m3u8
-#EXTINF:-1, Supersport Tennis
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_TENNIS/index.m3u8
-#EXTINF:-1, Supersport Rugby
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_RUGBY/index.m3u8
-#EXTINF:-1, Supersport Psl
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_PSL/index.m3u8
-#EXTINF:-1, Supersport Premier League
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_PREMIER_LEAGUE/index.m3u8
-#EXTINF:-1, Supersport Motorsport
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_MOTORSPORT/index.m3u8
-#EXTINF:-1, Supersport Maximo
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_MAXIMO/index.m3u8
-#EXTINF:-1, Supersport La Liga
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_LA_LIGA/index.m3u8
-#EXTINF:-1, Supersport Grandstand
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_GRANDSTAND/index.m3u8
-#EXTINF:-1, Supersport Golf
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_GOLF/index.m3u8
-#EXTINF:-1, Supersport Football
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_FOOTBALL/index.m3u8
-#EXTINF:-1, Supersport Blitz
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_BLITZ/index.m3u8
-#EXTINF:-1, Supersport Action
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_ACTION/index.m3u8
-#EXTINF:-1, Sportsnet World
-http://192.99.54.242/spo/SPORTSNET_WORLD/index.m3u8
-#EXTINF:-1, Sportsnet West
-http://192.99.54.242/spo/SPORTSNET_WEST/index.m3u8
-#EXTINF:-1, Sportsnet Pacific
-http://192.99.54.242/spo/SPORTSNET_PACIFIC/index.m3u8
-#EXTINF:-1, Sportsnet Ontario
-http://192.99.54.242/spo/SPORTSNET_ONTARIO/index.m3u8
-#EXTINF:-1, Sportsnet East
-http://192.99.54.242/spo/SPORTSNET_EAST/index.m3u8
-#EXTINF:-1, Sportsnet 360
-http://192.99.54.242/spo/SPORTSNET_360/index.m3u8
-#EXTINF:-1, Sportsnet 1
-http://192.99.54.242/spo/SPORTSNET_1/index.m3u8
-#EXTINF:-1, Sky Sports Racing
-http://192.99.54.242/spo/SKY_SPORTS_RACING/index.m3u8
-#EXTINF:-1, Sky Sports Premiere League
-http://192.99.54.242/spo/SKY_SPORTS_PREMIERE_LEAGUE/index.m3u8
-#EXTINF:-1, Sky Sports Nfl
-http://192.99.54.242/spo/SKY_SPORTS_NFL/index.m3u8
-#EXTINF:-1, Sky Sports News
-http://192.99.54.242/spo/SKY_SPORTS_NEWS/index.m3u8
-#EXTINF:-1, Sky Sports Mix
-http://192.99.54.242/spo/SKY_SPORTS_MIX/index.m3u8
-#EXTINF:-1, Sky Sports Main Event
-http://192.99.54.242/spo/SKY_SPORTS_MAIN_EVENT/index.m3u8
-#EXTINF:-1, Sky Sports Golf
-http://192.99.54.242/spo/SKY_SPORTS_GOLF/index.m3u8
-#EXTINF:-1, Sky Sports Football
-http://192.99.54.242/spo/SKY_SPORTS_FOOTBALL/index.m3u8
-#EXTINF:-1, Sky Sports F1
-http://192.99.54.242/spo/SKY_SPORTS_F1/index.m3u8
-#EXTINF:-1, Sky Sports Arena
-http://192.99.54.242/spo/SKY_SPORTS_ARENA/index.m3u8
-#EXTINF:-1, Redbull Tv
-http://192.99.54.242/spo/REDBULL_TV/index.m3u8
-#EXTINF:-1, Premier Sports 2
-http://192.99.54.242/spo/PREMIER_SPORTS_2/index.m3u8
-#EXTINF:-1, Premier Sports 1
-http://192.99.54.242/spo/PREMIER_SPORTS_1/index.m3u8
-#EXTINF:-1, Ppv 3
-http://192.99.54.242/spo/PPV_3/index.m3u8
-#EXTINF:-1, Ppv 2
-http://192.99.54.242/spo/PPV_2/index.m3u8
-#EXTINF:-1, Ppv 1
-http://192.99.54.242/spo/PPV_1/index.m3u8
-#EXTINF:-1, Nhl: Winnipeg Jets
-http://192.99.54.242/spo/NHL:_WINNIPEG_JETS/index.m3u8
-#EXTINF:-1, Nhl: Washington Capitals
-http://192.99.54.242/spo/NHL:_WASHINGTON_CAPITALS/index.m3u8
-#EXTINF:-1, Nhl: Vegas Golden Knights
-http://192.99.54.242/spo/NHL:_VEGAS_GOLDEN_KNIGHTS/index.m3u8
-#EXTINF:-1, Nhl: Vancouver Canucks
-http://192.99.54.242/spo/NHL:_VANCOUVER_CANUCKS/index.m3u8
-#EXTINF:-1, Nhl: Toronto Maple Leafs
-http://192.99.54.242/spo/NHL:_TORONTO_MAPLE_LEAFS/index.m3u8
-#EXTINF:-1, Nhl: Tampa Bay Lightning
-http://192.99.54.242/spo/NHL:_TAMPA_BAY_LIGHTNING/index.m3u8
-#EXTINF:-1, Nhl: St. Louis Blues
-http://192.99.54.242/spo/NHL:_ST._LOUIS_BLUES/index.m3u8
-#EXTINF:-1, Nhl: San Jose Sharks
-http://192.99.54.242/spo/NHL:_SAN_JOSE_SHARKS/index.m3u8
-#EXTINF:-1, Nhl: Pittsburgh Penguins
-http://192.99.54.242/spo/NHL:_PITTSBURGH_PENGUINS/index.m3u8
-#EXTINF:-1, Nhl: Philadelphia Flyers
-http://192.99.54.242/spo/NHL:_PHILADELPHIA_FLYERS/index.m3u8
-#EXTINF:-1, Nhl: Ottawa Senators
-http://192.99.54.242/spo/NHL:_OTTAWA_SENATORS/index.m3u8
-#EXTINF:-1, Nhl: New York Rangers
-http://192.99.54.242/spo/NHL:_NEW_YORK_RANGERS/index.m3u8
-#EXTINF:-1, Nhl: New York Islanders
-http://192.99.54.242/spo/NHL:_NEW_YORK_ISLANDERS/index.m3u8
-#EXTINF:-1, Nhl: New Jersey Devils
-http://192.99.54.242/spo/NHL:_NEW_JERSEY_DEVILS/index.m3u8
-#EXTINF:-1, Nhl: Nashville Predators
-http://192.99.54.242/spo/NHL:_NASHVILLE_PREDATORS/index.m3u8
-#EXTINF:-1, Nhl: Montreal Canadiens
-http://192.99.54.242/spo/NHL:_MONTREAL_CANADIENS/index.m3u8
-#EXTINF:-1, Nhl: Minnesota Wild
-http://192.99.54.242/spo/NHL:_MINNESOTA_WILD/index.m3u8
-#EXTINF:-1, Nhl: Los Angeles Kings
-http://192.99.54.242/spo/NHL:_LOS_ANGELES_KINGS/index.m3u8
-#EXTINF:-1, Nhl: Florida Panthers
-http://192.99.54.242/spo/NHL:_FLORIDA_PANTHERS/index.m3u8
-#EXTINF:-1, Nhl: Edmonton Oilers
-http://192.99.54.242/spo/NHL:_EDMONTON_OILERS/index.m3u8
-#EXTINF:-1, Nhl: Detroit Red Wings
-http://192.99.54.242/spo/NHL:_DETROIT_RED_WINGS/index.m3u8
-#EXTINF:-1, Nhl: Dallas Stars
-http://192.99.54.242/spo/NHL:_DALLAS_STARS/index.m3u8
-#EXTINF:-1, Nhl: Columbus Blue Jackets
-http://192.99.54.242/spo/NHL:_COLUMBUS_BLUE_JACKETS/index.m3u8
-#EXTINF:-1, Nhl: Colorado Avalanche
-http://192.99.54.242/spo/NHL:_COLORADO_AVALANCHE/index.m3u8
-#EXTINF:-1, Nhl: Chicago Blackhawks
-http://192.99.54.242/spo/NHL:_CHICAGO_BLACKHAWKS/index.m3u8
-#EXTINF:-1, Nhl: Carolina Hurricanes
-http://192.99.54.242/spo/NHL:_CAROLINA_HURRICANES/index.m3u8
-#EXTINF:-1, Nhl: Calgary Flames
-http://192.99.54.242/spo/NHL:_CALGARY_FLAMES/index.m3u8
-#EXTINF:-1, Nhl: Buffalo Sabres
-http://192.99.54.242/spo/NHL:_BUFFALO_SABRES/index.m3u8
-#EXTINF:-1, Nhl: Boston Bruins
-http://192.99.54.242/spo/NHL:_BOSTON_BRUINS/index.m3u8
-#EXTINF:-1, Nhl: Arizona Coyotes
-http://192.99.54.242/spo/NHL:_ARIZONA_COYOTES/index.m3u8
-#EXTINF:-1, Nhl: Anaheim Ducks
-http://192.99.54.242/spo/NHL:_ANAHEIM_DUCKS/index.m3u8
-#EXTINF:-1, Nhl Live Game 9 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_9_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 8 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_8_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 7 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_7_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 6 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_6_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 5 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_5_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 4 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_4_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 3 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_3_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 2 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_2_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 12 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_12_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 11 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_11_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 10 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_10_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl Live Game 1 Live During Events
-http://192.99.54.242/spo/NHL_LIVE_GAME_1_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nhl
-http://192.99.54.242/spo/NHL/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 9 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_9_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 8 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_8_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 7 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_7_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 6 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_6_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 5 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_5_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 4 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_4_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 3 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_3_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 2 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_2_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 13 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_13_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 12 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_12_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 11 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_11_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 10 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_10_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Sunday Ticket 1 Live During Events
-http://192.99.54.242/spo/NFL_SUNDAY_TICKET_1_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl Redzone
-http://192.99.54.242/spo/NFL_REDZONE/index.m3u8
-#EXTINF:-1, Nfl Red Zone Live During Events
-http://192.99.54.242/spo/NFL_RED_ZONE_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nfl
-http://192.99.54.242/spo/NFL/index.m3u8
-#EXTINF:-1, Nbc Sports
-http://192.99.54.242/spo/NBC_SPORTS/index.m3u8
-#EXTINF:-1, Nbc Golf
-http://192.99.54.242/spo/NBC_GOLF/index.m3u8
-#EXTINF:-1, Nba: Washington Wizards
-http://192.99.54.242/spo/NBA:_WASHINGTON_WIZARDS/index.m3u8
-#EXTINF:-1, Nba: Utah Jazz
-http://192.99.54.242/spo/NBA:_UTAH_JAZZ/index.m3u8
-#EXTINF:-1, Nba: Toronto Raptors
-http://192.99.54.242/spo/NBA:_TORONTO_RAPTORS/index.m3u8
-#EXTINF:-1, Nba: San Antonio Spurs
-http://192.99.54.242/spo/NBA:_SAN_ANTONIO_SPURS/index.m3u8
-#EXTINF:-1, Nba: Sacramento Kings
-http://192.99.54.242/spo/NBA:_SACRAMENTO_KINGS/index.m3u8
-#EXTINF:-1, Nba: Portland Trail Blazers
-http://192.99.54.242/spo/NBA:_PORTLAND_TRAIL_BLAZERS/index.m3u8
-#EXTINF:-1, Nba: Phoenix Suns
-http://192.99.54.242/spo/NBA:_PHOENIX_SUNS/index.m3u8
-#EXTINF:-1, Nba: Philadelphia 76ers
-http://192.99.54.242/spo/NBA:_PHILADELPHIA_76ERS/index.m3u8
-#EXTINF:-1, Nba: Orlando Magic
-http://192.99.54.242/spo/NBA:_ORLANDO_MAGIC/index.m3u8
-#EXTINF:-1, Nba: Oklahoma City Thunder
-http://192.99.54.242/spo/NBA:_OKLAHOMA_CITY_THUNDER/index.m3u8
-#EXTINF:-1, Nba: New York Knicks
-http://192.99.54.242/spo/NBA:_NEW_YORK_KNICKS/index.m3u8
-#EXTINF:-1, Nba: New Orleans Pelicans
-http://192.99.54.242/spo/NBA:_NEW_ORLEANS_PELICANS/index.m3u8
-#EXTINF:-1, Nba: Minnesota Timberwolves
-http://192.99.54.242/spo/NBA:_MINNESOTA_TIMBERWOLVES/index.m3u8
-#EXTINF:-1, Nba: Milwaukee Bucks
-http://192.99.54.242/spo/NBA:_MILWAUKEE_BUCKS/index.m3u8
-#EXTINF:-1, Nba: Miami Heat
-http://192.99.54.242/spo/NBA:_MIAMI_HEAT/index.m3u8
-#EXTINF:-1, Nba: Memphis Grizzlies
-http://192.99.54.242/spo/NBA:_MEMPHIS_GRIZZLIES/index.m3u8
-#EXTINF:-1, Nba: Los Angeles Lakers
-http://192.99.54.242/spo/NBA:_LOS_ANGELES_LAKERS/index.m3u8
-#EXTINF:-1, Nba: Los Angeles Clippers
-http://192.99.54.242/spo/NBA:_LOS_ANGELES_CLIPPERS/index.m3u8
-#EXTINF:-1, Nba: Indiana Pacers
-http://192.99.54.242/spo/NBA:_INDIANA_PACERS/index.m3u8
-#EXTINF:-1, Nba: Houston Rockets
-http://192.99.54.242/spo/NBA:_HOUSTON_ROCKETS/index.m3u8
-#EXTINF:-1, Nba: Golden State Warriors
-http://192.99.54.242/spo/NBA:_GOLDEN_STATE_WARRIORS/index.m3u8
-#EXTINF:-1, Nba: Detroit Pistons
-http://192.99.54.242/spo/NBA:_DETROIT_PISTONS/index.m3u8
-#EXTINF:-1, Nba: Denver Nuggets
-http://192.99.54.242/spo/NBA:_DENVER_NUGGETS/index.m3u8
-#EXTINF:-1, Nba: Dallas Mavericks
-http://192.99.54.242/spo/NBA:_DALLAS_MAVERICKS/index.m3u8
-#EXTINF:-1, Nba: Cleveland Cavaliers
-http://192.99.54.242/spo/NBA:_CLEVELAND_CAVALIERS/index.m3u8
-#EXTINF:-1, Nba: Chicago Bulls
-http://192.99.54.242/spo/NBA:_CHICAGO_BULLS/index.m3u8
-#EXTINF:-1, Nba: Charlotte Hornets
-http://192.99.54.242/spo/NBA:_CHARLOTTE_HORNETS/index.m3u8
-#EXTINF:-1, Nba: Brooklyn Nets
-http://192.99.54.242/spo/NBA:_BROOKLYN_NETS/index.m3u8
-#EXTINF:-1, Nba: Boston Celtics
-http://192.99.54.242/spo/NBA:_BOSTON_CELTICS/index.m3u8
-#EXTINF:-1, Nba: Atlanta Hawks
-http://192.99.54.242/spo/NBA:_ATLANTA_HAWKS/index.m3u8
-#EXTINF:-1, Nba League Pass 9 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_9_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 8 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_8_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 7 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_7_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 6 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_6_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 5 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_5_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 4 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_4_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 3 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_3_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 2 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_2_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 12 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_12_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 11 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_11_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 10 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_10_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Nba League Pass 1 Live During Events
-http://192.99.54.242/spo/NBA_LEAGUE_PASS_1_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb: Washington Nationals
-http://192.99.54.242/spo/MLB:_WASHINGTON_NATIONALS/index.m3u8
-#EXTINF:-1, Mlb: Toronto Blue Jays
-http://192.99.54.242/spo/MLB:_TORONTO_BLUE_JAYS/index.m3u8
-#EXTINF:-1, Mlb: Texas Rangers
-http://192.99.54.242/spo/MLB:_TEXAS_RANGERS/index.m3u8
-#EXTINF:-1, Mlb: Tampa Bay Rays
-http://192.99.54.242/spo/MLB:_TAMPA_BAY_RAYS/index.m3u8
-#EXTINF:-1, Mlb: St Louis Cardinals
-http://192.99.54.242/spo/MLB:_ST_LOUIS_CARDINALS/index.m3u8
-#EXTINF:-1, Mlb: Seattle Mariners
-http://192.99.54.242/spo/MLB:_SEATTLE_MARINERS/index.m3u8
-#EXTINF:-1, Mlb: San Francisco Giants
-http://192.99.54.242/spo/MLB:_SAN_FRANCISCO_GIANTS/index.m3u8
-#EXTINF:-1, Mlb: San Diego Padres
-http://192.99.54.242/spo/MLB:_SAN_DIEGO_PADRES/index.m3u8
-#EXTINF:-1, Mlb: Pittsburgh Pirates
-http://192.99.54.242/spo/MLB:_PITTSBURGH_PIRATES/index.m3u8
-#EXTINF:-1, Mlb: Philiadelphia Phillies
-http://192.99.54.242/spo/MLB:_PHILIADELPHIA_PHILLIES/index.m3u8
-#EXTINF:-1, Mlb: Oakland Athletics
-http://192.99.54.242/spo/MLB:_OAKLAND_ATHLETICS/index.m3u8
-#EXTINF:-1, Mlb: New York Yankees
-http://192.99.54.242/spo/MLB:_NEW_YORK_YANKEES/index.m3u8
-#EXTINF:-1, Mlb: New York Mets
-http://192.99.54.242/spo/MLB:_NEW_YORK_METS/index.m3u8
-#EXTINF:-1, Mlb: Minnesota Twins
-http://192.99.54.242/spo/MLB:_MINNESOTA_TWINS/index.m3u8
-#EXTINF:-1, Mlb: Milwaukee Brewers
-http://192.99.54.242/spo/MLB:_MILWAUKEE_BREWERS/index.m3u8
-#EXTINF:-1, Mlb: Miami Marlins
-http://192.99.54.242/spo/MLB:_MIAMI_MARLINS/index.m3u8
-#EXTINF:-1, Mlb: Los Angeles Dodgers
-http://192.99.54.242/spo/MLB:_LOS_ANGELES_DODGERS/index.m3u8
-#EXTINF:-1, Mlb: Los Angeles Angels
-http://192.99.54.242/spo/MLB:_LOS_ANGELES_ANGELS/index.m3u8
-#EXTINF:-1, Mlb: Kansas City Royals
-http://192.99.54.242/spo/MLB:_KANSAS_CITY_ROYALS/index.m3u8
-#EXTINF:-1, Mlb: Houston Astros
-http://192.99.54.242/spo/MLB:_HOUSTON_ASTROS/index.m3u8
-#EXTINF:-1, Mlb: Detroit Tigers
-http://192.99.54.242/spo/MLB:_DETROIT_TIGERS/index.m3u8
-#EXTINF:-1, Mlb: Colorado Rockies
-http://192.99.54.242/spo/MLB:_COLORADO_ROCKIES/index.m3u8
-#EXTINF:-1, Mlb: Cleveland Indians
-http://192.99.54.242/spo/MLB:_CLEVELAND_INDIANS/index.m3u8
-#EXTINF:-1, Mlb: Cincinnati Reds
-http://192.99.54.242/spo/MLB:_CINCINNATI_REDS/index.m3u8
-#EXTINF:-1, Mlb: Chicago White Sox
-http://192.99.54.242/spo/MLB:_CHICAGO_WHITE_SOX/index.m3u8
-#EXTINF:-1, Mlb: Chicago Cubs
-http://192.99.54.242/spo/MLB:_CHICAGO_CUBS/index.m3u8
-#EXTINF:-1, Mlb: Boston Red Sox
-http://192.99.54.242/spo/MLB:_BOSTON_RED_SOX/index.m3u8
-#EXTINF:-1, Mlb: Baltimore Orioles
-http://192.99.54.242/spo/MLB:_BALTIMORE_ORIOLES/index.m3u8
-#EXTINF:-1, Mlb: Atlanta Braves
-http://192.99.54.242/spo/MLB:_ATLANTA_BRAVES/index.m3u8
-#EXTINF:-1, Mlb: Arizona Diamondbacks
-http://192.99.54.242/spo/MLB:_ARIZONA_DIAMONDBACKS/index.m3u8
-#EXTINF:-1, Mlb 739/740 Live During Events
-http://192.99.54.242/spo/MLB_739/740_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 737/738 Live During Events
-http://192.99.54.242/spo/MLB_737/738_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 735/736 Live During Events
-http://192.99.54.242/spo/MLB_735/736_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 733/734 Live During Events
-http://192.99.54.242/spo/MLB_733/734_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 731/732 Live During Events
-http://192.99.54.242/spo/MLB_731/732_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 729/730 Live During Events
-http://192.99.54.242/spo/MLB_729/730_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 727/728 Live During Events
-http://192.99.54.242/spo/MLB_727/728_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 725/726 Live During Events
-http://192.99.54.242/spo/MLB_725/726_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 723/724 Live During Events
-http://192.99.54.242/spo/MLB_723/724_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb 721/722 Live During Events
-http://192.99.54.242/spo/MLB_721/722_LIVE_DURING_EVENTS/index.m3u8
-#EXTINF:-1, Mlb
-http://192.99.54.242/spo/MLB/index.m3u8
-#EXTINF:-1, Jio Football 2
-http://192.99.54.242/spo/JIO_FOOTBALL_2/index.m3u8
-#EXTINF:-1, Jio Football 1
-http://192.99.54.242/spo/JIO_FOOTBALL_1/index.m3u8
-#EXTINF:-1, Golf Channel French
-http://192.99.54.242/spo/GOLF_CHANNEL_FRENCH/index.m3u8
-#EXTINF:-1, Golf Channel
-http://192.99.54.242/spo/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1, Fubo Sports
-http://192.99.54.242/spo/FUBO_SPORTS/index.m3u8
-#EXTINF:-1, Fox Sports Racing
-http://192.99.54.242/spo/FOX_SPORTS_RACING/index.m3u8
-#EXTINF:-1, Fox Sports 6 Dutch
-http://192.99.54.242/spo/DUTCH/FOX_SPORTS_6/index.m3u8
-#EXTINF:-1, Fox Sports 5 Dutch
-http://192.99.54.242/spo/DUTCH/FOX_SPORTS_5/index.m3u8
-#EXTINF:-1, Fox Sports 4 Dutch
-http://192.99.54.242/spo/DUTCH/FOX_SPORTS_4/index.m3u8
-#EXTINF:-1, Fox Sports 3 Dutch
-http://192.99.54.242/spo/DUTCH/FOX_SPORTS_3/index.m3u8
-#EXTINF:-1, Fox Sports 2 Usa
-http://192.99.54.242/spo/FOX_SPORTS_2/index.m3u8
-#EXTINF:-1, Fox Sports 2 Dutch
-http://192.99.54.242/spo/DUTCH/FOX_SPORTS_2/index.m3u8
-#EXTINF:-1, Fox Sports 1 Usa
-http://192.99.54.242/spo/FOX_SPORTS_1/index.m3u8
-#EXTINF:-1, Fox Sports 1 Dutch
-http://192.99.54.242/spo/DUTCH/FOX_SPORTS_1/index.m3u8
-#EXTINF:-1, Euro Sports 2
-http://192.99.54.242/spo/EURO_SPORTS_2/index.m3u8
-#EXTINF:-1, Euro Sports 1
-http://192.99.54.242/spo/EURO_SPORTS_1/index.m3u8
-#EXTINF:-1, Espn U
-http://192.99.54.242/spo/ESPN_U/index.m3u8
-#EXTINF:-1, Espn News
-http://192.99.54.242/spo/ESPN_NEWS/index.m3u8
-#EXTINF:-1, Espn 2
-http://192.99.54.242/spo/ESPN_2/index.m3u8
-#EXTINF:-1, Espn
-http://192.99.54.242/spo/ESPN/index.m3u8
-#EXTINF:-1, Cbs Sports Network
-http://192.99.54.242/spo/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1, Bt Sports Espn
-http://192.99.54.242/spo/BT_SPORTS_ESPN/index.m3u8
-#EXTINF:-1, Bt Sports 3
-http://192.99.54.242/spo/BT_SPORTS_3/index.m3u8
-#EXTINF:-1, Bt Sports 2
-http://192.99.54.242/spo/BT_SPORTS_2/index.m3u8
-#EXTINF:-1, Bt Sports 1
-http://192.99.54.242/spo/BT_SPORTS_1/index.m3u8
-#EXTINF:-1, Big Ten Network
-http://192.99.54.242/spo/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1, Bein Usa
-http://192.99.54.242/spo/BEIN_USA/index.m3u8
-#EXTINF:-1, Bein Sports 4 Max
-http://192.99.54.242/spo/BEIN_SPORTS_4_MAX/index.m3u8
-#EXTINF:-1, Bein Sports 3 Max
-http://192.99.54.242/spo/BEIN_SPORTS_3_MAX/index.m3u8
-#EXTINF:-1, Bein Sports 2 Max
-http://192.99.54.242/spo/BEIN_SPORTS_2_MAX/index.m3u8
-#EXTINF:-1, Bein Sports 1 Max
-http://192.99.54.242/spo/BEIN_SPORTS_1_MAX/index.m3u8
-#EXTINF:-1, Bein Nba
-http://192.99.54.242/spo/BEIN_NBA/index.m3u8
-#EXTINF:-1, Bein 9
-http://192.99.54.242/spo/BEIN_9/index.m3u8
-#EXTINF:-1, Bein 8
-http://192.99.54.242/spo/BEIN_8/index.m3u8
-#EXTINF:-1, Bein 7
-http://192.99.54.242/spo/BEIN_7/index.m3u8
-#EXTINF:-1, Bein 6
-http://192.99.54.242/spo/BEIN_6/index.m3u8
-#EXTINF:-1, Bein 5
-http://192.99.54.242/spo/BEIN_5/index.m3u8
-#EXTINF:-1, Bein 4
-http://192.99.54.242/spo/BEIN_4/index.m3u8
-#EXTINF:-1, Bein 3
-http://192.99.54.242/spo/BEIN_3/index.m3u8
-#EXTINF:-1, Bein 2
-http://192.99.54.242/spo/BEIN_2/index.m3u8
-#EXTINF:-1, Bein 16
-http://192.99.54.242/spo/BEIN_16/index.m3u8
-#EXTINF:-1, Bein 15
-http://192.99.54.242/spo/BEIN_15/index.m3u8
-#EXTINF:-1, Bein 14
-http://192.99.54.242/spo/BEIN_14/index.m3u8
-#EXTINF:-1, Bein 13
-http://192.99.54.242/spo/BEIN_13/index.m3u8
-#EXTINF:-1, Bein 12
-http://192.99.54.242/spo/BEIN_12/index.m3u8
-#EXTINF:-1, Bein 11
-http://192.99.54.242/spo/BEIN_11/index.m3u8
-#EXTINF:-1, Bein 10
-http://192.99.54.242/spo/BEIN_10/index.m3u8
-#EXTINF:-1, Bein 1
-http://192.99.54.242/spo/BEIN_1/index.m3u8
-#EXTINF:-1, Astro Supersport 4
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_4/index.m3u8
-#EXTINF:-1, Astro Supersport 3
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_3/index.m3u8
-#EXTINF:-1, Astro Supersport 2
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_2/index.m3u8
-#EXTINF:-1, Astro Supersport 1
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_1/index.m3u8
-#EXTINF:-1, Astro Fox Sports 3
-http://192.99.54.242/spo/ASTRO_FOX_SPORTS_3/index.m3u8
-#EXTINF:-1, Astro Fox Sports 2
-http://192.99.54.242/spo/ASTRO_FOX_SPORTS_2/index.m3u8
-#EXTINF:-1, Astro Fox Sports 1
-http://192.99.54.242/spo/ASTRO_FOX_SPORTS_1/index.m3u8
-#EXTINF:-1, Astro Espn 2
-http://192.99.54.242/spo/ASTRO_ESPN_2/index.m3u8
-#EXTINF:-1, Astro Espn 1
-http://192.99.54.242/spo/ASTRO_ESPN_1/index.m3u8
-#EXTINF:-1, Arena Sports 6
-http://192.99.54.242/spo/ARENA_SPORTS_6/index.m3u8
-#EXTINF:-1, Arena Sports 5
-http://192.99.54.242/spo/ARENA_SPORTS_5/index.m3u8
-#EXTINF:-1, Arena Sports 4
-http://192.99.54.242/spo/ARENA_SPORTS_4/index.m3u8
-#EXTINF:-1, Arena Sports 3
-http://192.99.54.242/spo/ARENA_SPORTS_3/index.m3u8
-#EXTINF:-1, Arena Sports 2
-http://192.99.54.242/spo/ARENA_SPORTS_2/index.m3u8
-#EXTINF:-1, Arena Sports 1
-http://192.99.54.242/spo/ARENA_SPORTS_1/index.m3u8
-#EXTINF:-1, Zee Telugu
+#EXTINF:-1,Zee Telugu
 http://192.99.54.242/ind_tel/ZEE/index.m3u8
-#EXTINF:-1, Zee Cinemalu
+#EXTINF:-1,Zee Cinemalu
 http://192.99.54.242/ind_tel/ZEE_CINEMALU/index.m3u8
-#EXTINF:-1, Tv9 News
+#EXTINF:-1,Tv9 News
 http://192.99.54.242/ind_tel/TV9_NEWS/index.m3u8
-#EXTINF:-1, Tv5
+#EXTINF:-1,Tv5
 http://192.99.54.242/ind_tel/TV5/index.m3u8
-#EXTINF:-1, Tatasky Telugu Cinema
+#EXTINF:-1,Tatasky Telugu Cinema
 http://192.99.54.242/ind_tel/TATASKY_TELUGU_CINEMA/index.m3u8
-#EXTINF:-1, Tatasky English In Telugu
+#EXTINF:-1,Tatasky English In Telugu
 http://192.99.54.242/ind_tel/TATASKY_ENGLISH_IN_TELUGU/index.m3u8
-#EXTINF:-1, Svbc
+#EXTINF:-1,Svbc
 http://192.99.54.242/ind_tel/SVBC/index.m3u8
-#EXTINF:-1, Star Maa Music
+#EXTINF:-1,Star Maa Music
 http://192.99.54.242/ind_tel/MAA_MUSIC/index.m3u8
-#EXTINF:-1, Star Maa India
+#EXTINF:-1,Star Maa India
 http://192.99.54.242/ind_tel/MAA_TV/index.m3u8
-#EXTINF:-1, Star Maa Gold
+#EXTINF:-1,Star Maa Gold
 http://192.99.54.242/ind_tel/MAA_GOLD/index.m3u8
-#EXTINF:-1, Sony Bbc Earth Telugu
+#EXTINF:-1,Sony Bbc Earth Telugu
 http://192.99.54.242/ind_tel/SONY_BBC_EARTH/index.m3u8
-#EXTINF:-1, Raj Vissa
+#EXTINF:-1,Raj Vissa
 http://192.99.54.242/ind_tel/RAJ_VISSA/index.m3u8
-#EXTINF:-1, Raj News
+#EXTINF:-1,Raj News
 http://192.99.54.242/ind_tel/RAJ_NEWS/index.m3u8
-#EXTINF:-1, Om Cvr
+#EXTINF:-1,Om Cvr
 http://192.99.54.242/ind_tel/OM_CVR/index.m3u8
-#EXTINF:-1, Ntv
+#EXTINF:-1,Ntv
 http://192.99.54.242/ind_tel/NTV/index.m3u8
-#EXTINF:-1, National Geographic Wild Telugu
+#EXTINF:-1,National Geographic Wild Telugu
 http://192.99.54.242/ind_tel/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Telugu
+#EXTINF:-1,National Geographic Telugu
 http://192.99.54.242/ind_tel/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Hm Tv
+#EXTINF:-1,Hm Tv
 http://192.99.54.242/ind_tel/HMTV/index.m3u8
-#EXTINF:-1, History Telugu
+#EXTINF:-1,History Telugu
 http://192.99.54.242/ind_tel/HISTORY/index.m3u8
-#EXTINF:-1, Gemini Tv
+#EXTINF:-1,Gemini Tv
 http://192.99.54.242/ind_tel/GEMINI_TV/index.m3u8
-#EXTINF:-1, Gemini Movies
+#EXTINF:-1,Gemini Movies
 http://192.99.54.242/ind_tel/GEMINI_MOVIES/index.m3u8
-#EXTINF:-1, Gemini Comedy
+#EXTINF:-1,Gemini Comedy
 http://192.99.54.242/ind_tel/GEMINI_COMEDY/index.m3u8
-#EXTINF:-1, Etv Telugu
+#EXTINF:-1,Etv Telugu
 http://192.99.54.242/ind_tel/ETV/index.m3u8
-#EXTINF:-1, Etv Andhra Pardesh
+#EXTINF:-1,Etv Andhra Pardesh
 http://192.99.54.242/ind_tel/ETV_ANDHRA_PARDESH/index.m3u8
-#EXTINF:-1, Desi Plaza Tv
+#EXTINF:-1,Desi Plaza Tv
 http://192.99.54.242/ind_tel/DESI_PLAZA_TV/index.m3u8
-#EXTINF:-1, Cvr News
+#EXTINF:-1,Cvr News
 http://192.99.54.242/ind_tel/CVR_NEWS/index.m3u8
-#EXTINF:-1, Cvr English News
+#EXTINF:-1,Cvr English News
 http://192.99.54.242/ind_tel/CVR_ENGLISH_NEWS/index.m3u8
-#EXTINF:-1, Aradana Tv
+#EXTINF:-1,Aradana Tv
 http://192.99.54.242/ind_tel/ARADANA_TV/index.m3u8
-#EXTINF:-1, 10 Tv
+#EXTINF:-1,10 Tv
 http://192.99.54.242/ind_tel/10_TV/index.m3u8
-#EXTINF:-1, Zee Cafe
+#EXTINF:-1,Zee Tamil
+http://192.99.54.242/ind_tam/ZEE/index.m3u8
+#EXTINF:-1,Vanavil Plus
+http://192.99.54.242/ind_tam/VANAVIL_PLUS/index.m3u8
+#EXTINF:-1,Tata Sky Tamil Cinema
+http://192.99.54.242/ind_tam/TATASKY_CINEMA/index.m3u8
+#EXTINF:-1,Tamil Songs
+http://192.99.54.242/ind_tam/TAMIL_SONGS/index.m3u8
+#EXTINF:-1,Tamil Movies 3
+http://192.99.54.242/ind_tam/TAMIL_MOVIES_3/index.m3u8
+#EXTINF:-1,Tamil Movies 2
+http://192.99.54.242/ind_tam/TAMIL_MOVIES_2/index.m3u8
+#EXTINF:-1,Tamil Movies 1
+http://192.99.54.242/ind_tam/TAMIL_MOVIES_1/index.m3u8
+#EXTINF:-1,Tamil Dubbed Movies
+http://192.99.54.242/ind_tam/TAMIL_DUBBED_MOVIES/index.m3u8
+#EXTINF:-1,Sun Tv India
+http://192.99.54.242/ind_tam/SUN_TV/index.m3u8
+#EXTINF:-1,Sun Music India
+http://192.99.54.242/ind_tam/SUN_MUSIC/index.m3u8
+#EXTINF:-1,Sun Life India
+http://192.99.54.242/ind_tam/SUN_LIFE/index.m3u8
+#EXTINF:-1,Star Vijay
+http://192.99.54.242/ind_tam/STAR_VIJAY/index.m3u8
+#EXTINF:-1,Sri Sankara Tv
+http://192.99.54.242/ind_tam/SRI_SANKARA_TV/index.m3u8
+#EXTINF:-1,Spiritual
+http://192.99.54.242/ind_tam/SPIRITUAL/index.m3u8
+#EXTINF:-1,Sony Bbc Earth Tamil India
+http://192.99.54.242/ind_tam/SONY_BBC_EARTH/index.m3u8
+#EXTINF:-1,Sivan Tv
+http://192.99.54.242/ind_tam/SIVAN_TV/index.m3u8
+#EXTINF:-1,Selfie
+http://192.99.54.242/ind_tam/SELFIE/index.m3u8
+#EXTINF:-1,Sangammam Tv
+http://192.99.54.242/ind_tam/SANGAMMAM_TV/index.m3u8
+#EXTINF:-1,Polimer News
+http://192.99.54.242/ind_tam/POLIMER_NEWS/index.m3u8
+#EXTINF:-1,One Yes
+http://192.99.54.242/ind_tam/ONE_YES/index.m3u8
+#EXTINF:-1,Nethra Tv
+http://192.99.54.242/ind_tam/NETHRA_TV/index.m3u8
+#EXTINF:-1,National Geographic Wild Tamil India
+http://192.99.54.242/ind_tam/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1,National Geographic Tamil India
+http://192.99.54.242/ind_tam/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1,Mahabarat
+http://192.99.54.242/ind_tam/MAHABARAT/index.m3u8
+#EXTINF:-1,Magic Box Story
+http://192.99.54.242/ind_tam/MAGIC_BOX_STORY/index.m3u8
+#EXTINF:-1,Lord Tv
+http://192.99.54.242/ind_tam/LORD_TV/index.m3u8
+#EXTINF:-1,Ktv India
+http://192.99.54.242/ind_tam/KTV/index.m3u8
+#EXTINF:-1,Jaya Tv
+http://192.99.54.242/ind_tam/JAYA_TV/index.m3u8
+#EXTINF:-1,Ibc Songs
+http://192.99.54.242/ind_tam/IBC_SONGS/index.m3u8
+#EXTINF:-1,Ibc Comedy
+http://192.99.54.242/ind_tam/IBC_COMEDY/index.m3u8
+#EXTINF:-1,Ibc Bakthi
+http://192.99.54.242/ind_tam/IBC_BAKTHI/index.m3u8
+#EXTINF:-1,Hosanna
+http://192.99.54.242/ind_tam/HOSANNA/index.m3u8
+#EXTINF:-1,Holy Mary
+http://192.99.54.242/ind_tam/HOLY_MARY/index.m3u8
+#EXTINF:-1,History Tamil
+http://192.99.54.242/ind_tam/HISTORY/index.m3u8
+#EXTINF:-1,Fox Life Tamil
+http://192.99.54.242/ind_tam/FOX_LIFE/index.m3u8
+#EXTINF:-1,Food Network Tamil
+http://192.99.54.242/ind_tam/FOOD_NETWORK/index.m3u8
+#EXTINF:-1,Eelam Tv
+http://192.99.54.242/ind_tam/EELAM_TV/index.m3u8
+#EXTINF:-1,Discovery Tamil
+http://192.99.54.242/ind_tam/DISCOVERY/index.m3u8
+#EXTINF:-1,Dheeran Tv
+http://192.99.54.242/ind_tam/DHEERAN_TV/index.m3u8
+#EXTINF:-1,Dd Podhigai
+http://192.99.54.242/ind_tam/DD_PODHIGAI/index.m3u8
+#EXTINF:-1,Colors Tamil India
+http://192.99.54.242/ind_tam/COLORS/index.m3u8
+#EXTINF:-1,Bible Study
+http://192.99.54.242/ind_tam/BIBLE_STUDY/index.m3u8
+#EXTINF:-1,Anboli Tv
+http://192.99.54.242/ind_tam/ANBOLI_TV/index.m3u8
+#EXTINF:-1,Ambaal Tv
+http://192.99.54.242/ind_tam/AMBAAL_TV/index.m3u8
+#EXTINF:-1,Alalai Express
+http://192.99.54.242/ind_tam/ALALAI_EXPRESS/index.m3u8
+#EXTINF:-1,7s Music
+http://192.99.54.242/ind_tam/7S_MUSIC/index.m3u8
+#EXTINF:-1,Yes Network
+http://192.99.54.242/spo/YES_NETWORK/index.m3u8
+#EXTINF:-1,Wwe
+http://192.99.54.242/spo/WWE/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 9 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_9_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 8 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_8_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 7 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_7_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 6 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_6_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 5 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_5_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 4 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_4_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 3 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_3_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 2 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_2_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 2
+http://192.99.54.242/spo/UFC_FIGHT_PASS_2/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 10 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_10_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 1 Live During Events
+http://192.99.54.242/spo/UFC_FIGHT_PASS_1_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Ufc Fight Pass 1
+http://192.99.54.242/spo/UFC_FIGHT_PASS_1/index.m3u8
+#EXTINF:-1,Tva Sports French
+http://192.99.54.242/spo/TVA_SPORTS/index.m3u8
+#EXTINF:-1,Tsn 5
+http://192.99.54.242/spo/TSN_5/index.m3u8
+#EXTINF:-1,Tsn 4
+http://192.99.54.242/spo/TSN_4/index.m3u8
+#EXTINF:-1,Tsn 3
+http://192.99.54.242/spo/TSN_3/index.m3u8
+#EXTINF:-1,Tsn 2
+http://192.99.54.242/spo/TSN_2/index.m3u8
+#EXTINF:-1,Tsn 1
+http://192.99.54.242/spo/TSN_1/index.m3u8
+#EXTINF:-1,Trend Tv
+http://192.99.54.242/spo/TREND_TV/index.m3u8
+#EXTINF:-1,Supersport Variety 4
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_VARIETY_4/index.m3u8
+#EXTINF:-1,Supersport Variety 3
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_VARIETY_3/index.m3u8
+#EXTINF:-1,Supersport Variety 2
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_VARIETY_2/index.m3u8
+#EXTINF:-1,Supersport Variety 1
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_VARIETY_1/index.m3u8
+#EXTINF:-1,Supersport Tennis
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_TENNIS/index.m3u8
+#EXTINF:-1,Supersport Rugby
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_RUGBY/index.m3u8
+#EXTINF:-1,Supersport Psl
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_PSL/index.m3u8
+#EXTINF:-1,Supersport Premier League
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_PREMIER_LEAGUE/index.m3u8
+#EXTINF:-1,Supersport Motorsport
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_MOTORSPORT/index.m3u8
+#EXTINF:-1,Supersport Maximo
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_MAXIMO/index.m3u8
+#EXTINF:-1,Supersport La Liga
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_LA_LIGA/index.m3u8
+#EXTINF:-1,Supersport Grandstand
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_GRANDSTAND/index.m3u8
+#EXTINF:-1,Supersport Golf
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_GOLF/index.m3u8
+#EXTINF:-1,Supersport Football
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_FOOTBALL/index.m3u8
+#EXTINF:-1,Supersport Blitz
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_BLITZ/index.m3u8
+#EXTINF:-1,Supersport Action
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_ACTION/index.m3u8
+#EXTINF:-1,Sportsnet World
+http://192.99.54.242/spo/SPORTSNET_WORLD/index.m3u8
+#EXTINF:-1,Sportsnet West
+http://192.99.54.242/spo/SPORTSNET_WEST/index.m3u8
+#EXTINF:-1,Sportsnet Pacific
+http://192.99.54.242/spo/SPORTSNET_PACIFIC/index.m3u8
+#EXTINF:-1,Sportsnet Ontario
+http://192.99.54.242/spo/SPORTSNET_ONTARIO/index.m3u8
+#EXTINF:-1,Sportsnet East
+http://192.99.54.242/spo/SPORTSNET_EAST/index.m3u8
+#EXTINF:-1,Sportsnet 360
+http://192.99.54.242/spo/SPORTSNET_360/index.m3u8
+#EXTINF:-1,Sportsnet 1
+http://192.99.54.242/spo/SPORTSNET_1/index.m3u8
+#EXTINF:-1,Sky Sports Racing
+http://192.99.54.242/spo/SKY_SPORTS_RACING/index.m3u8
+#EXTINF:-1,Sky Sports Premiere League
+http://192.99.54.242/spo/SKY_SPORTS_PREMIERE_LEAGUE/index.m3u8
+#EXTINF:-1,Sky Sports Nfl
+http://192.99.54.242/spo/SKY_SPORTS_NFL/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://192.99.54.242/spo/SKY_SPORTS_NEWS/index.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://192.99.54.242/spo/SKY_SPORTS_MIX/index.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://192.99.54.242/spo/SKY_SPORTS_MAIN_EVENT/index.m3u8
+#EXTINF:-1,Sky Sports Golf
+http://192.99.54.242/spo/SKY_SPORTS_GOLF/index.m3u8
+#EXTINF:-1,Sky Sports Football
+http://192.99.54.242/spo/SKY_SPORTS_FOOTBALL/index.m3u8
+#EXTINF:-1,Sky Sports F1
+http://192.99.54.242/spo/SKY_SPORTS_F1/index.m3u8
+#EXTINF:-1,Sky Sports Arena
+http://192.99.54.242/spo/SKY_SPORTS_ARENA/index.m3u8
+#EXTINF:-1,Redbull Tv
+http://192.99.54.242/spo/REDBULL_TV/index.m3u8
+#EXTINF:-1,Premier Sports 2
+http://192.99.54.242/spo/PREMIER_SPORTS_2/index.m3u8
+#EXTINF:-1,Premier Sports 1
+http://192.99.54.242/spo/PREMIER_SPORTS_1/index.m3u8
+#EXTINF:-1,Ppv 3
+http://192.99.54.242/spo/PPV_3/index.m3u8
+#EXTINF:-1,Ppv 2
+http://192.99.54.242/spo/PPV_2/index.m3u8
+#EXTINF:-1,Ppv 1
+http://192.99.54.242/spo/PPV_1/index.m3u8
+#EXTINF:-1,Nhl: Winnipeg Jets
+http://192.99.54.242/spo/NHL:_WINNIPEG_JETS/index.m3u8
+#EXTINF:-1,Nhl: Washington Capitals
+http://192.99.54.242/spo/NHL:_WASHINGTON_CAPITALS/index.m3u8
+#EXTINF:-1,Nhl: Vegas Golden Knights
+http://192.99.54.242/spo/NHL:_VEGAS_GOLDEN_KNIGHTS/index.m3u8
+#EXTINF:-1,Nhl: Vancouver Canucks
+http://192.99.54.242/spo/NHL:_VANCOUVER_CANUCKS/index.m3u8
+#EXTINF:-1,Nhl: Toronto Maple Leafs
+http://192.99.54.242/spo/NHL:_TORONTO_MAPLE_LEAFS/index.m3u8
+#EXTINF:-1,Nhl: Tampa Bay Lightning
+http://192.99.54.242/spo/NHL:_TAMPA_BAY_LIGHTNING/index.m3u8
+#EXTINF:-1,Nhl: St. Louis Blues
+http://192.99.54.242/spo/NHL:_ST._LOUIS_BLUES/index.m3u8
+#EXTINF:-1,Nhl: San Jose Sharks
+http://192.99.54.242/spo/NHL:_SAN_JOSE_SHARKS/index.m3u8
+#EXTINF:-1,Nhl: Pittsburgh Penguins
+http://192.99.54.242/spo/NHL:_PITTSBURGH_PENGUINS/index.m3u8
+#EXTINF:-1,Nhl: Philadelphia Flyers
+http://192.99.54.242/spo/NHL:_PHILADELPHIA_FLYERS/index.m3u8
+#EXTINF:-1,Nhl: Ottawa Senators
+http://192.99.54.242/spo/NHL:_OTTAWA_SENATORS/index.m3u8
+#EXTINF:-1,Nhl: New York Rangers
+http://192.99.54.242/spo/NHL:_NEW_YORK_RANGERS/index.m3u8
+#EXTINF:-1,Nhl: New York Islanders
+http://192.99.54.242/spo/NHL:_NEW_YORK_ISLANDERS/index.m3u8
+#EXTINF:-1,Nhl: New Jersey Devils
+http://192.99.54.242/spo/NHL:_NEW_JERSEY_DEVILS/index.m3u8
+#EXTINF:-1,Nhl: Nashville Predators
+http://192.99.54.242/spo/NHL:_NASHVILLE_PREDATORS/index.m3u8
+#EXTINF:-1,Nhl: Montreal Canadiens
+http://192.99.54.242/spo/NHL:_MONTREAL_CANADIENS/index.m3u8
+#EXTINF:-1,Nhl: Minnesota Wild
+http://192.99.54.242/spo/NHL:_MINNESOTA_WILD/index.m3u8
+#EXTINF:-1,Nhl: Los Angeles Kings
+http://192.99.54.242/spo/NHL:_LOS_ANGELES_KINGS/index.m3u8
+#EXTINF:-1,Nhl: Florida Panthers
+http://192.99.54.242/spo/NHL:_FLORIDA_PANTHERS/index.m3u8
+#EXTINF:-1,Nhl: Edmonton Oilers
+http://192.99.54.242/spo/NHL:_EDMONTON_OILERS/index.m3u8
+#EXTINF:-1,Nhl: Detroit Red Wings
+http://192.99.54.242/spo/NHL:_DETROIT_RED_WINGS/index.m3u8
+#EXTINF:-1,Nhl: Dallas Stars
+http://192.99.54.242/spo/NHL:_DALLAS_STARS/index.m3u8
+#EXTINF:-1,Nhl: Columbus Blue Jackets
+http://192.99.54.242/spo/NHL:_COLUMBUS_BLUE_JACKETS/index.m3u8
+#EXTINF:-1,Nhl: Colorado Avalanche
+http://192.99.54.242/spo/NHL:_COLORADO_AVALANCHE/index.m3u8
+#EXTINF:-1,Nhl: Chicago Blackhawks
+http://192.99.54.242/spo/NHL:_CHICAGO_BLACKHAWKS/index.m3u8
+#EXTINF:-1,Nhl: Carolina Hurricanes
+http://192.99.54.242/spo/NHL:_CAROLINA_HURRICANES/index.m3u8
+#EXTINF:-1,Nhl: Calgary Flames
+http://192.99.54.242/spo/NHL:_CALGARY_FLAMES/index.m3u8
+#EXTINF:-1,Nhl: Buffalo Sabres
+http://192.99.54.242/spo/NHL:_BUFFALO_SABRES/index.m3u8
+#EXTINF:-1,Nhl: Boston Bruins
+http://192.99.54.242/spo/NHL:_BOSTON_BRUINS/index.m3u8
+#EXTINF:-1,Nhl: Arizona Coyotes
+http://192.99.54.242/spo/NHL:_ARIZONA_COYOTES/index.m3u8
+#EXTINF:-1,Nhl: Anaheim Ducks
+http://192.99.54.242/spo/NHL:_ANAHEIM_DUCKS/index.m3u8
+#EXTINF:-1,Nhl Live Game 9 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_9_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 8 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_8_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 7 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_7_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 6 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_6_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 5 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_5_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 4 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_4_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 3 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_3_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 2 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_2_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 12 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_12_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 11 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_11_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 10 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_10_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl Live Game 1 Live During Events
+http://192.99.54.242/spo/NHL_LIVE_GAME_1_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nhl
+http://192.99.54.242/spo/NHL/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 9 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_9_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 8 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_8_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 7 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_7_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 6 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_6_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 5 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_5_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 4 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_4_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 3 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_3_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 2 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_2_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 13 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_13_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 12 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_12_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 11 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_11_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 10 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_10_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Sunday Ticket 1 Live During Events
+http://192.99.54.242/spo/NFL_SUNDAY_TICKET_1_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl Redzone
+http://192.99.54.242/spo/NFL_REDZONE/index.m3u8
+#EXTINF:-1,Nfl Red Zone Live During Events
+http://192.99.54.242/spo/NFL_RED_ZONE_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nfl
+http://192.99.54.242/spo/NFL/index.m3u8
+#EXTINF:-1,Nbc Sports
+http://192.99.54.242/spo/NBC_SPORTS/index.m3u8
+#EXTINF:-1,Nbc Golf
+http://192.99.54.242/spo/NBC_GOLF/index.m3u8
+#EXTINF:-1,Nba: Washington Wizards
+http://192.99.54.242/spo/NBA:_WASHINGTON_WIZARDS/index.m3u8
+#EXTINF:-1,Nba: Utah Jazz
+http://192.99.54.242/spo/NBA:_UTAH_JAZZ/index.m3u8
+#EXTINF:-1,Nba: Toronto Raptors
+http://192.99.54.242/spo/NBA:_TORONTO_RAPTORS/index.m3u8
+#EXTINF:-1,Nba: San Antonio Spurs
+http://192.99.54.242/spo/NBA:_SAN_ANTONIO_SPURS/index.m3u8
+#EXTINF:-1,Nba: Sacramento Kings
+http://192.99.54.242/spo/NBA:_SACRAMENTO_KINGS/index.m3u8
+#EXTINF:-1,Nba: Portland Trail Blazers
+http://192.99.54.242/spo/NBA:_PORTLAND_TRAIL_BLAZERS/index.m3u8
+#EXTINF:-1,Nba: Phoenix Suns
+http://192.99.54.242/spo/NBA:_PHOENIX_SUNS/index.m3u8
+#EXTINF:-1,Nba: Philadelphia 76ers
+http://192.99.54.242/spo/NBA:_PHILADELPHIA_76ERS/index.m3u8
+#EXTINF:-1,Nba: Orlando Magic
+http://192.99.54.242/spo/NBA:_ORLANDO_MAGIC/index.m3u8
+#EXTINF:-1,Nba: Oklahoma City Thunder
+http://192.99.54.242/spo/NBA:_OKLAHOMA_CITY_THUNDER/index.m3u8
+#EXTINF:-1,Nba: New York Knicks
+http://192.99.54.242/spo/NBA:_NEW_YORK_KNICKS/index.m3u8
+#EXTINF:-1,Nba: New Orleans Pelicans
+http://192.99.54.242/spo/NBA:_NEW_ORLEANS_PELICANS/index.m3u8
+#EXTINF:-1,Nba: Minnesota Timberwolves
+http://192.99.54.242/spo/NBA:_MINNESOTA_TIMBERWOLVES/index.m3u8
+#EXTINF:-1,Nba: Milwaukee Bucks
+http://192.99.54.242/spo/NBA:_MILWAUKEE_BUCKS/index.m3u8
+#EXTINF:-1,Nba: Miami Heat
+http://192.99.54.242/spo/NBA:_MIAMI_HEAT/index.m3u8
+#EXTINF:-1,Nba: Memphis Grizzlies
+http://192.99.54.242/spo/NBA:_MEMPHIS_GRIZZLIES/index.m3u8
+#EXTINF:-1,Nba: Los Angeles Lakers
+http://192.99.54.242/spo/NBA:_LOS_ANGELES_LAKERS/index.m3u8
+#EXTINF:-1,Nba: Los Angeles Clippers
+http://192.99.54.242/spo/NBA:_LOS_ANGELES_CLIPPERS/index.m3u8
+#EXTINF:-1,Nba: Indiana Pacers
+http://192.99.54.242/spo/NBA:_INDIANA_PACERS/index.m3u8
+#EXTINF:-1,Nba: Houston Rockets
+http://192.99.54.242/spo/NBA:_HOUSTON_ROCKETS/index.m3u8
+#EXTINF:-1,Nba: Golden State Warriors
+http://192.99.54.242/spo/NBA:_GOLDEN_STATE_WARRIORS/index.m3u8
+#EXTINF:-1,Nba: Detroit Pistons
+http://192.99.54.242/spo/NBA:_DETROIT_PISTONS/index.m3u8
+#EXTINF:-1,Nba: Denver Nuggets
+http://192.99.54.242/spo/NBA:_DENVER_NUGGETS/index.m3u8
+#EXTINF:-1,Nba: Dallas Mavericks
+http://192.99.54.242/spo/NBA:_DALLAS_MAVERICKS/index.m3u8
+#EXTINF:-1,Nba: Cleveland Cavaliers
+http://192.99.54.242/spo/NBA:_CLEVELAND_CAVALIERS/index.m3u8
+#EXTINF:-1,Nba: Chicago Bulls
+http://192.99.54.242/spo/NBA:_CHICAGO_BULLS/index.m3u8
+#EXTINF:-1,Nba: Charlotte Hornets
+http://192.99.54.242/spo/NBA:_CHARLOTTE_HORNETS/index.m3u8
+#EXTINF:-1,Nba: Brooklyn Nets
+http://192.99.54.242/spo/NBA:_BROOKLYN_NETS/index.m3u8
+#EXTINF:-1,Nba: Boston Celtics
+http://192.99.54.242/spo/NBA:_BOSTON_CELTICS/index.m3u8
+#EXTINF:-1,Nba: Atlanta Hawks
+http://192.99.54.242/spo/NBA:_ATLANTA_HAWKS/index.m3u8
+#EXTINF:-1,Nba League Pass 9 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_9_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 8 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_8_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 7 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_7_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 6 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_6_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 5 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_5_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 4 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_4_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 3 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_3_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 2 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_2_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 12 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_12_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 11 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_11_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 10 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_10_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Nba League Pass 1 Live During Events
+http://192.99.54.242/spo/NBA_LEAGUE_PASS_1_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb: Washington Nationals
+http://192.99.54.242/spo/MLB:_WASHINGTON_NATIONALS/index.m3u8
+#EXTINF:-1,Mlb: Toronto Blue Jays
+http://192.99.54.242/spo/MLB:_TORONTO_BLUE_JAYS/index.m3u8
+#EXTINF:-1,Mlb: Texas Rangers
+http://192.99.54.242/spo/MLB:_TEXAS_RANGERS/index.m3u8
+#EXTINF:-1,Mlb: Tampa Bay Rays
+http://192.99.54.242/spo/MLB:_TAMPA_BAY_RAYS/index.m3u8
+#EXTINF:-1,Mlb: St Louis Cardinals
+http://192.99.54.242/spo/MLB:_ST_LOUIS_CARDINALS/index.m3u8
+#EXTINF:-1,Mlb: Seattle Mariners
+http://192.99.54.242/spo/MLB:_SEATTLE_MARINERS/index.m3u8
+#EXTINF:-1,Mlb: San Francisco Giants
+http://192.99.54.242/spo/MLB:_SAN_FRANCISCO_GIANTS/index.m3u8
+#EXTINF:-1,Mlb: San Diego Padres
+http://192.99.54.242/spo/MLB:_SAN_DIEGO_PADRES/index.m3u8
+#EXTINF:-1,Mlb: Pittsburgh Pirates
+http://192.99.54.242/spo/MLB:_PITTSBURGH_PIRATES/index.m3u8
+#EXTINF:-1,Mlb: Philiadelphia Phillies
+http://192.99.54.242/spo/MLB:_PHILIADELPHIA_PHILLIES/index.m3u8
+#EXTINF:-1,Mlb: Oakland Athletics
+http://192.99.54.242/spo/MLB:_OAKLAND_ATHLETICS/index.m3u8
+#EXTINF:-1,Mlb: New York Yankees
+http://192.99.54.242/spo/MLB:_NEW_YORK_YANKEES/index.m3u8
+#EXTINF:-1,Mlb: New York Mets
+http://192.99.54.242/spo/MLB:_NEW_YORK_METS/index.m3u8
+#EXTINF:-1,Mlb: Minnesota Twins
+http://192.99.54.242/spo/MLB:_MINNESOTA_TWINS/index.m3u8
+#EXTINF:-1,Mlb: Milwaukee Brewers
+http://192.99.54.242/spo/MLB:_MILWAUKEE_BREWERS/index.m3u8
+#EXTINF:-1,Mlb: Miami Marlins
+http://192.99.54.242/spo/MLB:_MIAMI_MARLINS/index.m3u8
+#EXTINF:-1,Mlb: Los Angeles Dodgers
+http://192.99.54.242/spo/MLB:_LOS_ANGELES_DODGERS/index.m3u8
+#EXTINF:-1,Mlb: Los Angeles Angels
+http://192.99.54.242/spo/MLB:_LOS_ANGELES_ANGELS/index.m3u8
+#EXTINF:-1,Mlb: Kansas City Royals
+http://192.99.54.242/spo/MLB:_KANSAS_CITY_ROYALS/index.m3u8
+#EXTINF:-1,Mlb: Houston Astros
+http://192.99.54.242/spo/MLB:_HOUSTON_ASTROS/index.m3u8
+#EXTINF:-1,Mlb: Detroit Tigers
+http://192.99.54.242/spo/MLB:_DETROIT_TIGERS/index.m3u8
+#EXTINF:-1,Mlb: Colorado Rockies
+http://192.99.54.242/spo/MLB:_COLORADO_ROCKIES/index.m3u8
+#EXTINF:-1,Mlb: Cleveland Indians
+http://192.99.54.242/spo/MLB:_CLEVELAND_INDIANS/index.m3u8
+#EXTINF:-1,Mlb: Cincinnati Reds
+http://192.99.54.242/spo/MLB:_CINCINNATI_REDS/index.m3u8
+#EXTINF:-1,Mlb: Chicago White Sox
+http://192.99.54.242/spo/MLB:_CHICAGO_WHITE_SOX/index.m3u8
+#EXTINF:-1,Mlb: Chicago Cubs
+http://192.99.54.242/spo/MLB:_CHICAGO_CUBS/index.m3u8
+#EXTINF:-1,Mlb: Boston Red Sox
+http://192.99.54.242/spo/MLB:_BOSTON_RED_SOX/index.m3u8
+#EXTINF:-1,Mlb: Baltimore Orioles
+http://192.99.54.242/spo/MLB:_BALTIMORE_ORIOLES/index.m3u8
+#EXTINF:-1,Mlb: Atlanta Braves
+http://192.99.54.242/spo/MLB:_ATLANTA_BRAVES/index.m3u8
+#EXTINF:-1,Mlb: Arizona Diamondbacks
+http://192.99.54.242/spo/MLB:_ARIZONA_DIAMONDBACKS/index.m3u8
+#EXTINF:-1,Mlb 739/740 Live During Events
+http://192.99.54.242/spo/MLB_739/740_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 737/738 Live During Events
+http://192.99.54.242/spo/MLB_737/738_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 735/736 Live During Events
+http://192.99.54.242/spo/MLB_735/736_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 733/734 Live During Events
+http://192.99.54.242/spo/MLB_733/734_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 731/732 Live During Events
+http://192.99.54.242/spo/MLB_731/732_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 729/730 Live During Events
+http://192.99.54.242/spo/MLB_729/730_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 727/728 Live During Events
+http://192.99.54.242/spo/MLB_727/728_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 725/726 Live During Events
+http://192.99.54.242/spo/MLB_725/726_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 723/724 Live During Events
+http://192.99.54.242/spo/MLB_723/724_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb 721/722 Live During Events
+http://192.99.54.242/spo/MLB_721/722_LIVE_DURING_EVENTS/index.m3u8
+#EXTINF:-1,Mlb
+http://192.99.54.242/spo/MLB/index.m3u8
+#EXTINF:-1,Jio Football 2
+http://192.99.54.242/spo/JIO_FOOTBALL_2/index.m3u8
+#EXTINF:-1,Jio Football 1
+http://192.99.54.242/spo/JIO_FOOTBALL_1/index.m3u8
+#EXTINF:-1,Golf Channel French
+http://192.99.54.242/spo/GOLF_CHANNEL_FRENCH/index.m3u8
+#EXTINF:-1,Golf Channel
+http://192.99.54.242/spo/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1,Fubo Sports
+http://192.99.54.242/spo/FUBO_SPORTS/index.m3u8
+#EXTINF:-1,Fox Sports Racing
+http://192.99.54.242/spo/FOX_SPORTS_RACING/index.m3u8
+#EXTINF:-1,Fox Sports 6 Dutch
+http://192.99.54.242/spo/DUTCH/FOX_SPORTS_6/index.m3u8
+#EXTINF:-1,Fox Sports 5 Dutch
+http://192.99.54.242/spo/DUTCH/FOX_SPORTS_5/index.m3u8
+#EXTINF:-1,Fox Sports 4 Dutch
+http://192.99.54.242/spo/DUTCH/FOX_SPORTS_4/index.m3u8
+#EXTINF:-1,Fox Sports 3 Dutch
+http://192.99.54.242/spo/DUTCH/FOX_SPORTS_3/index.m3u8
+#EXTINF:-1,Fox Sports 2 Usa
+http://192.99.54.242/spo/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1,Fox Sports 2 Dutch
+http://192.99.54.242/spo/DUTCH/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1,Fox Sports 1 Usa
+http://192.99.54.242/spo/FOX_SPORTS_1/index.m3u8
+#EXTINF:-1,Fox Sports 1 Dutch
+http://192.99.54.242/spo/DUTCH/FOX_SPORTS_1/index.m3u8
+#EXTINF:-1,Euro Sports 2
+http://192.99.54.242/spo/EURO_SPORTS_2/index.m3u8
+#EXTINF:-1,Euro Sports 1
+http://192.99.54.242/spo/EURO_SPORTS_1/index.m3u8
+#EXTINF:-1,Espn U
+http://192.99.54.242/spo/ESPN_U/index.m3u8
+#EXTINF:-1,Espn News
+http://192.99.54.242/spo/ESPN_NEWS/index.m3u8
+#EXTINF:-1,Espn 2
+http://192.99.54.242/spo/ESPN_2/index.m3u8
+#EXTINF:-1,Espn
+http://192.99.54.242/spo/ESPN/index.m3u8
+#EXTINF:-1,Cbs Sports Network
+http://192.99.54.242/spo/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,Bt Sports Espn
+http://192.99.54.242/spo/BT_SPORTS_ESPN/index.m3u8
+#EXTINF:-1,Bt Sports 3
+http://192.99.54.242/spo/BT_SPORTS_3/index.m3u8
+#EXTINF:-1,Bt Sports 2
+http://192.99.54.242/spo/BT_SPORTS_2/index.m3u8
+#EXTINF:-1,Bt Sports 1
+http://192.99.54.242/spo/BT_SPORTS_1/index.m3u8
+#EXTINF:-1,Big Ten Network
+http://192.99.54.242/spo/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1,Bein Usa
+http://192.99.54.242/spo/BEIN_USA/index.m3u8
+#EXTINF:-1,Bein Sports 4 Max
+http://192.99.54.242/spo/BEIN_SPORTS_4_MAX/index.m3u8
+#EXTINF:-1,Bein Sports 3 Max
+http://192.99.54.242/spo/BEIN_SPORTS_3_MAX/index.m3u8
+#EXTINF:-1,Bein Sports 2 Max
+http://192.99.54.242/spo/BEIN_SPORTS_2_MAX/index.m3u8
+#EXTINF:-1,Bein Sports 1 Max
+http://192.99.54.242/spo/BEIN_SPORTS_1_MAX/index.m3u8
+#EXTINF:-1,Bein Nba
+http://192.99.54.242/spo/BEIN_NBA/index.m3u8
+#EXTINF:-1,Bein 9
+http://192.99.54.242/spo/BEIN_9/index.m3u8
+#EXTINF:-1,Bein 8
+http://192.99.54.242/spo/BEIN_8/index.m3u8
+#EXTINF:-1,Bein 7
+http://192.99.54.242/spo/BEIN_7/index.m3u8
+#EXTINF:-1,Bein 6
+http://192.99.54.242/spo/BEIN_6/index.m3u8
+#EXTINF:-1,Bein 5
+http://192.99.54.242/spo/BEIN_5/index.m3u8
+#EXTINF:-1,Bein 4
+http://192.99.54.242/spo/BEIN_4/index.m3u8
+#EXTINF:-1,Bein 3
+http://192.99.54.242/spo/BEIN_3/index.m3u8
+#EXTINF:-1,Bein 2
+http://192.99.54.242/spo/BEIN_2/index.m3u8
+#EXTINF:-1,Bein 16
+http://192.99.54.242/spo/BEIN_16/index.m3u8
+#EXTINF:-1,Bein 15
+http://192.99.54.242/spo/BEIN_15/index.m3u8
+#EXTINF:-1,Bein 14
+http://192.99.54.242/spo/BEIN_14/index.m3u8
+#EXTINF:-1,Bein 13
+http://192.99.54.242/spo/BEIN_13/index.m3u8
+#EXTINF:-1,Bein 12
+http://192.99.54.242/spo/BEIN_12/index.m3u8
+#EXTINF:-1,Bein 11
+http://192.99.54.242/spo/BEIN_11/index.m3u8
+#EXTINF:-1,Bein 10
+http://192.99.54.242/spo/BEIN_10/index.m3u8
+#EXTINF:-1,Bein 1
+http://192.99.54.242/spo/BEIN_1/index.m3u8
+#EXTINF:-1,Astro Supersport 4
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_4/index.m3u8
+#EXTINF:-1,Astro Supersport 3
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_3/index.m3u8
+#EXTINF:-1,Astro Supersport 2
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_2/index.m3u8
+#EXTINF:-1,Astro Supersport 1
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_1/index.m3u8
+#EXTINF:-1,Astro Fox Sports 3
+http://192.99.54.242/spo/ASTRO_FOX_SPORTS_3/index.m3u8
+#EXTINF:-1,Astro Fox Sports 2
+http://192.99.54.242/spo/ASTRO_FOX_SPORTS_2/index.m3u8
+#EXTINF:-1,Astro Fox Sports 1
+http://192.99.54.242/spo/ASTRO_FOX_SPORTS_1/index.m3u8
+#EXTINF:-1,Astro Espn 2
+http://192.99.54.242/spo/ASTRO_ESPN_2/index.m3u8
+#EXTINF:-1,Astro Espn 1
+http://192.99.54.242/spo/ASTRO_ESPN_1/index.m3u8
+#EXTINF:-1,Arena Sports 6
+http://192.99.54.242/spo/ARENA_SPORTS_6/index.m3u8
+#EXTINF:-1,Arena Sports 5
+http://192.99.54.242/spo/ARENA_SPORTS_5/index.m3u8
+#EXTINF:-1,Arena Sports 4
+http://192.99.54.242/spo/ARENA_SPORTS_4/index.m3u8
+#EXTINF:-1,Arena Sports 3
+http://192.99.54.242/spo/ARENA_SPORTS_3/index.m3u8
+#EXTINF:-1,Arena Sports 2
+http://192.99.54.242/spo/ARENA_SPORTS_2/index.m3u8
+#EXTINF:-1,Arena Sports 1
+http://192.99.54.242/spo/ARENA_SPORTS_1/index.m3u8
+#EXTINF:-1,Zee Punjabi News
+http://192.99.54.242/ind_punj/ZEE_PUNJABI_NEWS/index.m3u8
+#EXTINF:-1,Zee Punjabi Music
+http://192.99.54.242/ind_punj/ZEE_PUNJABI_MUSIC/index.m3u8
+#EXTINF:-1,Zee Punjabi
+http://192.99.54.242/ind_punj/ZEE_PUNJABI/index.m3u8
+#EXTINF:-1,Vision Punjab Tv
+http://192.99.54.242/ind_punj/VISION_PUNJAB_TV/index.m3u8
+#EXTINF:-1,Tv84
+http://192.99.54.242/ind_hin/TV84/index.m3u8
+#EXTINF:-1,Tv Punjab
+http://192.99.54.242/ind_punj/TV_PUNJAB/index.m3u8
+#EXTINF:-1,Tatasky De Rang
+http://192.99.54.242/ind_punj/TATASKY_DE_RANG/index.m3u8
+#EXTINF:-1,Sikh Channel
+http://192.99.54.242/ind_punj/SIKH_CHANNEL/index.m3u8
+#EXTINF:-1,Punjabi Zindabad
+http://192.99.54.242/ind_punj/PUNJABI_ZINDABAD/index.m3u8
+#EXTINF:-1,Punjabi Movies 6
+http://192.99.54.242/ind_punj/PUNJABI_MOVIES_6/index.m3u8
+#EXTINF:-1,Punjabi Movies 5
+http://192.99.54.242/ind_punj/PUNJABI_MOVIES_5/index.m3u8
+#EXTINF:-1,Punjabi Movies 4
+http://192.99.54.242/ind_punj/PUNJABI_MOVIES_4/index.m3u8
+#EXTINF:-1,Punjabi Movies 3
+http://192.99.54.242/ind_punj/PUNJABI_MOVIES_3/index.m3u8
+#EXTINF:-1,Punjabi Movies 2
+http://192.99.54.242/ind_punj/PUNJABI_MOVIES_2/index.m3u8
+#EXTINF:-1,Punjabi Movies 1
+http://192.99.54.242/ind_punj/PUNJABI_MOVIES_1/index.m3u8
+#EXTINF:-1,Punjabi Active
+http://192.99.54.242/ind_punj/PUNJABI_ACTIVE/index.m3u8
+#EXTINF:-1,Ptv Pardesi
+http://192.99.54.242/ind_punj/PTV_PARDESI/index.m3u8
+#EXTINF:-1,Ptn 24
+http://192.99.54.242/ind_punj/PTN_24/index.m3u8
+#EXTINF:-1,Ptc Simran
+http://192.99.54.242/ind_punj/PTC_SIMRAN/index.m3u8
+#EXTINF:-1,Ptc Punjabi Gold
+http://192.99.54.242/ind_punj/PTC_PUNJABI_GOLD/index.m3u8
+#EXTINF:-1,Ptc Punjabi
+http://192.99.54.242/ind_punj/PTC_PUNJABI/index.m3u8
+#EXTINF:-1,Ptc News
+http://192.99.54.242/ind_punj/PTC_NEWS/index.m3u8
+#EXTINF:-1,Ptc Music
+http://192.99.54.242/ind_punj/PTC_MUSIC/index.m3u8
+#EXTINF:-1,Ptc Dhol
+http://192.99.54.242/ind_punj/PTC_DHOL/index.m3u8
+#EXTINF:-1,Ptc Chakde
+http://192.99.54.242/ind_punj/PTC_CHAKDE/index.m3u8
+#EXTINF:-1,Pitaara Tv
+http://192.99.54.242/ind_punj/PITAARA_TV/index.m3u8
+#EXTINF:-1,Pitaara International
+http://192.99.54.242/ind_punj/PITAARA_INTERNATIONAL/index.m3u8
+#EXTINF:-1,Pbn Music
+http://192.99.54.242/ind_punj/PBN_MUSIC/index.m3u8
+#EXTINF:-1,Pardesi Tv
+http://192.99.54.242/ind_punj/PARDESI_TV/index.m3u8
+#EXTINF:-1,Nagara Tv
+http://192.99.54.242/ind_punj/NAGARA_TV/index.m3u8
+#EXTINF:-1,Mh One News
+http://192.99.54.242/ind_punj/MH_ONE_NEWS/index.m3u8
+#EXTINF:-1,Mh One Music
+http://192.99.54.242/ind_punj/MH_ONE_MUSIC/index.m3u8
+#EXTINF:-1,Mehfil Tv
+http://192.99.54.242/ind_punj/MEHFIL_TV/index.m3u8
+#EXTINF:-1,Manoranjan Movies
+http://192.99.54.242/ind_punj/MANORANJAN_MOVIES/index.m3u8
+#EXTINF:-1,Maha Punjabi
+http://192.99.54.242/ind_punj/MAHA_PUNJABI/index.m3u8
+#EXTINF:-1,Live Gurbani
+http://192.99.54.242/ind_punj/LIVE_GURBANI/index.m3u8
+#EXTINF:-1,Khalistan Tv
+http://192.99.54.242/ind_punj/KHALISTAN_TV/index.m3u8
+#EXTINF:-1,Jus Punjabi
+http://192.99.54.242/ind_punj/JUS_PUNJABI/index.m3u8
+#EXTINF:-1,Jus One
+http://192.99.54.242/ind_punj/JUS_ONE/index.m3u8
+#EXTINF:-1,Jhanjar Punjabi
+http://192.99.54.242/ind_punj/JHANJAR_PUNJABI/index.m3u8
+#EXTINF:-1,Jhanjar Music
+http://192.99.54.242/ind_punj/JHANJAR_MUSIC/index.m3u8
+#EXTINF:-1,Janta Tv
+http://192.99.54.242/ind_punj/JANTA_TV/index.m3u8
+#EXTINF:-1,Gurdwara Sahib
+http://192.99.54.242/ind_punj/GURDWARA_SAHIB/index.m3u8
+#EXTINF:-1,Garv Punjab
+http://192.99.54.242/ind_punj/GARV_PUNJAB/index.m3u8
+#EXTINF:-1,Garv Gurbani
+http://192.99.54.242/ind_punj/GARV_GURBANI/index.m3u8
+#EXTINF:-1,Fastway News
+http://192.99.54.242/ind_punj/FASTWAY_NEWS/index.m3u8
+#EXTINF:-1,Desi Plus
+http://192.99.54.242/ind_punj/DESI_PLUS/index.m3u8
+#EXTINF:-1,Desi Channel
+http://192.99.54.242/ind_punj/DESI_CHANNEL/index.m3u8
+#EXTINF:-1,Dd Punjabi
+http://192.99.54.242/ind_punj/DD_PUNJABI/index.m3u8
+#EXTINF:-1,Daily Gurbani Tv
+http://192.99.54.242/ind_punj/DAILY_GURBANI_TV/index.m3u8
+#EXTINF:-1,Cine Voice
+http://192.99.54.242/ind_punj/CINE_VOICE/index.m3u8
+#EXTINF:-1,Chardikla Time Tv
+http://192.99.54.242/ind_punj/CHARDIKLA_TIME_TV/index.m3u8
+#EXTINF:-1,Channel Y
+http://192.99.54.242/ind_punj/CHANNEL_Y/index.m3u8
+#EXTINF:-1,Boogle Bollywood
+http://192.99.54.242/ind_punj/BOOGLE_BOLLYWOOD/index.m3u8
+#EXTINF:-1,Balle Balle
+http://192.99.54.242/ind_punj/BALLE_BALLE_TV/index.m3u8
+#EXTINF:-1,Aone Tv
+http://192.99.54.242/ind_punj/AONE_TV/index.m3u8
+#EXTINF:-1,Amritt Sagar
+http://192.99.54.242/ind_punj/AMRITT_SAGAR/index.m3u8
+#EXTINF:-1,Amar Ujala
+http://192.99.54.242/ind_punj/AMAR_UJALA/index.m3u8
+#EXTINF:-1,Alpha Etc Punjabi
+http://192.99.54.242/ind_punj/ALPHA_ETC_PUNJABI/index.m3u8
+#EXTINF:-1,Akaal India
+http://192.99.54.242/ind_punj/AKAAL/index.m3u8
+#EXTINF:-1,Abp Sanjha
+http://192.99.54.242/ind_punj/ABP_SANJHA/index.m3u8
+#EXTINF:-1,5aab Tv
+http://192.99.54.242/ind_punj/5_AAB_TV/index.m3u8
+#EXTINF:-1,9x Tashan
+http://192.99.54.242/ind_punj/9X_TASHAN/index.m3u8
+#EXTINF:-1,Zee Cafe
 http://192.99.54.242/ind_eng/ZEE_CAFE/index.m3u8
-#EXTINF:-1, Travel Xp English
+#EXTINF:-1,Travel Xp English
 http://192.99.54.242/ind_eng/TRAVEL_XP/index.m3u8
-#EXTINF:-1, Tlc English
+#EXTINF:-1,Tlc English
 http://192.99.54.242/ind_eng/TLC/index.m3u8
-#EXTINF:-1, Times Now
+#EXTINF:-1,Times Now
 http://192.99.54.242/ind_eng/TIMES_NOW/index.m3u8
-#EXTINF:-1, Tata Sky Vedic Maths
+#EXTINF:-1,Tata Sky Vedic Maths
 http://192.99.54.242/ind_eng/TATASKY_VEDIC_MATHS/index.m3u8
-#EXTINF:-1, Tata Sky Smart Manager
+#EXTINF:-1,Tata Sky Smart Manager
 http://192.99.54.242/ind_eng/TATASKY_SMART_MANAGER/index.m3u8
-#EXTINF:-1, Tata Sky Show Bizz
+#EXTINF:-1,Tata Sky Show Bizz
 http://192.99.54.242/ind_eng/TATASKY_SHOW_BIZZ/index.m3u8
-#EXTINF:-1, Tata Sky Shorts Tv
+#EXTINF:-1,Tata Sky Shorts Tv
 http://192.99.54.242/ind_eng/TATASKY_SHORTS_TV/index.m3u8
-#EXTINF:-1, Tata Sky Hits
+#EXTINF:-1,Tata Sky Hits
 http://192.99.54.242/ind_eng/TATASKY_HITS/index.m3u8
-#EXTINF:-1, Tata Sky Beauty
+#EXTINF:-1,Tata Sky Beauty
 http://192.99.54.242/ind_eng/TATASKY_BEAUTY/index.m3u8
-#EXTINF:-1, Star World Premiere
+#EXTINF:-1,Star World Premiere
 http://192.99.54.242/ind_hin/STAR_WORLD_PREMIERE/index.m3u8
-#EXTINF:-1, Star World
+#EXTINF:-1,Star World
 http://192.99.54.242/ind_hin/STAR_WORLD/index.m3u8
-#EXTINF:-1, Star Movies Select
+#EXTINF:-1,Star Movies Select
 http://192.99.54.242/ind_hin/STAR_MOVIES_SELECT/index.m3u8
-#EXTINF:-1, Star Movies
+#EXTINF:-1,Star Movies
 http://192.99.54.242/ind_hin/STAR_MOVIES/index.m3u8
-#EXTINF:-1, Sony Pix
+#EXTINF:-1,Sony Pix
 http://192.99.54.242/ind_eng/SONY_PIX/index.m3u8
-#EXTINF:-1, Sony Bbc Earth English
+#EXTINF:-1,Sony Bbc Earth English
 http://192.99.54.242/ind_eng/SONY_BBC_EARTH/index.m3u8
-#EXTINF:-1, Romedy Now
+#EXTINF:-1,Romedy Now
 http://192.99.54.242/ind_eng/ROMEDY_NOW/index.m3u8
-#EXTINF:-1, National Geographic Wild English
+#EXTINF:-1,National Geographic Wild English
 http://192.99.54.242/ind_eng/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic English
+#EXTINF:-1,National Geographic English
 http://192.99.54.242/ind_eng/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Movies Now X
+#EXTINF:-1,Movies Now X
 http://192.99.54.242/ind_eng/MOVIES_NOW_X/index.m3u8
-#EXTINF:-1, Movies Now Plus
+#EXTINF:-1,Movies Now Plus
 http://192.99.54.242/ind_eng/MOVIES_NOW_PLUS/index.m3u8
-#EXTINF:-1, Movies Now
+#EXTINF:-1,Movies Now
 http://192.99.54.242/ind_eng/MOVIES_NOW/index.m3u8
-#EXTINF:-1, Mirror Now
+#EXTINF:-1,Mirror Now
 http://192.99.54.242/ind_eng/MIRROR_NOW/index.m3u8
-#EXTINF:-1, History English
+#EXTINF:-1,History English
 http://192.99.54.242/ind_eng/HISTORY/index.m3u8
-#EXTINF:-1, Hbo India
+#EXTINF:-1,Hbo India
 http://192.99.54.242/ind_eng/HBO/index.m3u8
-#EXTINF:-1, Fox Life English
+#EXTINF:-1,Fox Life English
 http://192.99.54.242/ind_eng/FOX_LIFE/index.m3u8
-#EXTINF:-1, Discovery World English
+#EXTINF:-1,Discovery World English
 http://192.99.54.242/ind_eng/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1, Comedy Central India
+#EXTINF:-1,Comedy Central India
 http://192.99.54.242/ind_eng/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1, Colors Infinity
+#EXTINF:-1,Colors Infinity
 http://192.99.54.242/ind_eng/COLORS_INFINITY/index.m3u8
-#EXTINF:-1, Cnbc English
+#EXTINF:-1,Cnbc English
 http://192.99.54.242/ind_eng/CNBC/index.m3u8
-#EXTINF:-1, Animal Planet English
+#EXTINF:-1,Animal Planet English
 http://192.99.54.242/ind_eng/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1, Zoom
+#EXTINF:-1,Zoom
 http://192.99.54.242/ind_hin/ZOOM/index.m3u8
-#EXTINF:-1, Zing
+#EXTINF:-1,Zing
 http://192.99.54.242/ind_hin/ZING/index.m3u8
-#EXTINF:-1, Zee Zest
+#EXTINF:-1,Zee Zest
 http://192.99.54.242/ind_hin/ZEE_ZEST/index.m3u8
-#EXTINF:-1, Zee Tv India
+#EXTINF:-1,Zee Tv India
 http://192.99.54.242/ind_hin/ZEE_TV/index.m3u8
-#EXTINF:-1, Zee Theatre
+#EXTINF:-1,Zee Theatre
 http://192.99.54.242/ind_hin/ZEE_THEATRE/index.m3u8
-#EXTINF:-1, Zee Smile
+#EXTINF:-1,Zee Smile
 http://192.99.54.242/ind_hin/ZEE_SMILE/index.m3u8
-#EXTINF:-1, Zee News
+#EXTINF:-1,Zee News
 http://192.99.54.242/ind_hin/ZEE_NEWS/index.m3u8
-#EXTINF:-1, Zee Hindustan
+#EXTINF:-1,Zee Hindustan
 http://192.99.54.242/ind_hin/ZEE_HINDUSTAN/index.m3u8
-#EXTINF:-1, Zee Hindi Music
+#EXTINF:-1,Zee Hindi Music
 http://192.99.54.242/ind_hin/ZEE_HINDI_MUSIC/index.m3u8
-#EXTINF:-1, Zee Classic
+#EXTINF:-1,Zee Classic
 http://192.99.54.242/ind_hin/ZEE_CLASSIC/index.m3u8
-#EXTINF:-1, Zee Cinema India
+#EXTINF:-1,Zee Cinema India
 http://192.99.54.242/ind_hin/ZEE_CINEMA/index.m3u8
-#EXTINF:-1, Zee Business
+#EXTINF:-1,Zee Business
 http://192.99.54.242/ind_hin/ZEE_BUSINESS/index.m3u8
-#EXTINF:-1, Zee Bollywood
+#EXTINF:-1,Zee Bollywood
 http://192.99.54.242/ind_hin/ZEE_BOLLYWOOD/index.m3u8
-#EXTINF:-1, Zee Anmol Cinema
+#EXTINF:-1,Zee Anmol Cinema
 http://192.99.54.242/ind_hin/ZEE_ANMOL_CINEMA/index.m3u8
-#EXTINF:-1, Zee Anmol
+#EXTINF:-1,Zee Anmol
 http://192.99.54.242/ind_hin/ZEE_ANMOL/index.m3u8
-#EXTINF:-1, Zee Action
+#EXTINF:-1,Zee Action
 http://192.99.54.242/ind_hin/ZEE_ACTION/index.m3u8
-#EXTINF:-1, Wow Cinema One
+#EXTINF:-1,Wow Cinema One
 http://192.99.54.242/ind_hin/WOW_CINEMA/index.m3u8
-#EXTINF:-1, Utv Movies
+#EXTINF:-1,Utv Movies
 http://192.99.54.242/ind_hin/UTV_MOVIES/index.m3u8
-#EXTINF:-1, Utv Bindass
+#EXTINF:-1,Utv Bindass
 http://192.99.54.242/ind_hin/UTV_BINDASS/index.m3u8
-#EXTINF:-1, Utv Action
+#EXTINF:-1,Utv Action
 http://192.99.54.242/ind_hin/UTV_ACTION/index.m3u8
-#EXTINF:-1, Utv
+#EXTINF:-1,Utv
 http://192.99.54.242/ind_hin/UTV/index.m3u8
-#EXTINF:-1, Travel Xp Hindi
+#EXTINF:-1,Travel Xp Hindi
 http://192.99.54.242/ind_hin/TRAVEL_XP/index.m3u8
-#EXTINF:-1, Tlc Hindi
+#EXTINF:-1,Tlc Hindi
 http://192.99.54.242/ind_hin/TLC/index.m3u8
-#EXTINF:-1, The Q
+#EXTINF:-1,The Q
 http://192.99.54.242/ind_hin/THE_Q/index.m3u8
-#EXTINF:-1, Tez
+#EXTINF:-1,Tez
 http://192.99.54.242/ind_hin/AAJTAK_TEZ/index.m3u8
-#EXTINF:-1, Tatasky Comedy
+#EXTINF:-1,Tatasky Comedy
 http://192.99.54.242/ind_hin/TATASKY_COMEDY/index.m3u8
-#EXTINF:-1, Tata Sky Theatre
+#EXTINF:-1,Tata Sky Theatre
 http://192.99.54.242/ind_hin/TATASKY_THEATRE/index.m3u8
-#EXTINF:-1, Tata Sky Hollywood Local
+#EXTINF:-1,Tata Sky Hollywood Local
 http://192.99.54.242/ind_hin/TATASKY_HOLLYWOOD_LOCAL/index.m3u8
-#EXTINF:-1, Tata Sky Fitness
+#EXTINF:-1,Tata Sky Fitness
 http://192.99.54.242/ind_hin/TATASKY_FITNESS/index.m3u8
-#EXTINF:-1, Tata Sky Family Health
+#EXTINF:-1,Tata Sky Family Health
 http://192.99.54.242/ind_hin/TATASKY_FAMILY_HEALTH/index.m3u8
-#EXTINF:-1, Tata Sky English In Hindi
+#EXTINF:-1,Tata Sky English In Hindi
 http://192.99.54.242/ind_hin/TATASKY_ENGLISH_IN_HINDI/index.m3u8
-#EXTINF:-1, Tata Sky Cooking
+#EXTINF:-1,Tata Sky Cooking
 http://192.99.54.242/ind_hin/TATASKY_COOKING/index.m3u8
-#EXTINF:-1, Tata Sky Classic Cinema
+#EXTINF:-1,Tata Sky Classic Cinema
 http://192.99.54.242/ind_hin/TATASKY_CLASSIC_CINEMA/index.m3u8
-#EXTINF:-1, Tata Sky Bollywood Premiere
+#EXTINF:-1,Tata Sky Bollywood Premiere
 http://192.99.54.242/ind_hin/TATASKY_BOLLYWOOD_PREMIERE/index.m3u8
-#EXTINF:-1, Tata Sky Adbhut Kahaniyan
+#EXTINF:-1,Tata Sky Adbhut Kahaniyan
 http://192.99.54.242/ind_hin/TATASKY_ADBHUT_KAHANIYAN/index.m3u8
-#EXTINF:-1, Tata Sky Acting Adda
+#EXTINF:-1,Tata Sky Acting Adda
 http://192.99.54.242/ind_hin/TATASKY_ACTING_ADDA/index.m3u8
-#EXTINF:-1, Star Utsav Movies
+#EXTINF:-1,Star Utsav Movies
 http://192.99.54.242/ind_hin/STAR_UTSAV_MOVIES/index.m3u8
-#EXTINF:-1, Star Utsav
+#EXTINF:-1,Star Utsav
 http://192.99.54.242/ind_hin/STAR_UTSAV/index.m3u8
-#EXTINF:-1, Star Plus India
+#EXTINF:-1,Star Plus India
 http://192.99.54.242/ind_hin/STAR_PLUS/index.m3u8
-#EXTINF:-1, Star Gold Select
+#EXTINF:-1,Star Gold Select
 http://192.99.54.242/ind_hin/STAR_GOLD_SELECT/index.m3u8
-#EXTINF:-1, Star Gold India
+#EXTINF:-1,Star Gold India
 http://192.99.54.242/ind_hin/STAR_GOLD/index.m3u8
-#EXTINF:-1, Star Gold 2
+#EXTINF:-1,Star Gold 2
 http://192.99.54.242/ind_hin/STAR_GOLD_2/index.m3u8
-#EXTINF:-1, Star Bharat India
+#EXTINF:-1,Star Bharat India
 http://192.99.54.242/ind_hin/STAR_BHARAT/index.m3u8
-#EXTINF:-1, Sony Wah
+#EXTINF:-1,Sony Wah
 http://192.99.54.242/ind_hin/SONY_WAH/index.m3u8
-#EXTINF:-1, Sony Tv Sd India
+#EXTINF:-1,Sony Tv Sd India
 http://192.99.54.242/ind_hin/SONY_TV_SD/index.m3u8
-#EXTINF:-1, Sony Tv Hd India
+#EXTINF:-1,Sony Tv Hd India
 http://192.99.54.242/ind_hin/SONY_TV_HD/index.m3u8
-#EXTINF:-1, Sony Tv Apac
+#EXTINF:-1,Sony Tv Apac
 http://192.99.54.242/ind_hin/SONY_TV_APAC/index.m3u8
-#EXTINF:-1, Sony Sab India
+#EXTINF:-1,Sony Sab India
 http://192.99.54.242/ind_hin/SONY_SAB/index.m3u8
-#EXTINF:-1, Sony Sab Apac
+#EXTINF:-1,Sony Sab Apac
 http://192.99.54.242/ind_hin/SONY_SAB_APAC/index.m3u8
-#EXTINF:-1, Sony Pal
+#EXTINF:-1,Sony Pal
 http://192.99.54.242/ind_hin/SONY_PAL/index.m3u8
-#EXTINF:-1, Sony Max Sd India
+#EXTINF:-1,Sony Max Sd India
 http://192.99.54.242/ind_hin/SONY_MAX_SD/index.m3u8
-#EXTINF:-1, Sony Max Hd India
+#EXTINF:-1,Sony Max Hd India
 http://192.99.54.242/ind_hin/SONY_MAX_HD/index.m3u8
-#EXTINF:-1, Sony Max Apac
+#EXTINF:-1,Sony Max Apac
 http://192.99.54.242/ind_hin/SONY_MAX_APAC/index.m3u8
-#EXTINF:-1, Sony Max 2 India
+#EXTINF:-1,Sony Max 2 India
 http://192.99.54.242/ind_hin/SONY_MAX_2/index.m3u8
-#EXTINF:-1, Sony Bbc Earth Hindi
+#EXTINF:-1,Sony Bbc Earth Hindi
 http://192.99.54.242/ind_hin/SONY_BBC_EARTH/index.m3u8
-#EXTINF:-1, Rishtey India
+#EXTINF:-1,Rishtey India
 http://192.99.54.242/ind_hin/RISHTEY/index.m3u8
-#EXTINF:-1, Rishtey Cineplex
+#EXTINF:-1,Rishtey Cineplex
 http://192.99.54.242/ind_hin/RISHTEY_CINEPLEX/index.m3u8
-#EXTINF:-1, News 24
+#EXTINF:-1,News 24
 http://192.99.54.242/ind_hin/NEWS_24/index.m3u8
-#EXTINF:-1, Ndtv India
+#EXTINF:-1,Ndtv India
 http://192.99.54.242/ind_hin/NDTV_INDIA/index.m3u8
-#EXTINF:-1, National Geographic Wild Hindi
+#EXTINF:-1,National Geographic Wild Hindi
 http://192.99.54.242/ind_hin/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Hindi
+#EXTINF:-1,National Geographic Hindi
 http://192.99.54.242/ind_hin/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Music India
+#EXTINF:-1,Music India
 http://192.99.54.242/ind_hin/MUSIC_INDIA/index.m3u8
-#EXTINF:-1, Mtv Beats
+#EXTINF:-1,Mtv Beats
 http://192.99.54.242/ind_hin/MTV_BEATS/index.m3u8
-#EXTINF:-1, Movies Active
+#EXTINF:-1,Movies Active
 http://192.99.54.242/ind_hin/MOVIES_ACTIVE/index.m3u8
-#EXTINF:-1, Miniplex
+#EXTINF:-1,Miniplex
 http://192.99.54.242/ind_hin/MINIPLEX/index.m3u8
-#EXTINF:-1, Manoranjan Tv
+#EXTINF:-1,Manoranjan Tv
 http://192.99.54.242/ind_hin/MANORANJAN_TV/index.m3u8
-#EXTINF:-1, Jus Hindi
+#EXTINF:-1,Jus Hindi
 http://192.99.54.242/ind_hin/JUS_HINDI/index.m3u8
-#EXTINF:-1, India Tv
+#EXTINF:-1,India Tv
 http://192.99.54.242/ind_hin/INDIA_TV/index.m3u8
-#EXTINF:-1, Ibc 24
+#EXTINF:-1,Ibc 24
 http://192.99.54.242/ind_hin/IBC_24/index.m3u8
-#EXTINF:-1, Housefull Movies
+#EXTINF:-1,Housefull Movies
 http://192.99.54.242/ind_hin/HOUSEFULL_MOVIES/index.m3u8
-#EXTINF:-1, Housefull Action
+#EXTINF:-1,Housefull Action
 http://192.99.54.242/ind_hin/HOUSEFULL_ACTION/index.m3u8
-#EXTINF:-1, History Hindi
+#EXTINF:-1,History Hindi
 http://192.99.54.242/ind_hin/HISTORY/index.m3u8
-#EXTINF:-1, Hindi Movies 4
+#EXTINF:-1,Hindi Movies 4
 http://192.99.54.242/ind_hin/HINDI_MOVIES_4/index.m3u8
-#EXTINF:-1, Hindi Movies 3
+#EXTINF:-1,Hindi Movies 3
 http://192.99.54.242/ind_hin/HINDI_MOVIES_3/index.m3u8
-#EXTINF:-1, Hindi Movies 2
+#EXTINF:-1,Hindi Movies 2
 http://192.99.54.242/ind_hin/HINDI_MOVIES_2/index.m3u8
-#EXTINF:-1, Hindi Movies 1
+#EXTINF:-1,Hindi Movies 1
 http://192.99.54.242/ind_hin/HINDI_MOVIES_1/index.m3u8
-#EXTINF:-1, Fox Life Hindi
+#EXTINF:-1,Fox Life Hindi
 http://192.99.54.242/ind_hin/FOX_LIFE/index.m3u8
-#EXTINF:-1, Food Food
+#EXTINF:-1,Food Food
 http://192.99.54.242/ind_hin/FOOD_FOOD/index.m3u8
-#EXTINF:-1, Filmy
+#EXTINF:-1,Filmy
 http://192.99.54.242/ind_hin/FILMY/index.m3u8
-#EXTINF:-1, Evergreen Classics Active
+#EXTINF:-1,Evergreen Classics Active
 http://192.99.54.242/ind_hin/EVERGREEN_CLASSICS_ACTIVE/index.m3u8
-#EXTINF:-1, Epic Tv
+#EXTINF:-1,Epic Tv
 http://192.99.54.242/ind_hin/EPIC_TV/index.m3u8
-#EXTINF:-1, Divya Tv
+#EXTINF:-1,Divya Tv
 http://192.99.54.242/ind_hin/DIVYA_TV/index.m3u8
-#EXTINF:-1, Discovery World Hindi
+#EXTINF:-1,Discovery World Hindi
 http://192.99.54.242/ind_hin/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1, Dd National
+#EXTINF:-1,Dd National
 http://192.99.54.242/ind_hin/DD_NATIONAL/index.m3u8
-#EXTINF:-1, Dd India
+#EXTINF:-1,Dd India
 http://192.99.54.242/ind_hin/DD_INDIA/index.m3u8
-#EXTINF:-1, Colors India
+#EXTINF:-1,Colors India
 http://192.99.54.242/ind_hin/COLORS/index.m3u8
-#EXTINF:-1, Colors Cineplex India
+#EXTINF:-1,Colors Cineplex India
 http://192.99.54.242/ind_hin/COLORS_CINEPLEX/index.m3u8
-#EXTINF:-1, Cinema Tv
+#EXTINF:-1,Cinema Tv
 http://192.99.54.242/ind_hin/CINEMA_TV/index.m3u8
-#EXTINF:-1, Cine Active
+#EXTINF:-1,Cine Active
 http://192.99.54.242/ind_hin/CINE_ACTIVE/index.m3u8
-#EXTINF:-1, Box Cinema
+#EXTINF:-1,Box Cinema
 http://192.99.54.242/ind_hin/BOX_CINEMA/index.m3u8
-#EXTINF:-1, Bollywood Sci-fi Horror
+#EXTINF:-1,Bollywood Sci-fi Horror
 http://192.99.54.242/ind_hin/BOLLYWOOD_SCI-FI_HORROR/index.m3u8
-#EXTINF:-1, Bollywood Premiere
+#EXTINF:-1,Bollywood Premiere
 http://192.99.54.242/ind_hin/BOLLYWOOD_PREMIERE/index.m3u8
-#EXTINF:-1, Bollywood Nonstop
+#EXTINF:-1,Bollywood Nonstop
 http://192.99.54.242/ind_hin/BOLLYWOOD_NONSTOP/index.m3u8
-#EXTINF:-1, Bollywood New Release
+#EXTINF:-1,Bollywood New Release
 http://192.99.54.242/ind_hin/BOLLYWOOD_NEW_RELEASE/index.m3u8
-#EXTINF:-1, Bollywood Drama
+#EXTINF:-1,Bollywood Drama
 http://192.99.54.242/ind_hin/BOLLYWOOD_DRAMA/index.m3u8
-#EXTINF:-1, Bollywood Comedy
+#EXTINF:-1,Bollywood Comedy
 http://192.99.54.242/ind_hin/BOLLYWOOD_COMEDY/index.m3u8
-#EXTINF:-1, Bollywood Classics
+#EXTINF:-1,Bollywood Classics
 http://192.99.54.242/ind_hin/BOLLYWOOD_CLASSICS/index.m3u8
-#EXTINF:-1, Bollywood Classic
+#EXTINF:-1,Bollywood Classic
 http://192.99.54.242/ind_hin/BOLLYWOOD_CLASSIC/index.m3u8
-#EXTINF:-1, Bollywood Action
+#EXTINF:-1,Bollywood Action
 http://192.99.54.242/ind_hin/BOLLYWOOD_ACTION/index.m3u8
-#EXTINF:-1, Bbo India
+#EXTINF:-1,Bbo India
 http://192.99.54.242/ind_hin/BBO/index.m3u8
-#EXTINF:-1, Bbo Classic
+#EXTINF:-1,Bbo Classic
 http://192.99.54.242/ind_hin/BBO_CLASSIC/index.m3u8
-#EXTINF:-1, B4u Plus
+#EXTINF:-1,B4u Plus
 http://192.99.54.242/ind_hin/B4U_PLUS/index.m3u8
-#EXTINF:-1, B4u Music India
+#EXTINF:-1,B4u Music India
 http://192.99.54.242/ind_hin/B4U_MUSIC/index.m3u8
-#EXTINF:-1, B4u Movies India
+#EXTINF:-1,B4u Movies India
 http://192.99.54.242/ind_hin/B4U_MOVIES/index.m3u8
-#EXTINF:-1, B4u Kadak
+#EXTINF:-1,B4u Kadak
 http://192.99.54.242/ind_hin/B4U_KADAK/index.m3u8
-#EXTINF:-1, B-flix Movies
+#EXTINF:-1,B-flix Movies
 http://192.99.54.242/ind_hin/BFLIX_MOVIES/index.m3u8
-#EXTINF:-1, Animal Planet Hindi
+#EXTINF:-1,Animal Planet Hindi
 http://192.99.54.242/ind_hin/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1, And Tv India
+#EXTINF:-1,And Tv India
 http://192.99.54.242/ind_hin/AND_TV/index.m3u8
-#EXTINF:-1, And Prive
+#EXTINF:-1,And Prive
 http://192.99.54.242/ind_hin/AND_PRIVE/index.m3u8
-#EXTINF:-1, And Pictures
+#EXTINF:-1,And Pictures
 http://192.99.54.242/ind_hin/AND_PICTURES/index.m3u8
-#EXTINF:-1, And Flix
+#EXTINF:-1,And Flix
 http://192.99.54.242/ind_hin/AND_FLIX/index.m3u8
-#EXTINF:-1, And Explore
+#EXTINF:-1,And Explore
 http://192.99.54.242/ind_hin/AND_EXPLORE/index.m3u8
-#EXTINF:-1, Aajtak
+#EXTINF:-1,Aajtak
 http://192.99.54.242/ind_hin/AAJTAK/index.m3u8
-#EXTINF:-1, 9xm
+#EXTINF:-1,9xm
 http://192.99.54.242/ind_hin/9XM/index.m3u8
-#EXTINF:-1, 9x Jalwa
+#EXTINF:-1,9x Jalwa
 http://192.99.54.242/ind_hin/9X_JALWA/index.m3u8
+#EXTINF:-1,Zeste French
+http://192.99.54.242/ca_fr/ZESTE/index.m3u8
+#EXTINF:-1,Z Tele French
+http://192.99.54.242/ca_fr/Z_TELE/index.m3u8
+#EXTINF:-1,Yoopa French
+http://192.99.54.242/ca_fr/YOOPA/index.m3u8
+#EXTINF:-1,Vie French
+http://192.99.54.242/ca_fr/VIE/index.m3u8
+#EXTINF:-1,V Montreal French
+http://192.99.54.242/ca_fr/V_MONTREAL/index.m3u8
+#EXTINF:-1,Tvo French
+http://192.99.54.242/ca_fr/TVO/index.m3u8
+#EXTINF:-1,Tva Quebec French
+http://192.99.54.242/ca_fr/TVA_QUEBEC/index.m3u8
+#EXTINF:-1,Tv5 Quebec French
+http://192.99.54.242/ca_fr/TV5_QUEBEC/index.m3u8
+#EXTINF:-1,Tv5 Monde French
+http://192.99.54.242/fr/TV5_MONDE/index.m3u8
+#EXTINF:-1,Tf1 French
+http://192.99.54.242/fr/TF1/index.m3u8
+#EXTINF:-1,Tele Quebec French
+http://192.99.54.242/ca_fr/TELE_QUEBEC/index.m3u8
+#EXTINF:-1,Tcm Cinema French
+http://192.99.54.242/fr/TCM_CINEMA/index.m3u8
+#EXTINF:-1,Super Ecran 4 French
+http://192.99.54.242/ca_fr/SUPER_ECRAN_4/index.m3u8
+#EXTINF:-1,Super Ecran 3 French
+http://192.99.54.242/ca_fr/SUPER_ECRAN_3/index.m3u8
+#EXTINF:-1,Super Ecran 2 French
+http://192.99.54.242/ca_fr/SUPER_ECRAN_2/index.m3u8
+#EXTINF:-1,Super Ecran 1 French
+http://192.99.54.242/ca_fr/SUPER_ECRAN_1/index.m3u8
+#EXTINF:-1,Rfm Tv French
+http://192.99.54.242/fr/RFM_TV/index.m3u8
+#EXTINF:-1,Rds French
+http://192.99.54.242/ca_fr/RDS/index.m3u8
+#EXTINF:-1,Rds 2 French
+http://192.99.54.242/ca_fr/RDS_2/index.m3u8
+#EXTINF:-1,Rdi French
+http://192.99.54.242/ca_fr/RDI/index.m3u8
+#EXTINF:-1,Paris Premiere French
+http://192.99.54.242/fr/PARIS_PREMIERE/index.m3u8
+#EXTINF:-1,Paramount Channel French
+http://192.99.54.242/fr/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1,Ocs Max French
+http://192.99.54.242/fr/OCS_MAX/index.m3u8
+#EXTINF:-1,Ocs Geants French
+http://192.99.54.242/fr/OCS_GEANTS/index.m3u8
+#EXTINF:-1,Ocs City French
+http://192.99.54.242/fr/OCS_CITY/index.m3u8
+#EXTINF:-1,Ocs Choc French
+http://192.99.54.242/fr/OCS_CHOC/index.m3u8
+#EXTINF:-1,National Geographic Wild French
+http://192.99.54.242/fr/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1,National Geographic French
+http://192.99.54.242/fr/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1,Mtv Dance French
+http://192.99.54.242/fr/MTV_DANCE/index.m3u8
+#EXTINF:-1,Meteo Media
+http://192.99.54.242/ca_fr/METEO_MEDIA/index.m3u8
+#EXTINF:-1,Mcm French
+http://192.99.54.242/fr/MCM/index.m3u8
+#EXTINF:-1,Lcn French
+http://192.99.54.242/ca_fr/LCN/index.m3u8
+#EXTINF:-1,Lci French
+http://192.99.54.242/fr/LCI/index.m3u8
+#EXTINF:-1,Histoire Tv French
+http://192.99.54.242/fr/HISTOIRE/index.m3u8
+#EXTINF:-1,Guill French
+http://192.99.54.242/fr/GUILL/index.m3u8
+#EXTINF:-1,France Info French
+http://192.99.54.242/fr/FRANCE_INFO/index.m3u8
+#EXTINF:-1,France 2 French
+http://192.99.54.242/fr/FRANCE_2/index.m3u8
+#EXTINF:-1,Discovery Science French
+http://192.99.54.242/fr/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1,Discovery Investigation French
+http://192.99.54.242/fr/DISCOVERY_INVESTIGATION/index.m3u8
+#EXTINF:-1,Discovery Channel French
+http://192.99.54.242/fr/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1,Crume Investigation French
+http://192.99.54.242/ca_fr/CRUME_INVESTIGATION/index.m3u8
+#EXTINF:-1,Crime Disctrict French
+http://192.99.54.242/fr/CRIME_DISCTRICT/index.m3u8
+#EXTINF:-1,Cpac French
+http://192.99.54.242/ca_fr/CPAC/index.m3u8
+#EXTINF:-1,Comedy Central French
+http://192.99.54.242/fr/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1,Cnews French
+http://192.99.54.242/fr/CNEWS/index.m3u8
+#EXTINF:-1,Cine Premiere French
+http://192.99.54.242/fr/CINE_PREMIERE/index.m3u8
+#EXTINF:-1,Cine Frisson French
+http://192.99.54.242/fr/CINE_FRISSON/index.m3u8
+#EXTINF:-1,Cine Famiz French
+http://192.99.54.242/fr/CINE_FAMIZ/index.m3u8
+#EXTINF:-1,Cine Emotion French
+http://192.99.54.242/fr/CINE_EMOTION/index.m3u8
+#EXTINF:-1,Cine Club French
+http://192.99.54.242/fr/CINE_CLUB/index.m3u8
+#EXTINF:-1,Cine Classic French
+http://192.99.54.242/fr/CINE_CLASSIC/index.m3u8
+#EXTINF:-1,Cherie 25 French
+http://192.99.54.242/fr/CHERIE_25/index.m3u8
+#EXTINF:-1,Chasse&peche French
+http://192.99.54.242/fr/CHASSE&PECHE/index.m3u8
+#EXTINF:-1,Casa French
+http://192.99.54.242/ca_fr/CASA/index.m3u8
+#EXTINF:-1,Canal Series French
+http://192.99.54.242/fr/CANAL_SERIES/index.m3u8
+#EXTINF:-1,Canal Savoir French
+http://192.99.54.242/ca_fr/CANAL_SAVOIR/index.m3u8
+#EXTINF:-1,Canal J French
+http://192.99.54.242/fr/CANAL_J/index.m3u8
+#EXTINF:-1,Canal Id French
+http://192.99.54.242/ca_fr/CANAL_ID/index.m3u8
+#EXTINF:-1,Canal French
+http://192.99.54.242/fr/CANAL/index.m3u8
+#EXTINF:-1,Canal Family French
+http://192.99.54.242/fr/CANAL_FAMILY/index.m3u8
+#EXTINF:-1,Canal Cinema French
+http://192.99.54.242/fr/CANAL_CINEMA/index.m3u8
+#EXTINF:-1,C Star French
+http://192.99.54.242/fr/C_STAR/index.m3u8
+#EXTINF:-1,Brava French
+http://192.99.54.242/fr/BRAVA/index.m3u8
+#EXTINF:-1,Bfm Tv French
+http://192.99.54.242/ca_fr/BFM_TV/index.m3u8
+#EXTINF:-1,Bet French
+http://192.99.54.242/fr/BET/index.m3u8
+#EXTINF:-1,Aete French
+http://192.99.54.242/ca_fr/AETE/index.m3u8
+#EXTINF:-1,Action French
+http://192.99.54.242/ca_fr/ACTION/index.m3u8
+#EXTINF:-1,6 Ter French
+http://192.99.54.242/ca_fr/6_TER/index.m3u8
+#EXTINF:-1,13 Emu Rue French
+http://192.99.54.242/ca_fr/13_EMU_RUE/index.m3u8
+#EXTINF:-1,Willow Xtra
+http://192.99.54.242/spo/WILLOW_XTRA/index.m3u8
+#EXTINF:-1,Willow Tv 2
+http://192.99.54.242/spo/WILLOW_2/index.m3u8
+#EXTINF:-1,Willow Tv
+http://192.99.54.242/spo/WILLOW_TV/index.m3u8
+#EXTINF:-1,Willow Canada
+http://192.99.54.242/spo/WILLOW_CANADA/index.m3u8
+#EXTINF:-1,Supersport Cricket
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_CRICKET/index.m3u8
+#EXTINF:-1,Star Sports Select 2
+http://192.99.54.242/spo/STAR_SPORTS_SELECT_2/index.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://192.99.54.242/spo/STAR_SPORTS_SELECT_1/index.m3u8
+#EXTINF:-1,Star Sports First
+http://192.99.54.242/spo/STAR_SPORTS_FIRST/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://192.99.54.242/spo/STAR_SPORTS_3/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://192.99.54.242/spo/STAR_SPORTS_2/index.m3u8
+#EXTINF:-1,Star Sports 1 Tamil
+http://192.99.54.242/spo/TAMIL/STAR_SPORTS/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi
+http://192.99.54.242/spo/HINDI/STAR_SPORTS_1/index.m3u8
+#EXTINF:-1,Star Sports 1 English
+http://192.99.54.242/spo/STAR_SPORTS_1/index.m3u8
+#EXTINF:-1,Sony Ten 3
+http://192.99.54.242/spo/SONY_TEN_3/index.m3u8
+#EXTINF:-1,Sony Ten 2
+http://192.99.54.242/spo/SONY_TEN_2/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://192.99.54.242/spo/SONY_TEN_1/index.m3u8
+#EXTINF:-1,Sony Six
+http://192.99.54.242/spo/SONY_SIX/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://192.99.54.242/spo/SKY_SPORTS_CRICKET/index.m3u8
+#EXTINF:-1,Jio Cricket
+http://192.99.54.242/spo/JIO_CRICKET/index.m3u8
+#EXTINF:-1,Geo Super
+http://192.99.54.242/spo/GEO_SUPER/index.m3u8
+#EXTINF:-1,Dd Sports
+http://192.99.54.242/spo/DD_SPORTS/index.m3u8
+#EXTINF:-1,Astro Cricket
+http://192.99.54.242/spo/ASTRO_CRICKET/index.m3u8
+#EXTINF:-1,Yes Tv
+http://192.99.54.242/ca_eng/YES_TV/index.m3u8
+#EXTINF:-1,W Network
+http://192.99.54.242/ca_eng/W_NETWORK/index.m3u8
+#EXTINF:-1,Vision Tv
+http://192.99.54.242/ca_eng/VISION_TV/index.m3u8
+#EXTINF:-1,Travel + Escape
+http://192.99.54.242/ca_eng/TRAVELESCAPE/index.m3u8
+#EXTINF:-1,Toronto 5 Live
+http://192.99.54.242/ca_eng/TORONTO_5_LIVE/index.m3u8
+#EXTINF:-1,Toronto 4 Live
+http://192.99.54.242/ca_eng/TORONTO_4_LIVE/index.m3u8
+#EXTINF:-1,Toronto 3 Live
+http://192.99.54.242/ca_eng/TORONTO_3_LIVE/index.m3u8
+#EXTINF:-1,Toronto 2 Live
+http://192.99.54.242/ca_eng/TORONTO_2_LIVE/index.m3u8
+#EXTINF:-1,Toronto 1 Live
+http://192.99.54.242/ca_eng/TORONTO_1_LIVE/index.m3u8
+#EXTINF:-1,Tlc Canada
+http://192.99.54.242/ca_eng/TLC/index.m3u8
+#EXTINF:-1,The Weather Network
+http://192.99.54.242/ca_eng/THE_WEATHER_NETWORK/index.m3u8
+#EXTINF:-1,The Shopping Channel
+http://192.99.54.242/ca_eng/THE_SHOPPING_CHANNEL/index.m3u8
+#EXTINF:-1,Stingray Hit List
+http://192.99.54.242/ca_eng/STINGRAY_HIT_LIST/index.m3u8
+#EXTINF:-1,Stingray Hiphop
+http://192.99.54.242/ca_eng/STINGRAY_HIPHOP/R&B/index.m3u8
+#EXTINF:-1,Stingray Greatest Hits
+http://192.99.54.242/ca_eng/STINGRAY_GREATEST_HITS/index.m3u8
+#EXTINF:-1,Slice
+http://192.99.54.242/ca_eng/SLICE/index.m3u8
+#EXTINF:-1,Show Case
+http://192.99.54.242/ca_eng/SHOW_CASE/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://192.99.54.242/ca_eng/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1,Omni 2
+http://192.99.54.242/ca_eng/OMNI_2/index.m3u8
+#EXTINF:-1,Omni 1
+http://192.99.54.242/ca_eng/OMNI_1/index.m3u8
+#EXTINF:-1,Oln
+http://192.99.54.242/ca_eng/OLN/index.m3u8
+#EXTINF:-1,National Geographic Wild Canada
+http://192.99.54.242/ca_eng/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1,National Geographic Canada
+http://192.99.54.242/ca_eng/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1,Much Music
+http://192.99.54.242/ca_eng/MUCH_MUSIC/index.m3u8
+#EXTINF:-1,Msnbc Canada
+http://192.99.54.242/ca_eng/MSNBC/index.m3u8
+#EXTINF:-1,Investigation Discovery Canada
+http://192.99.54.242/ca_eng/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1,History Canada
+http://192.99.54.242/ca_eng/HISTORY/index.m3u8
+#EXTINF:-1,Hgtv Canada
+http://192.99.54.242/ca_eng/HGTV/index.m3u8
+#EXTINF:-1,Gsn Canada
+http://192.99.54.242/ca_eng/GSN/index.m3u8
+#EXTINF:-1,Global Toronto
+http://192.99.54.242/ca_eng/GLOBAL_TORONTO/index.m3u8
+#EXTINF:-1,Global Ontario News
+http://192.99.54.242/ca_eng/GLOBAL_ONTARIO_NEWS/index.m3u8
+#EXTINF:-1,Global National News
+http://192.99.54.242/ca_eng/GLOBAL_NATIONAL_NEWS/index.m3u8
+#EXTINF:-1,Global Halifax
+http://192.99.54.242/ca_eng/GLOBAL_HALIFAX/index.m3u8
+#EXTINF:-1,Global Edmonton
+http://192.99.54.242/ca_eng/GLOBAL_EDMONTON/index.m3u8
+#EXTINF:-1,Global Calgary
+http://192.99.54.242/ca_eng/GLOBAL_CALGARY/index.m3u8
+#EXTINF:-1,Global British Columbia News
+http://192.99.54.242/ca_eng/GLOBAL_BRITISH_COLUMBIA_NEWS/index.m3u8
+#EXTINF:-1,Global British Columbia
+http://192.99.54.242/ca_eng/GLOBAL_BRITISH_COLUMBIA/index.m3u8
+#EXTINF:-1,Global Alberta News
+http://192.99.54.242/ca_eng/GLOBAL_ALBERTA_NEWS/index.m3u8
+#EXTINF:-1,Game Tv
+http://192.99.54.242/ca_eng/GAME_TV/index.m3u8
+#EXTINF:-1,Fxx Canada
+http://192.99.54.242/ca_eng/FXX/index.m3u8
+#EXTINF:-1,Fx Canada
+http://192.99.54.242/ca_eng/FX/index.m3u8
+#EXTINF:-1,Food Network Canada
+http://192.99.54.242/ca_eng/FOOD_NETWORK/index.m3u8
+#EXTINF:-1,English Movies 3 Canada
+http://192.99.54.242/ca_eng/ENGLISH_MOVIES_3/index.m3u8
+#EXTINF:-1,English Movies 2 Canada
+http://192.99.54.242/ca_eng/ENGLISH_MOVIES_2/index.m3u8
+#EXTINF:-1,English Movies 1 Canada
+http://192.99.54.242/ca_eng/ENGLISH_MOVIES_1/index.m3u8
+#EXTINF:-1,E! Canada
+http://192.99.54.242/ca_eng/E!/index.m3u8
+#EXTINF:-1,Discovery Science Canada
+http://192.99.54.242/ca_eng/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1,Discovery Channel Canada
+http://192.99.54.242/ca_eng/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1,Ctv Toronto
+http://192.99.54.242/ca_eng/CTV_TORONTO/index.m3u8
+#EXTINF:-1,Ctv Sci-fi
+http://192.99.54.242/ca_eng/CTV_SCI-FI/index.m3u8
+#EXTINF:-1,Ctv North Bay
+http://192.99.54.242/ca_eng/CTV_NORTH_BAY/index.m3u8
+#EXTINF:-1,Ctv News Channel
+http://192.99.54.242/ca_eng/CTV_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1,Ctv Drama
+http://192.99.54.242/ca_eng/CTV_DRAMA/index.m3u8
+#EXTINF:-1,Ctv Comedy
+http://192.99.54.242/ca_eng/CTV_COMEDY/index.m3u8
+#EXTINF:-1,Ctv 2
+http://192.99.54.242/ca_eng/CTV_2/index.m3u8
+#EXTINF:-1,Ctv
+http://192.99.54.242/ca_eng/CTV/index.m3u8
+#EXTINF:-1,Crave 4
+http://192.99.54.242/ca_eng/CRAVE_4/index.m3u8
+#EXTINF:-1,Crave 3
+http://192.99.54.242/ca_eng/CRAVE_3/index.m3u8
+#EXTINF:-1,Crave 2
+http://192.99.54.242/ca_eng/CRAVE_2/index.m3u8
+#EXTINF:-1,Crave 1
+http://192.99.54.242/ca_eng/CRAVE_1/index.m3u8
+#EXTINF:-1,Cpac English
+http://192.99.54.242/ca_eng/CPAC/index.m3u8
+#EXTINF:-1,Cp24
+http://192.99.54.242/ca_eng/CP24/index.m3u8
+#EXTINF:-1,Cnbc Canada
+http://192.99.54.242/ca_eng/CNBC/index.m3u8
+#EXTINF:-1,City Tv Vancouver
+http://192.99.54.242/ca_eng/CITY_TV_VANCOUVER/index.m3u8
+#EXTINF:-1,City Tv Toronto
+http://192.99.54.242/ca_eng/CITY_TV_TORONTO/index.m3u8
+#EXTINF:-1,City Tv Calgary
+http://192.99.54.242/ca_eng/CITY_TV_CALGARY/index.m3u8
+#EXTINF:-1,City Tv
+http://192.99.54.242/ca_eng/CITY_TV/index.m3u8
+#EXTINF:-1,Cbs Canada
+http://192.99.54.242/ca_eng/CBS/index.m3u8
+#EXTINF:-1,Cbc Yellowknife
+http://192.99.54.242/ca_eng/CBC_YELLOWKNIFE/index.m3u8
+#EXTINF:-1,Cbc Winnipeg
+http://192.99.54.242/ca_eng/CBC_WINNIPEG/index.m3u8
+#EXTINF:-1,Cbc Windsor
+http://192.99.54.242/ca_eng/CBC_WINDSOR/index.m3u8
+#EXTINF:-1,Cbc Vancouver
+http://192.99.54.242/ca_eng/CBC_VANCOUVER/index.m3u8
+#EXTINF:-1,Cbc Toronto
+http://192.99.54.242/ca_eng/CBC_TORONTO/index.m3u8
+#EXTINF:-1,Cbc St. Johns
+http://192.99.54.242/ca_eng/CBC_ST._JOHNS/index.m3u8
+#EXTINF:-1,Cbc Regina
+http://192.99.54.242/ca_eng/CBC_REGINA/index.m3u8
+#EXTINF:-1,Cbc Quebec
+http://192.99.54.242/ca_eng/CBC_QUEBEC/index.m3u8
+#EXTINF:-1,Cbc Ottawa
+http://192.99.54.242/ca_eng/CBC_OTTAWA/index.m3u8
+#EXTINF:-1,Cbc Ontario
+http://192.99.54.242/ca_eng/CBC_ONTARIO/index.m3u8
+#EXTINF:-1,Cbc News Network
+http://192.99.54.242/ca_eng/CBC_NEWS_NETWORK/index.m3u8
+#EXTINF:-1,Cbc Montreal
+http://192.99.54.242/ca_eng/CBC_MONTREAL/index.m3u8
+#EXTINF:-1,Cbc Halifax
+http://192.99.54.242/ca_eng/CBC_HALIFAX/index.m3u8
+#EXTINF:-1,Cbc Fredericton
+http://192.99.54.242/ca_eng/CBC_FREDERICTON/index.m3u8
+#EXTINF:-1,Cbc Edmonton
+http://192.99.54.242/ca_eng/CBC_EDMONTON/index.m3u8
+#EXTINF:-1,Cbc Charlottetown
+http://192.99.54.242/ca_eng/CBC_CHARLOTTETOWN/index.m3u8
+#EXTINF:-1,Cbc Calgary
+http://192.99.54.242/ca_eng/CBC_CALGARY/index.m3u8
+#EXTINF:-1,Bravo Canada
+http://192.99.54.242/ca_eng/BRAVO/index.m3u8
+#EXTINF:-1,Bnn Bloomberg
+http://192.99.54.242/ca_eng/BNN_BLOOMBERG/index.m3u8
+#EXTINF:-1,Bet Canada
+http://192.99.54.242/ca_eng/BET/index.m3u8
+#EXTINF:-1,Bbc Earth
+http://192.99.54.242/ca_eng/BBC_EARTH/index.m3u8
+#EXTINF:-1,Animal Planet Canada
+http://192.99.54.242/ca_eng/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1,Amc Canada
+http://192.99.54.242/ca_eng/AMC/index.m3u8
+#EXTINF:-1,Adult Swim
+http://192.99.54.242/ca_eng/ADULT_SWIM/index.m3u8
+#EXTINF:-1,Abc Canada
+http://192.99.54.242/ca_eng/ABC/index.m3u8
+#EXTINF:-1,A&e Canada
+http://192.99.54.242/ca_eng/A&E/index.m3u8
