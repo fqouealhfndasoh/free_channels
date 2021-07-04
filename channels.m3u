@@ -1,566 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Zeste French
-http://192.99.54.242/ca_fr/ZESTE/index.m3u8
-#EXTINF:-1, Z Tele French
-http://192.99.54.242/ca_fr/Z_TELE/index.m3u8
-#EXTINF:-1, Yoopa French
-http://192.99.54.242/ca_fr/YOOPA/index.m3u8
-#EXTINF:-1, Vie French
-http://192.99.54.242/ca_fr/VIE/index.m3u8
-#EXTINF:-1, V Montreal French
-http://192.99.54.242/ca_fr/V_MONTREAL/index.m3u8
-#EXTINF:-1, Tvo French
-http://192.99.54.242/ca_fr/TVO/index.m3u8
-#EXTINF:-1, Tva Quebec French
-http://192.99.54.242/ca_fr/TVA_QUEBEC/index.m3u8
-#EXTINF:-1, Tv5 Quebec French
-http://192.99.54.242/ca_fr/TV5_QUEBEC/index.m3u8
-#EXTINF:-1, Tv5 Monde French
-http://192.99.54.242/fr/TV5_MONDE/index.m3u8
-#EXTINF:-1, Tf1 French
-http://192.99.54.242/fr/TF1/index.m3u8
-#EXTINF:-1, Tele Quebec French
-http://192.99.54.242/ca_fr/TELE_QUEBEC/index.m3u8
-#EXTINF:-1, Tcm Cinema French
-http://192.99.54.242/fr/TCM_CINEMA/index.m3u8
-#EXTINF:-1, Super Ecran 4 French
-http://192.99.54.242/ca_fr/SUPER_ECRAN_4/index.m3u8
-#EXTINF:-1, Super Ecran 3 French
-http://192.99.54.242/ca_fr/SUPER_ECRAN_3/index.m3u8
-#EXTINF:-1, Super Ecran 2 French
-http://192.99.54.242/ca_fr/SUPER_ECRAN_2/index.m3u8
-#EXTINF:-1, Super Ecran 1 French
-http://192.99.54.242/ca_fr/SUPER_ECRAN_1/index.m3u8
-#EXTINF:-1, Rfm Tv French
-http://192.99.54.242/fr/RFM_TV/index.m3u8
-#EXTINF:-1, Rds French
-http://192.99.54.242/ca_fr/RDS/index.m3u8
-#EXTINF:-1, Rds 2 French
-http://192.99.54.242/ca_fr/RDS_2/index.m3u8
-#EXTINF:-1, Rdi French
-http://192.99.54.242/ca_fr/RDI/index.m3u8
-#EXTINF:-1, Paris Premiere French
-http://192.99.54.242/fr/PARIS_PREMIERE/index.m3u8
-#EXTINF:-1, Paramount Channel French
-http://192.99.54.242/fr/PARAMOUNT_CHANNEL/index.m3u8
-#EXTINF:-1, Ocs Max French
-http://192.99.54.242/fr/OCS_MAX/index.m3u8
-#EXTINF:-1, Ocs Geants French
-http://192.99.54.242/fr/OCS_GEANTS/index.m3u8
-#EXTINF:-1, Ocs City French
-http://192.99.54.242/fr/OCS_CITY/index.m3u8
-#EXTINF:-1, Ocs Choc French
-http://192.99.54.242/fr/OCS_CHOC/index.m3u8
-#EXTINF:-1, National Geographic Wild French
-http://192.99.54.242/fr/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic French
-http://192.99.54.242/fr/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Mtv Dance French
-http://192.99.54.242/fr/MTV_DANCE/index.m3u8
-#EXTINF:-1, Meteo Media
-http://192.99.54.242/ca_fr/METEO_MEDIA/index.m3u8
-#EXTINF:-1, Mcm French
-http://192.99.54.242/fr/MCM/index.m3u8
-#EXTINF:-1, Lcn French
-http://192.99.54.242/ca_fr/LCN/index.m3u8
-#EXTINF:-1, Lci French
-http://192.99.54.242/fr/LCI/index.m3u8
-#EXTINF:-1, Histoire Tv French
-http://192.99.54.242/fr/HISTOIRE/index.m3u8
-#EXTINF:-1, Guill French
-http://192.99.54.242/fr/GUILL/index.m3u8
-#EXTINF:-1, France Info French
-http://192.99.54.242/fr/FRANCE_INFO/index.m3u8
-#EXTINF:-1, France 2 French
-http://192.99.54.242/fr/FRANCE_2/index.m3u8
-#EXTINF:-1, Discovery Science French
-http://192.99.54.242/fr/DISCOVERY_SCIENCE/index.m3u8
-#EXTINF:-1, Discovery Investigation French
-http://192.99.54.242/fr/DISCOVERY_INVESTIGATION/index.m3u8
-#EXTINF:-1, Discovery Channel French
-http://192.99.54.242/fr/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1, Crume Investigation French
-http://192.99.54.242/ca_fr/CRUME_INVESTIGATION/index.m3u8
-#EXTINF:-1, Crime Disctrict French
-http://192.99.54.242/fr/CRIME_DISCTRICT/index.m3u8
-#EXTINF:-1, Cpac French
-http://192.99.54.242/ca_fr/CPAC/index.m3u8
-#EXTINF:-1, Comedy Central French
-http://192.99.54.242/fr/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1, Cnews French
-http://192.99.54.242/fr/CNEWS/index.m3u8
-#EXTINF:-1, Cine Premiere French
-http://192.99.54.242/fr/CINE_PREMIERE/index.m3u8
-#EXTINF:-1, Cine Frisson French
-http://192.99.54.242/fr/CINE_FRISSON/index.m3u8
-#EXTINF:-1, Cine Famiz French
-http://192.99.54.242/fr/CINE_FAMIZ/index.m3u8
-#EXTINF:-1, Cine Emotion French
-http://192.99.54.242/fr/CINE_EMOTION/index.m3u8
-#EXTINF:-1, Cine Club French
-http://192.99.54.242/fr/CINE_CLUB/index.m3u8
-#EXTINF:-1, Cine Classic French
-http://192.99.54.242/fr/CINE_CLASSIC/index.m3u8
-#EXTINF:-1, Cherie 25 French
-http://192.99.54.242/fr/CHERIE_25/index.m3u8
-#EXTINF:-1, Chasse&peche French
-http://192.99.54.242/fr/CHASSE&PECHE/index.m3u8
-#EXTINF:-1, Casa French
-http://192.99.54.242/ca_fr/CASA/index.m3u8
-#EXTINF:-1, Canal Series French
-http://192.99.54.242/fr/CANAL_SERIES/index.m3u8
-#EXTINF:-1, Canal Savoir French
-http://192.99.54.242/ca_fr/CANAL_SAVOIR/index.m3u8
-#EXTINF:-1, Canal J French
-http://192.99.54.242/fr/CANAL_J/index.m3u8
-#EXTINF:-1, Canal Id French
-http://192.99.54.242/ca_fr/CANAL_ID/index.m3u8
-#EXTINF:-1, Canal French
-http://192.99.54.242/fr/CANAL/index.m3u8
-#EXTINF:-1, Canal Family French
-http://192.99.54.242/fr/CANAL_FAMILY/index.m3u8
-#EXTINF:-1, Canal Cinema French
-http://192.99.54.242/fr/CANAL_CINEMA/index.m3u8
-#EXTINF:-1, C Star French
-http://192.99.54.242/fr/C_STAR/index.m3u8
-#EXTINF:-1, Brava French
-http://192.99.54.242/fr/BRAVA/index.m3u8
-#EXTINF:-1, Bfm Tv French
-http://192.99.54.242/ca_fr/BFM_TV/index.m3u8
-#EXTINF:-1, Bet French
-http://192.99.54.242/fr/BET/index.m3u8
-#EXTINF:-1, Aete French
-http://192.99.54.242/ca_fr/AETE/index.m3u8
-#EXTINF:-1, Action French
-http://192.99.54.242/ca_fr/ACTION/index.m3u8
-#EXTINF:-1, 6 Ter French
-http://192.99.54.242/ca_fr/6_TER/index.m3u8
-#EXTINF:-1, 13 Emu Rue French
-http://192.99.54.242/ca_fr/13_EMU_RUE/index.m3u8
-#EXTINF:-1, Willow Xtra
-http://192.99.54.242/spo/WILLOW_XTRA/index.m3u8
-#EXTINF:-1, Willow Tv 2
-http://192.99.54.242/spo/WILLOW_2/index.m3u8
-#EXTINF:-1, Willow Tv
-http://192.99.54.242/spo/WILLOW_TV/index.m3u8
-#EXTINF:-1, Willow Canada
-http://192.99.54.242/spo/WILLOW_CANADA/index.m3u8
-#EXTINF:-1, Supersport Cricket
-http://192.99.54.242/spo/ASTRO_SUPERSPORT_CRICKET/index.m3u8
-#EXTINF:-1, Star Sports Select 2
-http://192.99.54.242/spo/STAR_SPORTS_SELECT_2/index.m3u8
-#EXTINF:-1, Star Sports Select 1
-http://192.99.54.242/spo/STAR_SPORTS_SELECT_1/index.m3u8
-#EXTINF:-1, Star Sports First
-http://192.99.54.242/spo/STAR_SPORTS_FIRST/index.m3u8
-#EXTINF:-1, Star Sports 3
-http://192.99.54.242/spo/STAR_SPORTS_3/index.m3u8
-#EXTINF:-1, Star Sports 2
-http://192.99.54.242/spo/STAR_SPORTS_2/index.m3u8
-#EXTINF:-1, Star Sports 1 Tamil
-http://192.99.54.242/spo/TAMIL/STAR_SPORTS/index.m3u8
-#EXTINF:-1, Star Sports 1 Hindi
-http://192.99.54.242/spo/HINDI/STAR_SPORTS_1/index.m3u8
-#EXTINF:-1, Star Sports 1 English
-http://192.99.54.242/spo/STAR_SPORTS_1/index.m3u8
-#EXTINF:-1, Sony Ten 3
-http://192.99.54.242/spo/SONY_TEN_3/index.m3u8
-#EXTINF:-1, Sony Ten 2
-http://192.99.54.242/spo/SONY_TEN_2/index.m3u8
-#EXTINF:-1, Sony Ten 1
-http://192.99.54.242/spo/SONY_TEN_1/index.m3u8
-#EXTINF:-1, Sony Six
-http://192.99.54.242/spo/SONY_SIX/index.m3u8
-#EXTINF:-1, Sky Sports Cricket
-http://192.99.54.242/spo/SKY_SPORTS_CRICKET/index.m3u8
-#EXTINF:-1, Jio Cricket
-http://192.99.54.242/spo/JIO_CRICKET/index.m3u8
-#EXTINF:-1, Geo Super
-http://192.99.54.242/spo/GEO_SUPER/index.m3u8
-#EXTINF:-1, Dd Sports
-http://192.99.54.242/spo/DD_SPORTS/index.m3u8
-#EXTINF:-1, Astro Cricket
-http://192.99.54.242/spo/ASTRO_CRICKET/index.m3u8
-#EXTINF:-1, Zoom
-http://192.99.54.242/ind_hin/ZOOM/index.m3u8
-#EXTINF:-1, Zing
-http://192.99.54.242/ind_hin/ZING/index.m3u8
-#EXTINF:-1, Zee Zest
-http://192.99.54.242/ind_hin/ZEE_ZEST/index.m3u8
-#EXTINF:-1, Zee Tv India
-http://192.99.54.242/ind_hin/ZEE_TV/index.m3u8
-#EXTINF:-1, Zee Theatre
-http://192.99.54.242/ind_hin/ZEE_THEATRE/index.m3u8
-#EXTINF:-1, Zee Smile
-http://192.99.54.242/ind_hin/ZEE_SMILE/index.m3u8
-#EXTINF:-1, Zee News
-http://192.99.54.242/ind_hin/ZEE_NEWS/index.m3u8
-#EXTINF:-1, Zee Hindustan
-http://192.99.54.242/ind_hin/ZEE_HINDUSTAN/index.m3u8
-#EXTINF:-1, Zee Hindi Music
-http://192.99.54.242/ind_hin/ZEE_HINDI_MUSIC/index.m3u8
-#EXTINF:-1, Zee Classic
-http://192.99.54.242/ind_hin/ZEE_CLASSIC/index.m3u8
-#EXTINF:-1, Zee Cinema India
-http://192.99.54.242/ind_hin/ZEE_CINEMA/index.m3u8
-#EXTINF:-1, Zee Business
-http://192.99.54.242/ind_hin/ZEE_BUSINESS/index.m3u8
-#EXTINF:-1, Zee Bollywood
-http://192.99.54.242/ind_hin/ZEE_BOLLYWOOD/index.m3u8
-#EXTINF:-1, Zee Anmol Cinema
-http://192.99.54.242/ind_hin/ZEE_ANMOL_CINEMA/index.m3u8
-#EXTINF:-1, Zee Anmol
-http://192.99.54.242/ind_hin/ZEE_ANMOL/index.m3u8
-#EXTINF:-1, Zee Action
-http://192.99.54.242/ind_hin/ZEE_ACTION/index.m3u8
-#EXTINF:-1, Wow Cinema One
-http://192.99.54.242/ind_hin/WOW_CINEMA/index.m3u8
-#EXTINF:-1, Utv Movies
-http://192.99.54.242/ind_hin/UTV_MOVIES/index.m3u8
-#EXTINF:-1, Utv Bindass
-http://192.99.54.242/ind_hin/UTV_BINDASS/index.m3u8
-#EXTINF:-1, Utv Action
-http://192.99.54.242/ind_hin/UTV_ACTION/index.m3u8
-#EXTINF:-1, Utv
-http://192.99.54.242/ind_hin/UTV/index.m3u8
-#EXTINF:-1, Travel Xp Hindi
-http://192.99.54.242/ind_hin/TRAVEL_XP/index.m3u8
-#EXTINF:-1, Tlc Hindi
-http://192.99.54.242/ind_hin/TLC/index.m3u8
-#EXTINF:-1, The Q
-http://192.99.54.242/ind_hin/THE_Q/index.m3u8
-#EXTINF:-1, Tez
-http://192.99.54.242/ind_hin/AAJTAK_TEZ/index.m3u8
-#EXTINF:-1, Tatasky Comedy
-http://192.99.54.242/ind_hin/TATASKY_COMEDY/index.m3u8
-#EXTINF:-1, Tata Sky Theatre
-http://192.99.54.242/ind_hin/TATASKY_THEATRE/index.m3u8
-#EXTINF:-1, Tata Sky Hollywood Local
-http://192.99.54.242/ind_hin/TATASKY_HOLLYWOOD_LOCAL/index.m3u8
-#EXTINF:-1, Tata Sky Fitness
-http://192.99.54.242/ind_hin/TATASKY_FITNESS/index.m3u8
-#EXTINF:-1, Tata Sky Family Health
-http://192.99.54.242/ind_hin/TATASKY_FAMILY_HEALTH/index.m3u8
-#EXTINF:-1, Tata Sky English In Hindi
-http://192.99.54.242/ind_hin/TATASKY_ENGLISH_IN_HINDI/index.m3u8
-#EXTINF:-1, Tata Sky Cooking
-http://192.99.54.242/ind_hin/TATASKY_COOKING/index.m3u8
-#EXTINF:-1, Tata Sky Classic Cinema
-http://192.99.54.242/ind_hin/TATASKY_CLASSIC_CINEMA/index.m3u8
-#EXTINF:-1, Tata Sky Bollywood Premiere
-http://192.99.54.242/ind_hin/TATASKY_BOLLYWOOD_PREMIERE/index.m3u8
-#EXTINF:-1, Tata Sky Adbhut Kahaniyan
-http://192.99.54.242/ind_hin/TATASKY_ADBHUT_KAHANIYAN/index.m3u8
-#EXTINF:-1, Tata Sky Acting Adda
-http://192.99.54.242/ind_hin/TATASKY_ACTING_ADDA/index.m3u8
-#EXTINF:-1, Star Utsav Movies
-http://192.99.54.242/ind_hin/STAR_UTSAV_MOVIES/index.m3u8
-#EXTINF:-1, Star Utsav
-http://192.99.54.242/ind_hin/STAR_UTSAV/index.m3u8
-#EXTINF:-1, Star Plus India
-http://192.99.54.242/ind_hin/STAR_PLUS/index.m3u8
-#EXTINF:-1, Star Gold Select
-http://192.99.54.242/ind_hin/STAR_GOLD_SELECT/index.m3u8
-#EXTINF:-1, Star Gold India
-http://192.99.54.242/ind_hin/STAR_GOLD/index.m3u8
-#EXTINF:-1, Star Gold 2
-http://192.99.54.242/ind_hin/STAR_GOLD_2/index.m3u8
-#EXTINF:-1, Star Bharat India
-http://192.99.54.242/ind_hin/STAR_BHARAT/index.m3u8
-#EXTINF:-1, Sony Wah
-http://192.99.54.242/ind_hin/SONY_WAH/index.m3u8
-#EXTINF:-1, Sony Tv Sd India
-http://192.99.54.242/ind_hin/SONY_TV_SD/index.m3u8
-#EXTINF:-1, Sony Tv Hd India
-http://192.99.54.242/ind_hin/SONY_TV_HD/index.m3u8
-#EXTINF:-1, Sony Tv Apac
-http://192.99.54.242/ind_hin/SONY_TV_APAC/index.m3u8
-#EXTINF:-1, Sony Sab India
-http://192.99.54.242/ind_hin/SONY_SAB/index.m3u8
-#EXTINF:-1, Sony Sab Apac
-http://192.99.54.242/ind_hin/SONY_SAB_APAC/index.m3u8
-#EXTINF:-1, Sony Pal
-http://192.99.54.242/ind_hin/SONY_PAL/index.m3u8
-#EXTINF:-1, Sony Max Sd India
-http://192.99.54.242/ind_hin/SONY_MAX_SD/index.m3u8
-#EXTINF:-1, Sony Max Hd India
-http://192.99.54.242/ind_hin/SONY_MAX_HD/index.m3u8
-#EXTINF:-1, Sony Max Apac
-http://192.99.54.242/ind_hin/SONY_MAX_APAC/index.m3u8
-#EXTINF:-1, Sony Max 2 India
-http://192.99.54.242/ind_hin/SONY_MAX_2/index.m3u8
-#EXTINF:-1, Sony Bbc Earth Hindi
-http://192.99.54.242/ind_hin/SONY_BBC_EARTH/index.m3u8
-#EXTINF:-1, Rishtey India
-http://192.99.54.242/ind_hin/RISHTEY/index.m3u8
-#EXTINF:-1, Rishtey Cineplex
-http://192.99.54.242/ind_hin/RISHTEY_CINEPLEX/index.m3u8
-#EXTINF:-1, News 24
-http://192.99.54.242/ind_hin/NEWS_24/index.m3u8
-#EXTINF:-1, Ndtv India
-http://192.99.54.242/ind_hin/NDTV_INDIA/index.m3u8
-#EXTINF:-1, National Geographic Wild Hindi
-http://192.99.54.242/ind_hin/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Hindi
-http://192.99.54.242/ind_hin/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Music India
-http://192.99.54.242/ind_hin/MUSIC_INDIA/index.m3u8
-#EXTINF:-1, Mtv Beats
-http://192.99.54.242/ind_hin/MTV_BEATS/index.m3u8
-#EXTINF:-1, Movies Active
-http://192.99.54.242/ind_hin/MOVIES_ACTIVE/index.m3u8
-#EXTINF:-1, Miniplex
-http://192.99.54.242/ind_hin/MINIPLEX/index.m3u8
-#EXTINF:-1, Manoranjan Tv
-http://192.99.54.242/ind_hin/MANORANJAN_TV/index.m3u8
-#EXTINF:-1, Jus Hindi
-http://192.99.54.242/ind_hin/JUS_HINDI/index.m3u8
-#EXTINF:-1, India Tv
-http://192.99.54.242/ind_hin/INDIA_TV/index.m3u8
-#EXTINF:-1, Ibc 24
-http://192.99.54.242/ind_hin/IBC_24/index.m3u8
-#EXTINF:-1, Housefull Movies
-http://192.99.54.242/ind_hin/HOUSEFULL_MOVIES/index.m3u8
-#EXTINF:-1, Housefull Action
-http://192.99.54.242/ind_hin/HOUSEFULL_ACTION/index.m3u8
-#EXTINF:-1, History Hindi
-http://192.99.54.242/ind_hin/HISTORY/index.m3u8
-#EXTINF:-1, Hindi Movies 4
-http://192.99.54.242/ind_hin/HINDI_MOVIES_4/index.m3u8
-#EXTINF:-1, Hindi Movies 3
-http://192.99.54.242/ind_hin/HINDI_MOVIES_3/index.m3u8
-#EXTINF:-1, Hindi Movies 2
-http://192.99.54.242/ind_hin/HINDI_MOVIES_2/index.m3u8
-#EXTINF:-1, Hindi Movies 1
-http://192.99.54.242/ind_hin/HINDI_MOVIES_1/index.m3u8
-#EXTINF:-1, Fox Life Hindi
-http://192.99.54.242/ind_hin/FOX_LIFE/index.m3u8
-#EXTINF:-1, Food Food
-http://192.99.54.242/ind_hin/FOOD_FOOD/index.m3u8
-#EXTINF:-1, Filmy
-http://192.99.54.242/ind_hin/FILMY/index.m3u8
-#EXTINF:-1, Evergreen Classics Active
-http://192.99.54.242/ind_hin/EVERGREEN_CLASSICS_ACTIVE/index.m3u8
-#EXTINF:-1, Epic Tv
-http://192.99.54.242/ind_hin/EPIC_TV/index.m3u8
-#EXTINF:-1, Divya Tv
-http://192.99.54.242/ind_hin/DIVYA_TV/index.m3u8
-#EXTINF:-1, Discovery World Hindi
-http://192.99.54.242/ind_hin/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1, Dd National
-http://192.99.54.242/ind_hin/DD_NATIONAL/index.m3u8
-#EXTINF:-1, Dd India
-http://192.99.54.242/ind_hin/DD_INDIA/index.m3u8
-#EXTINF:-1, Colors India
-http://192.99.54.242/ind_hin/COLORS/index.m3u8
-#EXTINF:-1, Colors Cineplex India
-http://192.99.54.242/ind_hin/COLORS_CINEPLEX/index.m3u8
-#EXTINF:-1, Cinema Tv
-http://192.99.54.242/ind_hin/CINEMA_TV/index.m3u8
-#EXTINF:-1, Cine Active
-http://192.99.54.242/ind_hin/CINE_ACTIVE/index.m3u8
-#EXTINF:-1, Box Cinema
-http://192.99.54.242/ind_hin/BOX_CINEMA/index.m3u8
-#EXTINF:-1, Bollywood Sci-fi Horror
-http://192.99.54.242/ind_hin/BOLLYWOOD_SCI-FI_HORROR/index.m3u8
-#EXTINF:-1, Bollywood Premiere
-http://192.99.54.242/ind_hin/BOLLYWOOD_PREMIERE/index.m3u8
-#EXTINF:-1, Bollywood Nonstop
-http://192.99.54.242/ind_hin/BOLLYWOOD_NONSTOP/index.m3u8
-#EXTINF:-1, Bollywood New Release
-http://192.99.54.242/ind_hin/BOLLYWOOD_NEW_RELEASE/index.m3u8
-#EXTINF:-1, Bollywood Drama
-http://192.99.54.242/ind_hin/BOLLYWOOD_DRAMA/index.m3u8
-#EXTINF:-1, Bollywood Comedy
-http://192.99.54.242/ind_hin/BOLLYWOOD_COMEDY/index.m3u8
-#EXTINF:-1, Bollywood Classics
-http://192.99.54.242/ind_hin/BOLLYWOOD_CLASSICS/index.m3u8
-#EXTINF:-1, Bollywood Classic
-http://192.99.54.242/ind_hin/BOLLYWOOD_CLASSIC/index.m3u8
-#EXTINF:-1, Bollywood Action
-http://192.99.54.242/ind_hin/BOLLYWOOD_ACTION/index.m3u8
-#EXTINF:-1, Bbo India
-http://192.99.54.242/ind_hin/BBO/index.m3u8
-#EXTINF:-1, Bbo Classic
-http://192.99.54.242/ind_hin/BBO_CLASSIC/index.m3u8
-#EXTINF:-1, B4u Plus
-http://192.99.54.242/ind_hin/B4U_PLUS/index.m3u8
-#EXTINF:-1, B4u Music India
-http://192.99.54.242/ind_hin/B4U_MUSIC/index.m3u8
-#EXTINF:-1, B4u Movies India
-http://192.99.54.242/ind_hin/B4U_MOVIES/index.m3u8
-#EXTINF:-1, B4u Kadak
-http://192.99.54.242/ind_hin/B4U_KADAK/index.m3u8
-#EXTINF:-1, B-flix Movies
-http://192.99.54.242/ind_hin/BFLIX_MOVIES/index.m3u8
-#EXTINF:-1, Animal Planet Hindi
-http://192.99.54.242/ind_hin/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1, And Tv India
-http://192.99.54.242/ind_hin/AND_TV/index.m3u8
-#EXTINF:-1, And Prive
-http://192.99.54.242/ind_hin/AND_PRIVE/index.m3u8
-#EXTINF:-1, And Pictures
-http://192.99.54.242/ind_hin/AND_PICTURES/index.m3u8
-#EXTINF:-1, And Flix
-http://192.99.54.242/ind_hin/AND_FLIX/index.m3u8
-#EXTINF:-1, And Explore
-http://192.99.54.242/ind_hin/AND_EXPLORE/index.m3u8
-#EXTINF:-1, Aajtak
-http://192.99.54.242/ind_hin/AAJTAK/index.m3u8
-#EXTINF:-1, 9xm
-http://192.99.54.242/ind_hin/9XM/index.m3u8
-#EXTINF:-1, 9x Jalwa
-http://192.99.54.242/ind_hin/9X_JALWA/index.m3u8
-#EXTINF:-1, Zee Tamil
-http://192.99.54.242/ind_tam/ZEE/index.m3u8
-#EXTINF:-1, Vanavil Plus
-http://192.99.54.242/ind_tam/VANAVIL_PLUS/index.m3u8
-#EXTINF:-1, Tata Sky Tamil Cinema
-http://192.99.54.242/ind_tam/TATASKY_CINEMA/index.m3u8
-#EXTINF:-1, Tamil Songs
-http://192.99.54.242/ind_tam/TAMIL_SONGS/index.m3u8
-#EXTINF:-1, Tamil Movies 3
-http://192.99.54.242/ind_tam/TAMIL_MOVIES_3/index.m3u8
-#EXTINF:-1, Tamil Movies 2
-http://192.99.54.242/ind_tam/TAMIL_MOVIES_2/index.m3u8
-#EXTINF:-1, Tamil Movies 1
-http://192.99.54.242/ind_tam/TAMIL_MOVIES_1/index.m3u8
-#EXTINF:-1, Tamil Dubbed Movies
-http://192.99.54.242/ind_tam/TAMIL_DUBBED_MOVIES/index.m3u8
-#EXTINF:-1, Sun Tv India
-http://192.99.54.242/ind_tam/SUN_TV/index.m3u8
-#EXTINF:-1, Sun Music India
-http://192.99.54.242/ind_tam/SUN_MUSIC/index.m3u8
-#EXTINF:-1, Sun Life India
-http://192.99.54.242/ind_tam/SUN_LIFE/index.m3u8
-#EXTINF:-1, Star Vijay
-http://192.99.54.242/ind_tam/STAR_VIJAY/index.m3u8
-#EXTINF:-1, Sri Sankara Tv
-http://192.99.54.242/ind_tam/SRI_SANKARA_TV/index.m3u8
-#EXTINF:-1, Spiritual
-http://192.99.54.242/ind_tam/SPIRITUAL/index.m3u8
-#EXTINF:-1, Sony Bbc Earth Tamil India
-http://192.99.54.242/ind_tam/SONY_BBC_EARTH/index.m3u8
-#EXTINF:-1, Sivan Tv
-http://192.99.54.242/ind_tam/SIVAN_TV/index.m3u8
-#EXTINF:-1, Selfie
-http://192.99.54.242/ind_tam/SELFIE/index.m3u8
-#EXTINF:-1, Sangammam Tv
-http://192.99.54.242/ind_tam/SANGAMMAM_TV/index.m3u8
-#EXTINF:-1, Polimer News
-http://192.99.54.242/ind_tam/POLIMER_NEWS/index.m3u8
-#EXTINF:-1, One Yes
-http://192.99.54.242/ind_tam/ONE_YES/index.m3u8
-#EXTINF:-1, Nethra Tv
-http://192.99.54.242/ind_tam/NETHRA_TV/index.m3u8
-#EXTINF:-1, National Geographic Wild Tamil India
-http://192.99.54.242/ind_tam/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Tamil India
-http://192.99.54.242/ind_tam/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Mahabarat
-http://192.99.54.242/ind_tam/MAHABARAT/index.m3u8
-#EXTINF:-1, Magic Box Story
-http://192.99.54.242/ind_tam/MAGIC_BOX_STORY/index.m3u8
-#EXTINF:-1, Lord Tv
-http://192.99.54.242/ind_tam/LORD_TV/index.m3u8
-#EXTINF:-1, Ktv India
-http://192.99.54.242/ind_tam/KTV/index.m3u8
-#EXTINF:-1, Jaya Tv
-http://192.99.54.242/ind_tam/JAYA_TV/index.m3u8
-#EXTINF:-1, Ibc Songs
-http://192.99.54.242/ind_tam/IBC_SONGS/index.m3u8
-#EXTINF:-1, Ibc Comedy
-http://192.99.54.242/ind_tam/IBC_COMEDY/index.m3u8
-#EXTINF:-1, Ibc Bakthi
-http://192.99.54.242/ind_tam/IBC_BAKTHI/index.m3u8
-#EXTINF:-1, Hosanna
-http://192.99.54.242/ind_tam/HOSANNA/index.m3u8
-#EXTINF:-1, Holy Mary
-http://192.99.54.242/ind_tam/HOLY_MARY/index.m3u8
-#EXTINF:-1, History Tamil
-http://192.99.54.242/ind_tam/HISTORY/index.m3u8
-#EXTINF:-1, Fox Life Tamil
-http://192.99.54.242/ind_tam/FOX_LIFE/index.m3u8
-#EXTINF:-1, Food Network Tamil
-http://192.99.54.242/ind_tam/FOOD_NETWORK/index.m3u8
-#EXTINF:-1, Eelam Tv
-http://192.99.54.242/ind_tam/EELAM_TV/index.m3u8
-#EXTINF:-1, Discovery Tamil
-http://192.99.54.242/ind_tam/DISCOVERY/index.m3u8
-#EXTINF:-1, Dheeran Tv
-http://192.99.54.242/ind_tam/DHEERAN_TV/index.m3u8
-#EXTINF:-1, Dd Podhigai
-http://192.99.54.242/ind_tam/DD_PODHIGAI/index.m3u8
-#EXTINF:-1, Colors Tamil India
-http://192.99.54.242/ind_tam/COLORS/index.m3u8
-#EXTINF:-1, Bible Study
-http://192.99.54.242/ind_tam/BIBLE_STUDY/index.m3u8
-#EXTINF:-1, Anboli Tv
-http://192.99.54.242/ind_tam/ANBOLI_TV/index.m3u8
-#EXTINF:-1, Ambaal Tv
-http://192.99.54.242/ind_tam/AMBAAL_TV/index.m3u8
-#EXTINF:-1, Alalai Express
-http://192.99.54.242/ind_tam/ALALAI_EXPRESS/index.m3u8
-#EXTINF:-1, 7s Music
-http://192.99.54.242/ind_tam/7S_MUSIC/index.m3u8
-#EXTINF:-1, Zee Telugu
-http://192.99.54.242/ind_tel/ZEE/index.m3u8
-#EXTINF:-1, Zee Cinemalu
-http://192.99.54.242/ind_tel/ZEE_CINEMALU/index.m3u8
-#EXTINF:-1, Tv9 News
-http://192.99.54.242/ind_tel/TV9_NEWS/index.m3u8
-#EXTINF:-1, Tv5
-http://192.99.54.242/ind_tel/TV5/index.m3u8
-#EXTINF:-1, Tatasky Telugu Cinema
-http://192.99.54.242/ind_tel/TATASKY_TELUGU_CINEMA/index.m3u8
-#EXTINF:-1, Tatasky English In Telugu
-http://192.99.54.242/ind_tel/TATASKY_ENGLISH_IN_TELUGU/index.m3u8
-#EXTINF:-1, Svbc
-http://192.99.54.242/ind_tel/SVBC/index.m3u8
-#EXTINF:-1, Star Maa Music
-http://192.99.54.242/ind_tel/MAA_MUSIC/index.m3u8
-#EXTINF:-1, Star Maa India
-http://192.99.54.242/ind_tel/MAA_TV/index.m3u8
-#EXTINF:-1, Star Maa Gold
-http://192.99.54.242/ind_tel/MAA_GOLD/index.m3u8
-#EXTINF:-1, Sony Bbc Earth Telugu
-http://192.99.54.242/ind_tel/SONY_BBC_EARTH/index.m3u8
-#EXTINF:-1, Raj Vissa
-http://192.99.54.242/ind_tel/RAJ_VISSA/index.m3u8
-#EXTINF:-1, Raj News
-http://192.99.54.242/ind_tel/RAJ_NEWS/index.m3u8
-#EXTINF:-1, Om Cvr
-http://192.99.54.242/ind_tel/OM_CVR/index.m3u8
-#EXTINF:-1, Ntv
-http://192.99.54.242/ind_tel/NTV/index.m3u8
-#EXTINF:-1, National Geographic Wild Telugu
-http://192.99.54.242/ind_tel/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Telugu
-http://192.99.54.242/ind_tel/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Hm Tv
-http://192.99.54.242/ind_tel/HMTV/index.m3u8
-#EXTINF:-1, History Telugu
-http://192.99.54.242/ind_tel/HISTORY/index.m3u8
-#EXTINF:-1, Gemini Tv
-http://192.99.54.242/ind_tel/GEMINI_TV/index.m3u8
-#EXTINF:-1, Gemini Movies
-http://192.99.54.242/ind_tel/GEMINI_MOVIES/index.m3u8
-#EXTINF:-1, Gemini Comedy
-http://192.99.54.242/ind_tel/GEMINI_COMEDY/index.m3u8
-#EXTINF:-1, Etv Telugu
-http://192.99.54.242/ind_tel/ETV/index.m3u8
-#EXTINF:-1, Etv Andhra Pardesh
-http://192.99.54.242/ind_tel/ETV_ANDHRA_PARDESH/index.m3u8
-#EXTINF:-1, Desi Plaza Tv
-http://192.99.54.242/ind_tel/DESI_PLAZA_TV/index.m3u8
-#EXTINF:-1, Cvr News
-http://192.99.54.242/ind_tel/CVR_NEWS/index.m3u8
-#EXTINF:-1, Cvr English News
-http://192.99.54.242/ind_tel/CVR_ENGLISH_NEWS/index.m3u8
-#EXTINF:-1, Aradana Tv
-http://192.99.54.242/ind_tel/ARADANA_TV/index.m3u8
-#EXTINF:-1, 10 Tv
-http://192.99.54.242/ind_tel/10_TV/index.m3u8
 #EXTINF:-1, Yes Tv
 http://192.99.54.242/ca_eng/YES_TV/index.m3u8
 #EXTINF:-1, W Network
@@ -749,68 +187,720 @@ http://192.99.54.242/ca_eng/ADULT_SWIM/index.m3u8
 http://192.99.54.242/ca_eng/ABC/index.m3u8
 #EXTINF:-1, A&e Canada
 http://192.99.54.242/ca_eng/A&E/index.m3u8
-#EXTINF:-1, Zee Cafe
-http://192.99.54.242/ind_eng/ZEE_CAFE/index.m3u8
-#EXTINF:-1, Travel Xp English
-http://192.99.54.242/ind_eng/TRAVEL_XP/index.m3u8
-#EXTINF:-1, Tlc English
-http://192.99.54.242/ind_eng/TLC/index.m3u8
-#EXTINF:-1, Times Now
-http://192.99.54.242/ind_eng/TIMES_NOW/index.m3u8
-#EXTINF:-1, Tata Sky Vedic Maths
-http://192.99.54.242/ind_eng/TATASKY_VEDIC_MATHS/index.m3u8
-#EXTINF:-1, Tata Sky Smart Manager
-http://192.99.54.242/ind_eng/TATASKY_SMART_MANAGER/index.m3u8
-#EXTINF:-1, Tata Sky Show Bizz
-http://192.99.54.242/ind_eng/TATASKY_SHOW_BIZZ/index.m3u8
-#EXTINF:-1, Tata Sky Shorts Tv
-http://192.99.54.242/ind_eng/TATASKY_SHORTS_TV/index.m3u8
-#EXTINF:-1, Tata Sky Hits
-http://192.99.54.242/ind_eng/TATASKY_HITS/index.m3u8
-#EXTINF:-1, Tata Sky Beauty
-http://192.99.54.242/ind_eng/TATASKY_BEAUTY/index.m3u8
-#EXTINF:-1, Star World Premiere
-http://192.99.54.242/ind_hin/STAR_WORLD_PREMIERE/index.m3u8
-#EXTINF:-1, Star World
-http://192.99.54.242/ind_hin/STAR_WORLD/index.m3u8
-#EXTINF:-1, Star Movies Select
-http://192.99.54.242/ind_hin/STAR_MOVIES_SELECT/index.m3u8
-#EXTINF:-1, Star Movies
-http://192.99.54.242/ind_hin/STAR_MOVIES/index.m3u8
-#EXTINF:-1, Sony Pix
-http://192.99.54.242/ind_eng/SONY_PIX/index.m3u8
-#EXTINF:-1, Sony Bbc Earth English
-http://192.99.54.242/ind_eng/SONY_BBC_EARTH/index.m3u8
-#EXTINF:-1, Romedy Now
-http://192.99.54.242/ind_eng/ROMEDY_NOW/index.m3u8
-#EXTINF:-1, National Geographic Wild English
-http://192.99.54.242/ind_eng/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic English
-http://192.99.54.242/ind_eng/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Movies Now X
-http://192.99.54.242/ind_eng/MOVIES_NOW_X/index.m3u8
-#EXTINF:-1, Movies Now Plus
-http://192.99.54.242/ind_eng/MOVIES_NOW_PLUS/index.m3u8
-#EXTINF:-1, Movies Now
-http://192.99.54.242/ind_eng/MOVIES_NOW/index.m3u8
-#EXTINF:-1, Mirror Now
-http://192.99.54.242/ind_eng/MIRROR_NOW/index.m3u8
-#EXTINF:-1, History English
-http://192.99.54.242/ind_eng/HISTORY/index.m3u8
-#EXTINF:-1, Hbo India
-http://192.99.54.242/ind_eng/HBO/index.m3u8
-#EXTINF:-1, Fox Life English
-http://192.99.54.242/ind_eng/FOX_LIFE/index.m3u8
-#EXTINF:-1, Discovery World English
-http://192.99.54.242/ind_eng/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1, Comedy Central India
-http://192.99.54.242/ind_eng/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1, Colors Infinity
-http://192.99.54.242/ind_eng/COLORS_INFINITY/index.m3u8
-#EXTINF:-1, Cnbc English
-http://192.99.54.242/ind_eng/CNBC/index.m3u8
-#EXTINF:-1, Animal Planet English
-http://192.99.54.242/ind_eng/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1, Zee Tamil
+http://192.99.54.242/ind_tam/ZEE/index.m3u8
+#EXTINF:-1, Vanavil Plus
+http://192.99.54.242/ind_tam/VANAVIL_PLUS/index.m3u8
+#EXTINF:-1, Tata Sky Tamil Cinema
+http://192.99.54.242/ind_tam/TATASKY_CINEMA/index.m3u8
+#EXTINF:-1, Tamil Songs
+http://192.99.54.242/ind_tam/TAMIL_SONGS/index.m3u8
+#EXTINF:-1, Tamil Movies 3
+http://192.99.54.242/ind_tam/TAMIL_MOVIES_3/index.m3u8
+#EXTINF:-1, Tamil Movies 2
+http://192.99.54.242/ind_tam/TAMIL_MOVIES_2/index.m3u8
+#EXTINF:-1, Tamil Movies 1
+http://192.99.54.242/ind_tam/TAMIL_MOVIES_1/index.m3u8
+#EXTINF:-1, Tamil Dubbed Movies
+http://192.99.54.242/ind_tam/TAMIL_DUBBED_MOVIES/index.m3u8
+#EXTINF:-1, Sun Tv India
+http://192.99.54.242/ind_tam/SUN_TV/index.m3u8
+#EXTINF:-1, Sun Music India
+http://192.99.54.242/ind_tam/SUN_MUSIC/index.m3u8
+#EXTINF:-1, Sun Life India
+http://192.99.54.242/ind_tam/SUN_LIFE/index.m3u8
+#EXTINF:-1, Star Vijay
+http://192.99.54.242/ind_tam/STAR_VIJAY/index.m3u8
+#EXTINF:-1, Sri Sankara Tv
+http://192.99.54.242/ind_tam/SRI_SANKARA_TV/index.m3u8
+#EXTINF:-1, Spiritual
+http://192.99.54.242/ind_tam/SPIRITUAL/index.m3u8
+#EXTINF:-1, Sony Bbc Earth Tamil India
+http://192.99.54.242/ind_tam/SONY_BBC_EARTH/index.m3u8
+#EXTINF:-1, Sivan Tv
+http://192.99.54.242/ind_tam/SIVAN_TV/index.m3u8
+#EXTINF:-1, Selfie
+http://192.99.54.242/ind_tam/SELFIE/index.m3u8
+#EXTINF:-1, Sangammam Tv
+http://192.99.54.242/ind_tam/SANGAMMAM_TV/index.m3u8
+#EXTINF:-1, Polimer News
+http://192.99.54.242/ind_tam/POLIMER_NEWS/index.m3u8
+#EXTINF:-1, One Yes
+http://192.99.54.242/ind_tam/ONE_YES/index.m3u8
+#EXTINF:-1, Nethra Tv
+http://192.99.54.242/ind_tam/NETHRA_TV/index.m3u8
+#EXTINF:-1, National Geographic Wild Tamil India
+http://192.99.54.242/ind_tam/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1, National Geographic Tamil India
+http://192.99.54.242/ind_tam/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1, Mahabarat
+http://192.99.54.242/ind_tam/MAHABARAT/index.m3u8
+#EXTINF:-1, Magic Box Story
+http://192.99.54.242/ind_tam/MAGIC_BOX_STORY/index.m3u8
+#EXTINF:-1, Lord Tv
+http://192.99.54.242/ind_tam/LORD_TV/index.m3u8
+#EXTINF:-1, Ktv India
+http://192.99.54.242/ind_tam/KTV/index.m3u8
+#EXTINF:-1, Jaya Tv
+http://192.99.54.242/ind_tam/JAYA_TV/index.m3u8
+#EXTINF:-1, Ibc Songs
+http://192.99.54.242/ind_tam/IBC_SONGS/index.m3u8
+#EXTINF:-1, Ibc Comedy
+http://192.99.54.242/ind_tam/IBC_COMEDY/index.m3u8
+#EXTINF:-1, Ibc Bakthi
+http://192.99.54.242/ind_tam/IBC_BAKTHI/index.m3u8
+#EXTINF:-1, Hosanna
+http://192.99.54.242/ind_tam/HOSANNA/index.m3u8
+#EXTINF:-1, Holy Mary
+http://192.99.54.242/ind_tam/HOLY_MARY/index.m3u8
+#EXTINF:-1, History Tamil
+http://192.99.54.242/ind_tam/HISTORY/index.m3u8
+#EXTINF:-1, Fox Life Tamil
+http://192.99.54.242/ind_tam/FOX_LIFE/index.m3u8
+#EXTINF:-1, Food Network Tamil
+http://192.99.54.242/ind_tam/FOOD_NETWORK/index.m3u8
+#EXTINF:-1, Eelam Tv
+http://192.99.54.242/ind_tam/EELAM_TV/index.m3u8
+#EXTINF:-1, Discovery Tamil
+http://192.99.54.242/ind_tam/DISCOVERY/index.m3u8
+#EXTINF:-1, Dheeran Tv
+http://192.99.54.242/ind_tam/DHEERAN_TV/index.m3u8
+#EXTINF:-1, Dd Podhigai
+http://192.99.54.242/ind_tam/DD_PODHIGAI/index.m3u8
+#EXTINF:-1, Colors Tamil India
+http://192.99.54.242/ind_tam/COLORS/index.m3u8
+#EXTINF:-1, Bible Study
+http://192.99.54.242/ind_tam/BIBLE_STUDY/index.m3u8
+#EXTINF:-1, Anboli Tv
+http://192.99.54.242/ind_tam/ANBOLI_TV/index.m3u8
+#EXTINF:-1, Ambaal Tv
+http://192.99.54.242/ind_tam/AMBAAL_TV/index.m3u8
+#EXTINF:-1, Alalai Express
+http://192.99.54.242/ind_tam/ALALAI_EXPRESS/index.m3u8
+#EXTINF:-1, 7s Music
+http://192.99.54.242/ind_tam/7S_MUSIC/index.m3u8
+#EXTINF:-1, Zeste French
+http://192.99.54.242/ca_fr/ZESTE/index.m3u8
+#EXTINF:-1, Z Tele French
+http://192.99.54.242/ca_fr/Z_TELE/index.m3u8
+#EXTINF:-1, Yoopa French
+http://192.99.54.242/ca_fr/YOOPA/index.m3u8
+#EXTINF:-1, Vie French
+http://192.99.54.242/ca_fr/VIE/index.m3u8
+#EXTINF:-1, V Montreal French
+http://192.99.54.242/ca_fr/V_MONTREAL/index.m3u8
+#EXTINF:-1, Tvo French
+http://192.99.54.242/ca_fr/TVO/index.m3u8
+#EXTINF:-1, Tva Quebec French
+http://192.99.54.242/ca_fr/TVA_QUEBEC/index.m3u8
+#EXTINF:-1, Tv5 Quebec French
+http://192.99.54.242/ca_fr/TV5_QUEBEC/index.m3u8
+#EXTINF:-1, Tv5 Monde French
+http://192.99.54.242/fr/TV5_MONDE/index.m3u8
+#EXTINF:-1, Tf1 French
+http://192.99.54.242/fr/TF1/index.m3u8
+#EXTINF:-1, Tele Quebec French
+http://192.99.54.242/ca_fr/TELE_QUEBEC/index.m3u8
+#EXTINF:-1, Tcm Cinema French
+http://192.99.54.242/fr/TCM_CINEMA/index.m3u8
+#EXTINF:-1, Super Ecran 4 French
+http://192.99.54.242/ca_fr/SUPER_ECRAN_4/index.m3u8
+#EXTINF:-1, Super Ecran 3 French
+http://192.99.54.242/ca_fr/SUPER_ECRAN_3/index.m3u8
+#EXTINF:-1, Super Ecran 2 French
+http://192.99.54.242/ca_fr/SUPER_ECRAN_2/index.m3u8
+#EXTINF:-1, Super Ecran 1 French
+http://192.99.54.242/ca_fr/SUPER_ECRAN_1/index.m3u8
+#EXTINF:-1, Rfm Tv French
+http://192.99.54.242/fr/RFM_TV/index.m3u8
+#EXTINF:-1, Rds French
+http://192.99.54.242/ca_fr/RDS/index.m3u8
+#EXTINF:-1, Rds 2 French
+http://192.99.54.242/ca_fr/RDS_2/index.m3u8
+#EXTINF:-1, Rdi French
+http://192.99.54.242/ca_fr/RDI/index.m3u8
+#EXTINF:-1, Paris Premiere French
+http://192.99.54.242/fr/PARIS_PREMIERE/index.m3u8
+#EXTINF:-1, Paramount Channel French
+http://192.99.54.242/fr/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1, Ocs Max French
+http://192.99.54.242/fr/OCS_MAX/index.m3u8
+#EXTINF:-1, Ocs Geants French
+http://192.99.54.242/fr/OCS_GEANTS/index.m3u8
+#EXTINF:-1, Ocs City French
+http://192.99.54.242/fr/OCS_CITY/index.m3u8
+#EXTINF:-1, Ocs Choc French
+http://192.99.54.242/fr/OCS_CHOC/index.m3u8
+#EXTINF:-1, National Geographic Wild French
+http://192.99.54.242/fr/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1, National Geographic French
+http://192.99.54.242/fr/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1, Mtv Dance French
+http://192.99.54.242/fr/MTV_DANCE/index.m3u8
+#EXTINF:-1, Meteo Media
+http://192.99.54.242/ca_fr/METEO_MEDIA/index.m3u8
+#EXTINF:-1, Mcm French
+http://192.99.54.242/fr/MCM/index.m3u8
+#EXTINF:-1, Lcn French
+http://192.99.54.242/ca_fr/LCN/index.m3u8
+#EXTINF:-1, Lci French
+http://192.99.54.242/fr/LCI/index.m3u8
+#EXTINF:-1, Histoire Tv French
+http://192.99.54.242/fr/HISTOIRE/index.m3u8
+#EXTINF:-1, Guill French
+http://192.99.54.242/fr/GUILL/index.m3u8
+#EXTINF:-1, France Info French
+http://192.99.54.242/fr/FRANCE_INFO/index.m3u8
+#EXTINF:-1, France 2 French
+http://192.99.54.242/fr/FRANCE_2/index.m3u8
+#EXTINF:-1, Discovery Science French
+http://192.99.54.242/fr/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1, Discovery Investigation French
+http://192.99.54.242/fr/DISCOVERY_INVESTIGATION/index.m3u8
+#EXTINF:-1, Discovery Channel French
+http://192.99.54.242/fr/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1, Crume Investigation French
+http://192.99.54.242/ca_fr/CRUME_INVESTIGATION/index.m3u8
+#EXTINF:-1, Crime Disctrict French
+http://192.99.54.242/fr/CRIME_DISCTRICT/index.m3u8
+#EXTINF:-1, Cpac French
+http://192.99.54.242/ca_fr/CPAC/index.m3u8
+#EXTINF:-1, Comedy Central French
+http://192.99.54.242/fr/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1, Cnews French
+http://192.99.54.242/fr/CNEWS/index.m3u8
+#EXTINF:-1, Cine Premiere French
+http://192.99.54.242/fr/CINE_PREMIERE/index.m3u8
+#EXTINF:-1, Cine Frisson French
+http://192.99.54.242/fr/CINE_FRISSON/index.m3u8
+#EXTINF:-1, Cine Famiz French
+http://192.99.54.242/fr/CINE_FAMIZ/index.m3u8
+#EXTINF:-1, Cine Emotion French
+http://192.99.54.242/fr/CINE_EMOTION/index.m3u8
+#EXTINF:-1, Cine Club French
+http://192.99.54.242/fr/CINE_CLUB/index.m3u8
+#EXTINF:-1, Cine Classic French
+http://192.99.54.242/fr/CINE_CLASSIC/index.m3u8
+#EXTINF:-1, Cherie 25 French
+http://192.99.54.242/fr/CHERIE_25/index.m3u8
+#EXTINF:-1, Chasse&peche French
+http://192.99.54.242/fr/CHASSE&PECHE/index.m3u8
+#EXTINF:-1, Casa French
+http://192.99.54.242/ca_fr/CASA/index.m3u8
+#EXTINF:-1, Canal Series French
+http://192.99.54.242/fr/CANAL_SERIES/index.m3u8
+#EXTINF:-1, Canal Savoir French
+http://192.99.54.242/ca_fr/CANAL_SAVOIR/index.m3u8
+#EXTINF:-1, Canal J French
+http://192.99.54.242/fr/CANAL_J/index.m3u8
+#EXTINF:-1, Canal Id French
+http://192.99.54.242/ca_fr/CANAL_ID/index.m3u8
+#EXTINF:-1, Canal French
+http://192.99.54.242/fr/CANAL/index.m3u8
+#EXTINF:-1, Canal Family French
+http://192.99.54.242/fr/CANAL_FAMILY/index.m3u8
+#EXTINF:-1, Canal Cinema French
+http://192.99.54.242/fr/CANAL_CINEMA/index.m3u8
+#EXTINF:-1, C Star French
+http://192.99.54.242/fr/C_STAR/index.m3u8
+#EXTINF:-1, Brava French
+http://192.99.54.242/fr/BRAVA/index.m3u8
+#EXTINF:-1, Bfm Tv French
+http://192.99.54.242/ca_fr/BFM_TV/index.m3u8
+#EXTINF:-1, Bet French
+http://192.99.54.242/fr/BET/index.m3u8
+#EXTINF:-1, Aete French
+http://192.99.54.242/ca_fr/AETE/index.m3u8
+#EXTINF:-1, Action French
+http://192.99.54.242/ca_fr/ACTION/index.m3u8
+#EXTINF:-1, 6 Ter French
+http://192.99.54.242/ca_fr/6_TER/index.m3u8
+#EXTINF:-1, 13 Emu Rue French
+http://192.99.54.242/ca_fr/13_EMU_RUE/index.m3u8
+#EXTINF:-1, Willow Xtra
+http://192.99.54.242/spo/WILLOW_XTRA/index.m3u8
+#EXTINF:-1, Willow Tv 2
+http://192.99.54.242/spo/WILLOW_2/index.m3u8
+#EXTINF:-1, Willow Tv
+http://192.99.54.242/spo/WILLOW_TV/index.m3u8
+#EXTINF:-1, Willow Canada
+http://192.99.54.242/spo/WILLOW_CANADA/index.m3u8
+#EXTINF:-1, Supersport Cricket
+http://192.99.54.242/spo/ASTRO_SUPERSPORT_CRICKET/index.m3u8
+#EXTINF:-1, Star Sports Select 2
+http://192.99.54.242/spo/STAR_SPORTS_SELECT_2/index.m3u8
+#EXTINF:-1, Star Sports Select 1
+http://192.99.54.242/spo/STAR_SPORTS_SELECT_1/index.m3u8
+#EXTINF:-1, Star Sports First
+http://192.99.54.242/spo/STAR_SPORTS_FIRST/index.m3u8
+#EXTINF:-1, Star Sports 3
+http://192.99.54.242/spo/STAR_SPORTS_3/index.m3u8
+#EXTINF:-1, Star Sports 2
+http://192.99.54.242/spo/STAR_SPORTS_2/index.m3u8
+#EXTINF:-1, Star Sports 1 Tamil
+http://192.99.54.242/spo/TAMIL/STAR_SPORTS/index.m3u8
+#EXTINF:-1, Star Sports 1 Hindi
+http://192.99.54.242/spo/HINDI/STAR_SPORTS_1/index.m3u8
+#EXTINF:-1, Star Sports 1 English
+http://192.99.54.242/spo/STAR_SPORTS_1/index.m3u8
+#EXTINF:-1, Sony Ten 3
+http://192.99.54.242/spo/SONY_TEN_3/index.m3u8
+#EXTINF:-1, Sony Ten 2
+http://192.99.54.242/spo/SONY_TEN_2/index.m3u8
+#EXTINF:-1, Sony Ten 1
+http://192.99.54.242/spo/SONY_TEN_1/index.m3u8
+#EXTINF:-1, Sony Six
+http://192.99.54.242/spo/SONY_SIX/index.m3u8
+#EXTINF:-1, Sky Sports Cricket
+http://192.99.54.242/spo/SKY_SPORTS_CRICKET/index.m3u8
+#EXTINF:-1, Jio Cricket
+http://192.99.54.242/spo/JIO_CRICKET/index.m3u8
+#EXTINF:-1, Geo Super
+http://192.99.54.242/spo/GEO_SUPER/index.m3u8
+#EXTINF:-1, Dd Sports
+http://192.99.54.242/spo/DD_SPORTS/index.m3u8
+#EXTINF:-1, Astro Cricket
+http://192.99.54.242/spo/ASTRO_CRICKET/index.m3u8
+#EXTINF:-1, Weather Nation
+http://192.99.54.242/us/WEATHER_NATION/index.m3u8
+#EXTINF:-1, Usa Network
+http://192.99.54.242/us/USA_NETWORK/index.m3u8
+#EXTINF:-1, Tv Land
+http://192.99.54.242/us/TV_LAND/index.m3u8
+#EXTINF:-1, Tru Tv
+http://192.99.54.242/us/TRU_TV/index.m3u8
+#EXTINF:-1, Tnt
+http://192.99.54.242/us/TNT/index.m3u8
+#EXTINF:-1, Tlc Usa
+http://192.99.54.242/us/TLC/index.m3u8
+#EXTINF:-1, The Weather Channel
+http://192.99.54.242/us/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1, The Cw
+http://192.99.54.242/us/THE_CW/index.m3u8
+#EXTINF:-1, Tbs
+http://192.99.54.242/us/TBS/index.m3u8
+#EXTINF:-1, Tbd
+http://192.99.54.242/us/TBD/index.m3u8
+#EXTINF:-1, Starz West
+http://192.99.54.242/us/STARZ_WEST/index.m3u8
+#EXTINF:-1, Starz Kids And Family
+http://192.99.54.242/us/STARZ_KIDS_AND_FAMILY/index.m3u8
+#EXTINF:-1, Starz In Black
+http://192.99.54.242/us/STARZ_IN_BLACK/index.m3u8
+#EXTINF:-1, Starz Encore West
+http://192.99.54.242/us/STARZ_ENCORE_WEST/index.m3u8
+#EXTINF:-1, Starz Encore Suspense
+http://192.99.54.242/us/STARZ_ENCORE_SUSPENSE/index.m3u8
+#EXTINF:-1, Starz Encore Family
+http://192.99.54.242/us/STARZ_ENCORE_FAMILY/index.m3u8
+#EXTINF:-1, Starz Encore East
+http://192.99.54.242/us/STARZ_ENCORE_EAST/index.m3u8
+#EXTINF:-1, Starz Encore Classic
+http://192.99.54.242/us/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1, Starz Encore Black
+http://192.99.54.242/us/STARZ_ENCORE_BLACK/index.m3u8
+#EXTINF:-1, Starz Encore Action
+http://192.99.54.242/us/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1, Starz Edge
+http://192.99.54.242/us/STARZ_EDGE/index.m3u8
+#EXTINF:-1, Starz East
+http://192.99.54.242/us/STARZ_EAST/index.m3u8
+#EXTINF:-1, Starz Comedy
+http://192.99.54.242/us/STARZ_COMEDY/index.m3u8
+#EXTINF:-1, Starz Cinema
+http://192.99.54.242/us/STARZ_CINEMA/index.m3u8
+#EXTINF:-1, Outdoor Channel
+http://192.99.54.242/us/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1, Nbc Washington
+http://192.99.54.242/us/NBC_WASHINGTON/index.m3u8
+#EXTINF:-1, Nbc Texas
+http://192.99.54.242/us/NBC_TEXAS/index.m3u8
+#EXTINF:-1, Nbc San Diego
+http://192.99.54.242/us/NBC_SAN_DIEGO/index.m3u8
+#EXTINF:-1, Nbc Philadelphia
+http://192.99.54.242/us/NBC_PHILADELPHIA/index.m3u8
+#EXTINF:-1, Nbc Miami
+http://192.99.54.242/us/NBC_MIAMI/index.m3u8
+#EXTINF:-1, Nbc Los Angeles
+http://192.99.54.242/us/NBC_LOS_ANGELES/index.m3u8
+#EXTINF:-1, Nbc Connecticut
+http://192.99.54.242/us/NBC_CONNECTICUT/index.m3u8
+#EXTINF:-1, Nbc
+http://192.99.54.242/us/NBC/index.m3u8
+#EXTINF:-1, National Geographic Wild Usa
+http://192.99.54.242/us/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1, National Geographic Usa
+http://192.99.54.242/us/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1, Nasa Tv
+http://192.99.54.242/us/NASA_TV/index.m3u8
+#EXTINF:-1, My Orlando
+http://192.99.54.242/us/MY_ORLANDO/index.m3u8
+#EXTINF:-1, My New Jersey
+http://192.99.54.242/us/MY_NEW_JERSEY/index.m3u8
+#EXTINF:-1, My Minneapolis
+http://192.99.54.242/us/MY_MINNEAPOLIS/index.m3u8
+#EXTINF:-1, My Los Angeles
+http://192.99.54.242/us/MY_LOS_ANGELES/index.m3u8
+#EXTINF:-1, My Houston
+http://192.99.54.242/us/MY_HOUSTON/index.m3u8
+#EXTINF:-1, My Dallas
+http://192.99.54.242/us/MY_DALLAS/index.m3u8
+#EXTINF:-1, My Charlotte
+http://192.99.54.242/us/MY_CHARLOTTE/index.m3u8
+#EXTINF:-1, My Arizona
+http://192.99.54.242/us/MY_ARIZONA/index.m3u8
+#EXTINF:-1, Msnbc Usa
+http://192.99.54.242/us/MSNBC/index.m3u8
+#EXTINF:-1, Investigation Discovery Usa
+http://192.99.54.242/us/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1, Hln
+http://192.99.54.242/us/HLN/index.m3u8
+#EXTINF:-1, History Usa
+http://192.99.54.242/us/HISTORY/index.m3u8
+#EXTINF:-1, History 2
+http://192.99.54.242/us/HISTORY_2/index.m3u8
+#EXTINF:-1, Hgtv Usa
+http://192.99.54.242/us/HGTV/index.m3u8
+#EXTINF:-1, Hbo Zone
+http://192.99.54.242/us/HBO_ZONE/index.m3u8
+#EXTINF:-1, Hbo Signature
+http://192.99.54.242/us/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1, Hbo Family
+http://192.99.54.242/us/HBO_FAMILY/index.m3u8
+#EXTINF:-1, Hbo Comedy
+http://192.99.54.242/us/HBO_COMEDY/index.m3u8
+#EXTINF:-1, Hbo 2
+http://192.99.54.242/us/HBO_2/index.m3u8
+#EXTINF:-1, Hbo 1 West
+http://192.99.54.242/us/HBO_1_WEST/index.m3u8
+#EXTINF:-1, Hbo 1 East
+http://192.99.54.242/us/HBO_1_EAST/index.m3u8
+#EXTINF:-1, Gsn Usa
+http://192.99.54.242/us/GSN/index.m3u8
+#EXTINF:-1, Fxx Usa
+http://192.99.54.242/us/FXX/index.m3u8
+#EXTINF:-1, Fxm Usa
+http://192.99.54.242/us/FXM/index.m3u8
+#EXTINF:-1, Fx Usa
+http://192.99.54.242/us/FX/index.m3u8
+#EXTINF:-1, Fox Soul
+http://192.99.54.242/us/FOX_SOUL/index.m3u8
+#EXTINF:-1, Fox Q13
+http://192.99.54.242/us/FOX_Q_13/index.m3u8
+#EXTINF:-1, Fox News Now
+http://192.99.54.242/us/FOX_NEWS_NOW/index.m3u8
+#EXTINF:-1, Fox News
+http://192.99.54.242/us/FOX_NEWS/index.m3u8
+#EXTINF:-1, Fox Life Usa
+http://192.99.54.242/us/FOX_LIFE/index.m3u8
+#EXTINF:-1, Fox Business
+http://192.99.54.242/us/FOX_BUSINESS/index.m3u8
+#EXTINF:-1, Fox Buffalo
+http://192.99.54.242/us/FOX_BUFFALO/index.m3u8
+#EXTINF:-1, Fox 9
+http://192.99.54.242/us/FOX_9/index.m3u8
+#EXTINF:-1, Fox 7
+http://192.99.54.242/us/FOX_7/index.m3u8
+#EXTINF:-1, Fox 6
+http://192.99.54.242/us/FOX_6/index.m3u8
+#EXTINF:-1, Fox 5
+http://192.99.54.242/us/FOX_5/index.m3u8
+#EXTINF:-1, Fox 4
+http://192.99.54.242/us/FOX_4/index.m3u8
+#EXTINF:-1, Fox 29
+http://192.99.54.242/us/FOX_29/index.m3u8
+#EXTINF:-1, Fox 25
+http://192.99.54.242/us/FOX_25/index.m3u8
+#EXTINF:-1, Fox 2
+http://192.99.54.242/us/FOX_2/index.m3u8
+#EXTINF:-1, Fox 13 Sky Tower
+http://192.99.54.242/us/FOX_13_SKY_TOWER/index.m3u8
+#EXTINF:-1, Fox 13
+http://192.99.54.242/us/FOX_13/index.m3u8
+#EXTINF:-1, Fox 11
+http://192.99.54.242/us/FOX_11/index.m3u8
+#EXTINF:-1, Fox 10
+http://192.99.54.242/us/FOX_10/index.m3u8
+#EXTINF:-1, Food Network Usa
+http://192.99.54.242/us/FOOD_NETWORK/index.m3u8
+#EXTINF:-1, Fail Army
+http://192.99.54.242/us/FAIL_ARMY/index.m3u8
+#EXTINF:-1, English Movies 3 Usa
+http://192.99.54.242/us/ENGLISH_MOVIES_3/index.m3u8
+#EXTINF:-1, English Movies 2 Usa
+http://192.99.54.242/us/ENGLISH_MOVIES_2/index.m3u8
+#EXTINF:-1, English Movies 1 Usa
+http://192.99.54.242/us/ENGLISH_MOVIES_1/index.m3u8
+#EXTINF:-1, E! Usa
+http://192.99.54.242/us/E!/index.m3u8
+#EXTINF:-1, Discovery Velocity Usa
+http://192.99.54.242/us/DISCOVERY_VELOCITY/index.m3u8
+#EXTINF:-1, Discovery Science Usa
+http://192.99.54.242/us/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1, Discovery Life Usa
+http://192.99.54.242/us/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1, Discovery Family Usa
+http://192.99.54.242/us/DISCOVERY_FAMILY/index.m3u8
+#EXTINF:-1, Discovery Channel Usa
+http://192.99.54.242/us/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1, Cw Seed
+http://192.99.54.242/us/CW_SEED/index.m3u8
+#EXTINF:-1, Csn Washington Plus
+http://192.99.54.242/us/CSN_WASHINGTON_PLUS/index.m3u8
+#EXTINF:-1, Csn Washington
+http://192.99.54.242/us/CSN_WASHINGTON/index.m3u8
+#EXTINF:-1, Csn Philadelphia
+http://192.99.54.242/us/CSN_PHILADELPHIA/index.m3u8
+#EXTINF:-1, Csn Chicago Plus
+http://192.99.54.242/us/CSN_CHICAGO_PLUS/index.m3u8
+#EXTINF:-1, Csn Chicago
+http://192.99.54.242/us/CSN_CHICAGO/index.m3u8
+#EXTINF:-1, Csn Boston
+http://192.99.54.242/us/CSN_BOSTON/index.m3u8
+#EXTINF:-1, Cooking Channel
+http://192.99.54.242/us/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1, Comet Tv
+http://192.99.54.242/us/COMET_TV/index.m3u8
+#EXTINF:-1, Cnn
+http://192.99.54.242/us/CNN/index.m3u8
+#EXTINF:-1, Cnbc World
+http://192.99.54.242/us/CNBC_WORLD/index.m3u8
+#EXTINF:-1, Cnbc Usa
+http://192.99.54.242/us/CNBC/index.m3u8
+#EXTINF:-1, Charge!
+http://192.99.54.242/us/CHARGE!/index.m3u8
+#EXTINF:-1, Cbsn
+http://192.99.54.242/us/CBSN/index.m3u8
+#EXTINF:-1, Cbs West Palm Beach
+http://192.99.54.242/us/CBS_WEST_PALM_BEACH/index.m3u8
+#EXTINF:-1, Cbs Usa
+http://192.99.54.242/us/CBS/index.m3u8
+#EXTINF:-1, Cbs Seattle
+http://192.99.54.242/us/CBS_SEATTLE/index.m3u8
+#EXTINF:-1, Cbs Philadelphia
+http://192.99.54.242/us/CBS_PHILADELPHIA/index.m3u8
+#EXTINF:-1, Cbs Milwaukee
+http://192.99.54.242/us/CBS_MILWAUKEE/index.m3u8
+#EXTINF:-1, Cbs Miami
+http://192.99.54.242/us/CBS_MIAMI/index.m3u8
+#EXTINF:-1, Cbs Louisville
+http://192.99.54.242/us/CBS_LOUISVILLE/index.m3u8
+#EXTINF:-1, Cbs Harrisburg
+http://192.99.54.242/us/CBS_HARRISBURG/index.m3u8
+#EXTINF:-1, Cbs Fort Worth
+http://192.99.54.242/us/CBS_FORT_WORTH/index.m3u8
+#EXTINF:-1, Cbs Drama
+http://192.99.54.242/us/CBS_DRAMA/index.m3u8
+#EXTINF:-1, Cbs Columbus
+http://192.99.54.242/us/CBS_COLUMBUS/index.m3u8
+#EXTINF:-1, Cbs Cansas City
+http://192.99.54.242/us/CBS_CANSAS_CITY/index.m3u8
+#EXTINF:-1, Cbs California
+http://192.99.54.242/us/CBS_CALIFORNIA/index.m3u8
+#EXTINF:-1, Cbs Atlanta
+http://192.99.54.242/us/CBS_ATLANTA/index.m3u8
+#EXTINF:-1, Cbs Arizona
+http://192.99.54.242/us/CBS_ARIZONA/index.m3u8
+#EXTINF:-1, Cbc
+http://192.99.54.242/us/CBC/index.m3u8
+#EXTINF:-1, C-span 3
+http://192.99.54.242/us/C-SPAN_3/index.m3u8
+#EXTINF:-1, C-span 2
+http://192.99.54.242/us/C-SPAN_2/index.m3u8
+#EXTINF:-1, C-span 1
+http://192.99.54.242/us/C-SPAN_1/index.m3u8
+#EXTINF:-1, Bravo Usa
+http://192.99.54.242/us/BRAVO/index.m3u8
+#EXTINF:-1, Bet Usa
+http://192.99.54.242/us/BET/index.m3u8
+#EXTINF:-1, Bet Her
+http://192.99.54.242/us/BET_HER/index.m3u8
+#EXTINF:-1, Bbc America
+http://192.99.54.242/us/BBC_AMERICA/index.m3u8
+#EXTINF:-1, Animal Planet Usa
+http://192.99.54.242/us/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1, Amc Usa
+http://192.99.54.242/us/AMC/index.m3u8
+#EXTINF:-1, Afv
+http://192.99.54.242/us/AFV/index.m3u8
+#EXTINF:-1, Accu Weather
+http://192.99.54.242/us/ACCU_WEATHER/index.m3u8
+#EXTINF:-1, Abc Washington
+http://192.99.54.242/us/ABC_WASHINGTON/index.m3u8
+#EXTINF:-1, Abc Usa
+http://192.99.54.242/us/ABC/index.m3u8
+#EXTINF:-1, Abc Texas
+http://192.99.54.242/us/ABC_TEXAS/index.m3u8
+#EXTINF:-1, Abc Tampa
+http://192.99.54.242/us/ABC_TAMPA/index.m3u8
+#EXTINF:-1, Abc St Louis
+http://192.99.54.242/us/ABC_ST_LOUIS/index.m3u8
+#EXTINF:-1, Abc Spark
+http://192.99.54.242/us/ABC_SPARK/index.m3u8
+#EXTINF:-1, Abc Seatle
+http://192.99.54.242/us/ABC_SEATLE/index.m3u8
+#EXTINF:-1, Abc San Francisco
+http://192.99.54.242/us/ABC_SAN_FRANCISCO/index.m3u8
+#EXTINF:-1, Abc San Antonio
+http://192.99.54.242/us/ABC_SAN_ANTONIO/index.m3u8
+#EXTINF:-1, Abc Saltlake City
+http://192.99.54.242/us/ABC_SALTLAKE_CITY/index.m3u8
+#EXTINF:-1, Abc Sacramento
+http://192.99.54.242/us/ABC_SACRAMENTO/index.m3u8
+#EXTINF:-1, Abc Raleigh Durham
+http://192.99.54.242/us/ABC_RALEIGH_DURHAM/index.m3u8
+#EXTINF:-1, Abc Portland
+http://192.99.54.242/us/ABC_PORTLAND/index.m3u8
+#EXTINF:-1, Abc Pittsburg
+http://192.99.54.242/us/ABC_PITTSBURG/index.m3u8
+#EXTINF:-1, Abc Philadelphia
+http://192.99.54.242/us/ABC_PHILADELPHIA/index.m3u8
+#EXTINF:-1, Abc Orlando
+http://192.99.54.242/us/ABC_ORLANDO/index.m3u8
+#EXTINF:-1, Abc Ohio
+http://192.99.54.242/us/ABC_OHIO/index.m3u8
+#EXTINF:-1, Abc Newyork
+http://192.99.54.242/us/ABC_NEWYORK/index.m3u8
+#EXTINF:-1, Abc News
+http://192.99.54.242/us/ABC_NEWS/index.m3u8
+#EXTINF:-1, Abc Minnesota
+http://192.99.54.242/us/ABC_MINNESOTA_HD/index.m3u8
+#EXTINF:-1, Abc Milwaukee
+http://192.99.54.242/us/ABC_MILWAUKEE/index.m3u8
+#EXTINF:-1, Abc Miami
+http://192.99.54.242/us/ABC_MIAMI/index.m3u8
+#EXTINF:-1, Abc Los Angeles
+http://192.99.54.242/us/ABC_LOS_ANGELES/index.m3u8
+#EXTINF:-1, Abc Kansas City
+http://192.99.54.242/us/ABC_KANSAS_CITY/index.m3u8
+#EXTINF:-1, Abc Indiana
+http://192.99.54.242/us/ABC_INDIANA/index.m3u8
+#EXTINF:-1, Abc Houston
+http://192.99.54.242/us/ABC_HOUSTON/index.m3u8
+#EXTINF:-1, Abc Fresno
+http://192.99.54.242/us/ABC_FRESNO/index.m3u8
+#EXTINF:-1, Abc Fhoenix
+http://192.99.54.242/us/ABC_FHOENIX/index.m3u8
+#EXTINF:-1, Abc Family
+http://192.99.54.242/us/ABC_FAMILY/index.m3u8
+#EXTINF:-1, Abc Durham
+http://192.99.54.242/us/ABC_DURHAM/index.m3u8
+#EXTINF:-1, Abc Detroit
+http://192.99.54.242/us/ABC_DETROIT/index.m3u8
+#EXTINF:-1, Abc Dallas
+http://192.99.54.242/us/ABC_DALLAS/index.m3u8
+#EXTINF:-1, Abc Connecticut
+http://192.99.54.242/us/ABC_CONNECTICUT/index.m3u8
+#EXTINF:-1, Abc Columbus
+http://192.99.54.242/us/ABC_COLUMBUS/index.m3u8
+#EXTINF:-1, Abc Cleveland
+http://192.99.54.242/us/ABC_CLEVELAND/index.m3u8
+#EXTINF:-1, Abc Chicago
+http://192.99.54.242/us/ABC_CHICAGO/index.m3u8
+#EXTINF:-1, Abc Charlotte
+http://192.99.54.242/us/ABC_CHARLOTTE/index.m3u8
+#EXTINF:-1, Abc California
+http://192.99.54.242/us/ABC_CALIFORNIA/index.m3u8
+#EXTINF:-1, Abc Buffalo
+http://192.99.54.242/us/ABC_BUFFALO/index.m3u8
+#EXTINF:-1, Abc Boston
+http://192.99.54.242/us/ABC_BOSTON/index.m3u8
+#EXTINF:-1, Abc Baltimore
+http://192.99.54.242/us/ABC_BALTIMORE/index.m3u8
+#EXTINF:-1, Abc Atlanta
+http://192.99.54.242/us/ABC_ATLANTA/index.m3u8
+#EXTINF:-1, A&e Usa
+http://192.99.54.242/us/A&E/index.m3u8
+#EXTINF:-1, Yesterday
+http://192.99.54.242/uk/YESTERDAY/index.m3u8
+#EXTINF:-1, Tlc Uk
+http://192.99.54.242/uk/TLC/index.m3u8
+#EXTINF:-1, Tcm Uk
+http://192.99.54.242/uk/TCM/index.m3u8
+#EXTINF:-1, Starz Uk
+http://192.99.54.242/uk/STARZ/index.m3u8
+#EXTINF:-1, Sky Two
+http://192.99.54.242/uk/SKY_TWO/index.m3u8
+#EXTINF:-1, Sky One
+http://192.99.54.242/uk/SKY_ONE/index.m3u8
+#EXTINF:-1, Sky Living
+http://192.99.54.242/uk/SKY_LIVING/index.m3u8
+#EXTINF:-1, Sky Cinema Thriller
+http://192.99.54.242/uk/SKY_CINEMA_THRILLER/index.m3u8
+#EXTINF:-1, Sky Cinema Showcase
+http://192.99.54.242/uk/SKY_CINEMA_SHOWCASE/index.m3u8
+#EXTINF:-1, Sky Cinema Select
+http://192.99.54.242/uk/SKY_CINEMA_SELECT/index.m3u8
+#EXTINF:-1, Sky Cinema Sci-fi
+http://192.99.54.242/uk/SKY_CINEMA_SCI-FI/index.m3u8
+#EXTINF:-1, Sky Cinema Premiere
+http://192.99.54.242/uk/SKY_CINEMA_PREMIERE/index.m3u8
+#EXTINF:-1, Sky Cinema Modern Greats
+http://192.99.54.242/uk/SKY_CINEMA_MODERN_GREATS/index.m3u8
+#EXTINF:-1, Sky Cinema Family
+http://192.99.54.242/uk/SKY_CINEMA_FAMILY/index.m3u8
+#EXTINF:-1, Sky Cinema Drama
+http://192.99.54.242/uk/SKY_CINEMA_DRAMA/index.m3u8
+#EXTINF:-1, Sky Cinema Disney
+http://192.99.54.242/uk/SKY_CINEMA_DISNEY/index.m3u8
+#EXTINF:-1, Sky Cinema Crime & Thriller
+http://192.99.54.242/uk/SKY_CINEMA_CRIME_&_THRILLER/index.m3u8
+#EXTINF:-1, Sky Cinema Comedy
+http://192.99.54.242/uk/SKY_CINEMA_COMEDY/index.m3u8
+#EXTINF:-1, Sky Cinema Action
+http://192.99.54.242/uk/SKY_CINEMA_ACTION/index.m3u8
+#EXTINF:-1, Sky Atlantic
+http://192.99.54.242/uk/SKY_ATLANTIC/index.m3u8
+#EXTINF:-1, Sky Arts
+http://192.99.54.242/uk/SKY_ARTS/index.m3u8
+#EXTINF:-1, National Geographic Wild Uk
+http://192.99.54.242/uk/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1, National Geographic Uk
+http://192.99.54.242/uk/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1, Itv Be
+http://192.99.54.242/uk/ITV_BE/index.m3u8
+#EXTINF:-1, Itv 4
+http://192.99.54.242/uk/ITV_4/index.m3u8
+#EXTINF:-1, Itv 3
+http://192.99.54.242/uk/ITV_3/index.m3u8
+#EXTINF:-1, Itv 2
+http://192.99.54.242/uk/ITV_2/index.m3u8
+#EXTINF:-1, Itv 1
+http://192.99.54.242/uk/ITV_1/index.m3u8
+#EXTINF:-1, Investigation Discovery Uk
+http://192.99.54.242/uk/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1, History Uk
+http://192.99.54.242/uk/HISTORY/index.m3u8
+#EXTINF:-1, Hgtv Uk
+http://192.99.54.242/uk/HGTV/index.m3u8
+#EXTINF:-1, Food Network Uk
+http://192.99.54.242/uk/FOOD_NETWORK/index.m3u8
+#EXTINF:-1, English Movies 3 Uk
+http://192.99.54.242/uk/ENGLISH_MOVIES_3/index.m3u8
+#EXTINF:-1, English Movies 2 Uk
+http://192.99.54.242/uk/ENGLISH_MOVIES_2/index.m3u8
+#EXTINF:-1, English Movies 1 Uk
+http://192.99.54.242/uk/ENGLISH_MOVIES_1/index.m3u8
+#EXTINF:-1, E! Uk
+http://192.99.54.242/uk/E!/index.m3u8
+#EXTINF:-1, Discovery Turbo Uk
+http://192.99.54.242/uk/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1, Discovery Science Uk
+http://192.99.54.242/uk/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1, Discovery Channel Uk
+http://192.99.54.242/uk/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1, Comedy Central Uk
+http://192.99.54.242/uk/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1, Bet Uk
+http://192.99.54.242/uk/BET/index.m3u8
+#EXTINF:-1, Bbc Entertainment
+http://192.99.54.242/uk/BBC_ENTERTAINMENT/index.m3u8
+#EXTINF:-1, Bbc 3
+http://192.99.54.242/uk/BBC_3/index.m3u8
+#EXTINF:-1, Bbc 2
+http://192.99.54.242/uk/BBC_2/index.m3u8
+#EXTINF:-1, Bbc 1
+http://192.99.54.242/uk/BBC_1/index.m3u8
 #EXTINF:-1, Zee Punjabi News
 http://192.99.54.242/ind_punj/ZEE_PUNJABI_NEWS/index.m3u8
 #EXTINF:-1, Zee Punjabi Music
@@ -1473,93 +1563,353 @@ http://192.99.54.242/spo/ARENA_SPORTS_3/index.m3u8
 http://192.99.54.242/spo/ARENA_SPORTS_2/index.m3u8
 #EXTINF:-1, Arena Sports 1
 http://192.99.54.242/spo/ARENA_SPORTS_1/index.m3u8
-#EXTINF:-1, Yesterday
-http://192.99.54.242/uk/YESTERDAY/index.m3u8
-#EXTINF:-1, Tlc Uk
-http://192.99.54.242/uk/TLC/index.m3u8
-#EXTINF:-1, Tcm Uk
-http://192.99.54.242/uk/TCM/index.m3u8
-#EXTINF:-1, Starz Uk
-http://192.99.54.242/uk/STARZ/index.m3u8
-#EXTINF:-1, Sky Two
-http://192.99.54.242/uk/SKY_TWO/index.m3u8
-#EXTINF:-1, Sky One
-http://192.99.54.242/uk/SKY_ONE/index.m3u8
-#EXTINF:-1, Sky Living
-http://192.99.54.242/uk/SKY_LIVING/index.m3u8
-#EXTINF:-1, Sky Cinema Thriller
-http://192.99.54.242/uk/SKY_CINEMA_THRILLER/index.m3u8
-#EXTINF:-1, Sky Cinema Showcase
-http://192.99.54.242/uk/SKY_CINEMA_SHOWCASE/index.m3u8
-#EXTINF:-1, Sky Cinema Select
-http://192.99.54.242/uk/SKY_CINEMA_SELECT/index.m3u8
-#EXTINF:-1, Sky Cinema Sci-fi
-http://192.99.54.242/uk/SKY_CINEMA_SCI-FI/index.m3u8
-#EXTINF:-1, Sky Cinema Premiere
-http://192.99.54.242/uk/SKY_CINEMA_PREMIERE/index.m3u8
-#EXTINF:-1, Sky Cinema Modern Greats
-http://192.99.54.242/uk/SKY_CINEMA_MODERN_GREATS/index.m3u8
-#EXTINF:-1, Sky Cinema Family
-http://192.99.54.242/uk/SKY_CINEMA_FAMILY/index.m3u8
-#EXTINF:-1, Sky Cinema Drama
-http://192.99.54.242/uk/SKY_CINEMA_DRAMA/index.m3u8
-#EXTINF:-1, Sky Cinema Disney
-http://192.99.54.242/uk/SKY_CINEMA_DISNEY/index.m3u8
-#EXTINF:-1, Sky Cinema Crime & Thriller
-http://192.99.54.242/uk/SKY_CINEMA_CRIME_&_THRILLER/index.m3u8
-#EXTINF:-1, Sky Cinema Comedy
-http://192.99.54.242/uk/SKY_CINEMA_COMEDY/index.m3u8
-#EXTINF:-1, Sky Cinema Action
-http://192.99.54.242/uk/SKY_CINEMA_ACTION/index.m3u8
-#EXTINF:-1, Sky Atlantic
-http://192.99.54.242/uk/SKY_ATLANTIC/index.m3u8
-#EXTINF:-1, Sky Arts
-http://192.99.54.242/uk/SKY_ARTS/index.m3u8
-#EXTINF:-1, National Geographic Wild Uk
-http://192.99.54.242/uk/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
-#EXTINF:-1, National Geographic Uk
-http://192.99.54.242/uk/NATIONAL_GEOGRAPHIC/index.m3u8
-#EXTINF:-1, Itv Be
-http://192.99.54.242/uk/ITV_BE/index.m3u8
-#EXTINF:-1, Itv 4
-http://192.99.54.242/uk/ITV_4/index.m3u8
-#EXTINF:-1, Itv 3
-http://192.99.54.242/uk/ITV_3/index.m3u8
-#EXTINF:-1, Itv 2
-http://192.99.54.242/uk/ITV_2/index.m3u8
-#EXTINF:-1, Itv 1
-http://192.99.54.242/uk/ITV_1/index.m3u8
-#EXTINF:-1, Investigation Discovery Uk
-http://192.99.54.242/uk/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1, History Uk
-http://192.99.54.242/uk/HISTORY/index.m3u8
-#EXTINF:-1, Hgtv Uk
-http://192.99.54.242/uk/HGTV/index.m3u8
-#EXTINF:-1, Food Network Uk
-http://192.99.54.242/uk/FOOD_NETWORK/index.m3u8
-#EXTINF:-1, English Movies 3 Uk
-http://192.99.54.242/uk/ENGLISH_MOVIES_3/index.m3u8
-#EXTINF:-1, English Movies 2 Uk
-http://192.99.54.242/uk/ENGLISH_MOVIES_2/index.m3u8
-#EXTINF:-1, English Movies 1 Uk
-http://192.99.54.242/uk/ENGLISH_MOVIES_1/index.m3u8
-#EXTINF:-1, E! Uk
-http://192.99.54.242/uk/E!/index.m3u8
-#EXTINF:-1, Discovery Turbo Uk
-http://192.99.54.242/uk/DISCOVERY_TURBO/index.m3u8
-#EXTINF:-1, Discovery Science Uk
-http://192.99.54.242/uk/DISCOVERY_SCIENCE/index.m3u8
-#EXTINF:-1, Discovery Channel Uk
-http://192.99.54.242/uk/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1, Comedy Central Uk
-http://192.99.54.242/uk/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1, Bet Uk
-http://192.99.54.242/uk/BET/index.m3u8
-#EXTINF:-1, Bbc Entertainment
-http://192.99.54.242/uk/BBC_ENTERTAINMENT/index.m3u8
-#EXTINF:-1, Bbc 3
-http://192.99.54.242/uk/BBC_3/index.m3u8
-#EXTINF:-1, Bbc 2
-http://192.99.54.242/uk/BBC_2/index.m3u8
-#EXTINF:-1, Bbc 1
-http://192.99.54.242/uk/BBC_1/index.m3u8
+#EXTINF:-1, Zee Telugu
+http://192.99.54.242/ind_tel/ZEE/index.m3u8
+#EXTINF:-1, Zee Cinemalu
+http://192.99.54.242/ind_tel/ZEE_CINEMALU/index.m3u8
+#EXTINF:-1, Tv9 News
+http://192.99.54.242/ind_tel/TV9_NEWS/index.m3u8
+#EXTINF:-1, Tv5
+http://192.99.54.242/ind_tel/TV5/index.m3u8
+#EXTINF:-1, Tatasky Telugu Cinema
+http://192.99.54.242/ind_tel/TATASKY_TELUGU_CINEMA/index.m3u8
+#EXTINF:-1, Tatasky English In Telugu
+http://192.99.54.242/ind_tel/TATASKY_ENGLISH_IN_TELUGU/index.m3u8
+#EXTINF:-1, Svbc
+http://192.99.54.242/ind_tel/SVBC/index.m3u8
+#EXTINF:-1, Star Maa Music
+http://192.99.54.242/ind_tel/MAA_MUSIC/index.m3u8
+#EXTINF:-1, Star Maa India
+http://192.99.54.242/ind_tel/MAA_TV/index.m3u8
+#EXTINF:-1, Star Maa Gold
+http://192.99.54.242/ind_tel/MAA_GOLD/index.m3u8
+#EXTINF:-1, Sony Bbc Earth Telugu
+http://192.99.54.242/ind_tel/SONY_BBC_EARTH/index.m3u8
+#EXTINF:-1, Raj Vissa
+http://192.99.54.242/ind_tel/RAJ_VISSA/index.m3u8
+#EXTINF:-1, Raj News
+http://192.99.54.242/ind_tel/RAJ_NEWS/index.m3u8
+#EXTINF:-1, Om Cvr
+http://192.99.54.242/ind_tel/OM_CVR/index.m3u8
+#EXTINF:-1, Ntv
+http://192.99.54.242/ind_tel/NTV/index.m3u8
+#EXTINF:-1, National Geographic Wild Telugu
+http://192.99.54.242/ind_tel/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1, National Geographic Telugu
+http://192.99.54.242/ind_tel/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1, Hm Tv
+http://192.99.54.242/ind_tel/HMTV/index.m3u8
+#EXTINF:-1, History Telugu
+http://192.99.54.242/ind_tel/HISTORY/index.m3u8
+#EXTINF:-1, Gemini Tv
+http://192.99.54.242/ind_tel/GEMINI_TV/index.m3u8
+#EXTINF:-1, Gemini Movies
+http://192.99.54.242/ind_tel/GEMINI_MOVIES/index.m3u8
+#EXTINF:-1, Gemini Comedy
+http://192.99.54.242/ind_tel/GEMINI_COMEDY/index.m3u8
+#EXTINF:-1, Etv Telugu
+http://192.99.54.242/ind_tel/ETV/index.m3u8
+#EXTINF:-1, Etv Andhra Pardesh
+http://192.99.54.242/ind_tel/ETV_ANDHRA_PARDESH/index.m3u8
+#EXTINF:-1, Desi Plaza Tv
+http://192.99.54.242/ind_tel/DESI_PLAZA_TV/index.m3u8
+#EXTINF:-1, Cvr News
+http://192.99.54.242/ind_tel/CVR_NEWS/index.m3u8
+#EXTINF:-1, Cvr English News
+http://192.99.54.242/ind_tel/CVR_ENGLISH_NEWS/index.m3u8
+#EXTINF:-1, Aradana Tv
+http://192.99.54.242/ind_tel/ARADANA_TV/index.m3u8
+#EXTINF:-1, 10 Tv
+http://192.99.54.242/ind_tel/10_TV/index.m3u8
+#EXTINF:-1, Zee Cafe
+http://192.99.54.242/ind_eng/ZEE_CAFE/index.m3u8
+#EXTINF:-1, Travel Xp English
+http://192.99.54.242/ind_eng/TRAVEL_XP/index.m3u8
+#EXTINF:-1, Tlc English
+http://192.99.54.242/ind_eng/TLC/index.m3u8
+#EXTINF:-1, Times Now
+http://192.99.54.242/ind_eng/TIMES_NOW/index.m3u8
+#EXTINF:-1, Tata Sky Vedic Maths
+http://192.99.54.242/ind_eng/TATASKY_VEDIC_MATHS/index.m3u8
+#EXTINF:-1, Tata Sky Smart Manager
+http://192.99.54.242/ind_eng/TATASKY_SMART_MANAGER/index.m3u8
+#EXTINF:-1, Tata Sky Show Bizz
+http://192.99.54.242/ind_eng/TATASKY_SHOW_BIZZ/index.m3u8
+#EXTINF:-1, Tata Sky Shorts Tv
+http://192.99.54.242/ind_eng/TATASKY_SHORTS_TV/index.m3u8
+#EXTINF:-1, Tata Sky Hits
+http://192.99.54.242/ind_eng/TATASKY_HITS/index.m3u8
+#EXTINF:-1, Tata Sky Beauty
+http://192.99.54.242/ind_eng/TATASKY_BEAUTY/index.m3u8
+#EXTINF:-1, Star World Premiere
+http://192.99.54.242/ind_hin/STAR_WORLD_PREMIERE/index.m3u8
+#EXTINF:-1, Star World
+http://192.99.54.242/ind_hin/STAR_WORLD/index.m3u8
+#EXTINF:-1, Star Movies Select
+http://192.99.54.242/ind_hin/STAR_MOVIES_SELECT/index.m3u8
+#EXTINF:-1, Star Movies
+http://192.99.54.242/ind_hin/STAR_MOVIES/index.m3u8
+#EXTINF:-1, Sony Pix
+http://192.99.54.242/ind_eng/SONY_PIX/index.m3u8
+#EXTINF:-1, Sony Bbc Earth English
+http://192.99.54.242/ind_eng/SONY_BBC_EARTH/index.m3u8
+#EXTINF:-1, Romedy Now
+http://192.99.54.242/ind_eng/ROMEDY_NOW/index.m3u8
+#EXTINF:-1, National Geographic Wild English
+http://192.99.54.242/ind_eng/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1, National Geographic English
+http://192.99.54.242/ind_eng/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1, Movies Now X
+http://192.99.54.242/ind_eng/MOVIES_NOW_X/index.m3u8
+#EXTINF:-1, Movies Now Plus
+http://192.99.54.242/ind_eng/MOVIES_NOW_PLUS/index.m3u8
+#EXTINF:-1, Movies Now
+http://192.99.54.242/ind_eng/MOVIES_NOW/index.m3u8
+#EXTINF:-1, Mirror Now
+http://192.99.54.242/ind_eng/MIRROR_NOW/index.m3u8
+#EXTINF:-1, History English
+http://192.99.54.242/ind_eng/HISTORY/index.m3u8
+#EXTINF:-1, Hbo India
+http://192.99.54.242/ind_eng/HBO/index.m3u8
+#EXTINF:-1, Fox Life English
+http://192.99.54.242/ind_eng/FOX_LIFE/index.m3u8
+#EXTINF:-1, Discovery World English
+http://192.99.54.242/ind_eng/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1, Comedy Central India
+http://192.99.54.242/ind_eng/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1, Colors Infinity
+http://192.99.54.242/ind_eng/COLORS_INFINITY/index.m3u8
+#EXTINF:-1, Cnbc English
+http://192.99.54.242/ind_eng/CNBC/index.m3u8
+#EXTINF:-1, Animal Planet English
+http://192.99.54.242/ind_eng/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1, Zoom
+http://192.99.54.242/ind_hin/ZOOM/index.m3u8
+#EXTINF:-1, Zing
+http://192.99.54.242/ind_hin/ZING/index.m3u8
+#EXTINF:-1, Zee Zest
+http://192.99.54.242/ind_hin/ZEE_ZEST/index.m3u8
+#EXTINF:-1, Zee Tv India
+http://192.99.54.242/ind_hin/ZEE_TV/index.m3u8
+#EXTINF:-1, Zee Theatre
+http://192.99.54.242/ind_hin/ZEE_THEATRE/index.m3u8
+#EXTINF:-1, Zee Smile
+http://192.99.54.242/ind_hin/ZEE_SMILE/index.m3u8
+#EXTINF:-1, Zee News
+http://192.99.54.242/ind_hin/ZEE_NEWS/index.m3u8
+#EXTINF:-1, Zee Hindustan
+http://192.99.54.242/ind_hin/ZEE_HINDUSTAN/index.m3u8
+#EXTINF:-1, Zee Hindi Music
+http://192.99.54.242/ind_hin/ZEE_HINDI_MUSIC/index.m3u8
+#EXTINF:-1, Zee Classic
+http://192.99.54.242/ind_hin/ZEE_CLASSIC/index.m3u8
+#EXTINF:-1, Zee Cinema India
+http://192.99.54.242/ind_hin/ZEE_CINEMA/index.m3u8
+#EXTINF:-1, Zee Business
+http://192.99.54.242/ind_hin/ZEE_BUSINESS/index.m3u8
+#EXTINF:-1, Zee Bollywood
+http://192.99.54.242/ind_hin/ZEE_BOLLYWOOD/index.m3u8
+#EXTINF:-1, Zee Anmol Cinema
+http://192.99.54.242/ind_hin/ZEE_ANMOL_CINEMA/index.m3u8
+#EXTINF:-1, Zee Anmol
+http://192.99.54.242/ind_hin/ZEE_ANMOL/index.m3u8
+#EXTINF:-1, Zee Action
+http://192.99.54.242/ind_hin/ZEE_ACTION/index.m3u8
+#EXTINF:-1, Wow Cinema One
+http://192.99.54.242/ind_hin/WOW_CINEMA/index.m3u8
+#EXTINF:-1, Utv Movies
+http://192.99.54.242/ind_hin/UTV_MOVIES/index.m3u8
+#EXTINF:-1, Utv Bindass
+http://192.99.54.242/ind_hin/UTV_BINDASS/index.m3u8
+#EXTINF:-1, Utv Action
+http://192.99.54.242/ind_hin/UTV_ACTION/index.m3u8
+#EXTINF:-1, Utv
+http://192.99.54.242/ind_hin/UTV/index.m3u8
+#EXTINF:-1, Travel Xp Hindi
+http://192.99.54.242/ind_hin/TRAVEL_XP/index.m3u8
+#EXTINF:-1, Tlc Hindi
+http://192.99.54.242/ind_hin/TLC/index.m3u8
+#EXTINF:-1, The Q
+http://192.99.54.242/ind_hin/THE_Q/index.m3u8
+#EXTINF:-1, Tez
+http://192.99.54.242/ind_hin/AAJTAK_TEZ/index.m3u8
+#EXTINF:-1, Tatasky Comedy
+http://192.99.54.242/ind_hin/TATASKY_COMEDY/index.m3u8
+#EXTINF:-1, Tata Sky Theatre
+http://192.99.54.242/ind_hin/TATASKY_THEATRE/index.m3u8
+#EXTINF:-1, Tata Sky Hollywood Local
+http://192.99.54.242/ind_hin/TATASKY_HOLLYWOOD_LOCAL/index.m3u8
+#EXTINF:-1, Tata Sky Fitness
+http://192.99.54.242/ind_hin/TATASKY_FITNESS/index.m3u8
+#EXTINF:-1, Tata Sky Family Health
+http://192.99.54.242/ind_hin/TATASKY_FAMILY_HEALTH/index.m3u8
+#EXTINF:-1, Tata Sky English In Hindi
+http://192.99.54.242/ind_hin/TATASKY_ENGLISH_IN_HINDI/index.m3u8
+#EXTINF:-1, Tata Sky Cooking
+http://192.99.54.242/ind_hin/TATASKY_COOKING/index.m3u8
+#EXTINF:-1, Tata Sky Classic Cinema
+http://192.99.54.242/ind_hin/TATASKY_CLASSIC_CINEMA/index.m3u8
+#EXTINF:-1, Tata Sky Bollywood Premiere
+http://192.99.54.242/ind_hin/TATASKY_BOLLYWOOD_PREMIERE/index.m3u8
+#EXTINF:-1, Tata Sky Adbhut Kahaniyan
+http://192.99.54.242/ind_hin/TATASKY_ADBHUT_KAHANIYAN/index.m3u8
+#EXTINF:-1, Tata Sky Acting Adda
+http://192.99.54.242/ind_hin/TATASKY_ACTING_ADDA/index.m3u8
+#EXTINF:-1, Star Utsav Movies
+http://192.99.54.242/ind_hin/STAR_UTSAV_MOVIES/index.m3u8
+#EXTINF:-1, Star Utsav
+http://192.99.54.242/ind_hin/STAR_UTSAV/index.m3u8
+#EXTINF:-1, Star Plus India
+http://192.99.54.242/ind_hin/STAR_PLUS/index.m3u8
+#EXTINF:-1, Star Gold Select
+http://192.99.54.242/ind_hin/STAR_GOLD_SELECT/index.m3u8
+#EXTINF:-1, Star Gold India
+http://192.99.54.242/ind_hin/STAR_GOLD/index.m3u8
+#EXTINF:-1, Star Gold 2
+http://192.99.54.242/ind_hin/STAR_GOLD_2/index.m3u8
+#EXTINF:-1, Star Bharat India
+http://192.99.54.242/ind_hin/STAR_BHARAT/index.m3u8
+#EXTINF:-1, Sony Wah
+http://192.99.54.242/ind_hin/SONY_WAH/index.m3u8
+#EXTINF:-1, Sony Tv Sd India
+http://192.99.54.242/ind_hin/SONY_TV_SD/index.m3u8
+#EXTINF:-1, Sony Tv Hd India
+http://192.99.54.242/ind_hin/SONY_TV_HD/index.m3u8
+#EXTINF:-1, Sony Tv Apac
+http://192.99.54.242/ind_hin/SONY_TV_APAC/index.m3u8
+#EXTINF:-1, Sony Sab India
+http://192.99.54.242/ind_hin/SONY_SAB/index.m3u8
+#EXTINF:-1, Sony Sab Apac
+http://192.99.54.242/ind_hin/SONY_SAB_APAC/index.m3u8
+#EXTINF:-1, Sony Pal
+http://192.99.54.242/ind_hin/SONY_PAL/index.m3u8
+#EXTINF:-1, Sony Max Sd India
+http://192.99.54.242/ind_hin/SONY_MAX_SD/index.m3u8
+#EXTINF:-1, Sony Max Hd India
+http://192.99.54.242/ind_hin/SONY_MAX_HD/index.m3u8
+#EXTINF:-1, Sony Max Apac
+http://192.99.54.242/ind_hin/SONY_MAX_APAC/index.m3u8
+#EXTINF:-1, Sony Max 2 India
+http://192.99.54.242/ind_hin/SONY_MAX_2/index.m3u8
+#EXTINF:-1, Sony Bbc Earth Hindi
+http://192.99.54.242/ind_hin/SONY_BBC_EARTH/index.m3u8
+#EXTINF:-1, Rishtey India
+http://192.99.54.242/ind_hin/RISHTEY/index.m3u8
+#EXTINF:-1, Rishtey Cineplex
+http://192.99.54.242/ind_hin/RISHTEY_CINEPLEX/index.m3u8
+#EXTINF:-1, News 24
+http://192.99.54.242/ind_hin/NEWS_24/index.m3u8
+#EXTINF:-1, Ndtv India
+http://192.99.54.242/ind_hin/NDTV_INDIA/index.m3u8
+#EXTINF:-1, National Geographic Wild Hindi
+http://192.99.54.242/ind_hin/NATIONAL_GEOGRAPHIC_WILD/index.m3u8
+#EXTINF:-1, National Geographic Hindi
+http://192.99.54.242/ind_hin/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1, Music India
+http://192.99.54.242/ind_hin/MUSIC_INDIA/index.m3u8
+#EXTINF:-1, Mtv Beats
+http://192.99.54.242/ind_hin/MTV_BEATS/index.m3u8
+#EXTINF:-1, Movies Active
+http://192.99.54.242/ind_hin/MOVIES_ACTIVE/index.m3u8
+#EXTINF:-1, Miniplex
+http://192.99.54.242/ind_hin/MINIPLEX/index.m3u8
+#EXTINF:-1, Manoranjan Tv
+http://192.99.54.242/ind_hin/MANORANJAN_TV/index.m3u8
+#EXTINF:-1, Jus Hindi
+http://192.99.54.242/ind_hin/JUS_HINDI/index.m3u8
+#EXTINF:-1, India Tv
+http://192.99.54.242/ind_hin/INDIA_TV/index.m3u8
+#EXTINF:-1, Ibc 24
+http://192.99.54.242/ind_hin/IBC_24/index.m3u8
+#EXTINF:-1, Housefull Movies
+http://192.99.54.242/ind_hin/HOUSEFULL_MOVIES/index.m3u8
+#EXTINF:-1, Housefull Action
+http://192.99.54.242/ind_hin/HOUSEFULL_ACTION/index.m3u8
+#EXTINF:-1, History Hindi
+http://192.99.54.242/ind_hin/HISTORY/index.m3u8
+#EXTINF:-1, Hindi Movies 4
+http://192.99.54.242/ind_hin/HINDI_MOVIES_4/index.m3u8
+#EXTINF:-1, Hindi Movies 3
+http://192.99.54.242/ind_hin/HINDI_MOVIES_3/index.m3u8
+#EXTINF:-1, Hindi Movies 2
+http://192.99.54.242/ind_hin/HINDI_MOVIES_2/index.m3u8
+#EXTINF:-1, Hindi Movies 1
+http://192.99.54.242/ind_hin/HINDI_MOVIES_1/index.m3u8
+#EXTINF:-1, Fox Life Hindi
+http://192.99.54.242/ind_hin/FOX_LIFE/index.m3u8
+#EXTINF:-1, Food Food
+http://192.99.54.242/ind_hin/FOOD_FOOD/index.m3u8
+#EXTINF:-1, Filmy
+http://192.99.54.242/ind_hin/FILMY/index.m3u8
+#EXTINF:-1, Evergreen Classics Active
+http://192.99.54.242/ind_hin/EVERGREEN_CLASSICS_ACTIVE/index.m3u8
+#EXTINF:-1, Epic Tv
+http://192.99.54.242/ind_hin/EPIC_TV/index.m3u8
+#EXTINF:-1, Divya Tv
+http://192.99.54.242/ind_hin/DIVYA_TV/index.m3u8
+#EXTINF:-1, Discovery World Hindi
+http://192.99.54.242/ind_hin/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1, Dd National
+http://192.99.54.242/ind_hin/DD_NATIONAL/index.m3u8
+#EXTINF:-1, Dd India
+http://192.99.54.242/ind_hin/DD_INDIA/index.m3u8
+#EXTINF:-1, Colors India
+http://192.99.54.242/ind_hin/COLORS/index.m3u8
+#EXTINF:-1, Colors Cineplex India
+http://192.99.54.242/ind_hin/COLORS_CINEPLEX/index.m3u8
+#EXTINF:-1, Cinema Tv
+http://192.99.54.242/ind_hin/CINEMA_TV/index.m3u8
+#EXTINF:-1, Cine Active
+http://192.99.54.242/ind_hin/CINE_ACTIVE/index.m3u8
+#EXTINF:-1, Box Cinema
+http://192.99.54.242/ind_hin/BOX_CINEMA/index.m3u8
+#EXTINF:-1, Bollywood Sci-fi Horror
+http://192.99.54.242/ind_hin/BOLLYWOOD_SCI-FI_HORROR/index.m3u8
+#EXTINF:-1, Bollywood Premiere
+http://192.99.54.242/ind_hin/BOLLYWOOD_PREMIERE/index.m3u8
+#EXTINF:-1, Bollywood Nonstop
+http://192.99.54.242/ind_hin/BOLLYWOOD_NONSTOP/index.m3u8
+#EXTINF:-1, Bollywood New Release
+http://192.99.54.242/ind_hin/BOLLYWOOD_NEW_RELEASE/index.m3u8
+#EXTINF:-1, Bollywood Drama
+http://192.99.54.242/ind_hin/BOLLYWOOD_DRAMA/index.m3u8
+#EXTINF:-1, Bollywood Comedy
+http://192.99.54.242/ind_hin/BOLLYWOOD_COMEDY/index.m3u8
+#EXTINF:-1, Bollywood Classics
+http://192.99.54.242/ind_hin/BOLLYWOOD_CLASSICS/index.m3u8
+#EXTINF:-1, Bollywood Classic
+http://192.99.54.242/ind_hin/BOLLYWOOD_CLASSIC/index.m3u8
+#EXTINF:-1, Bollywood Action
+http://192.99.54.242/ind_hin/BOLLYWOOD_ACTION/index.m3u8
+#EXTINF:-1, Bbo India
+http://192.99.54.242/ind_hin/BBO/index.m3u8
+#EXTINF:-1, Bbo Classic
+http://192.99.54.242/ind_hin/BBO_CLASSIC/index.m3u8
+#EXTINF:-1, B4u Plus
+http://192.99.54.242/ind_hin/B4U_PLUS/index.m3u8
+#EXTINF:-1, B4u Music India
+http://192.99.54.242/ind_hin/B4U_MUSIC/index.m3u8
+#EXTINF:-1, B4u Movies India
+http://192.99.54.242/ind_hin/B4U_MOVIES/index.m3u8
+#EXTINF:-1, B4u Kadak
+http://192.99.54.242/ind_hin/B4U_KADAK/index.m3u8
+#EXTINF:-1, B-flix Movies
+http://192.99.54.242/ind_hin/BFLIX_MOVIES/index.m3u8
+#EXTINF:-1, Animal Planet Hindi
+http://192.99.54.242/ind_hin/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1, And Tv India
+http://192.99.54.242/ind_hin/AND_TV/index.m3u8
+#EXTINF:-1, And Prive
+http://192.99.54.242/ind_hin/AND_PRIVE/index.m3u8
+#EXTINF:-1, And Pictures
+http://192.99.54.242/ind_hin/AND_PICTURES/index.m3u8
+#EXTINF:-1, And Flix
+http://192.99.54.242/ind_hin/AND_FLIX/index.m3u8
+#EXTINF:-1, And Explore
+http://192.99.54.242/ind_hin/AND_EXPLORE/index.m3u8
+#EXTINF:-1, Aajtak
+http://192.99.54.242/ind_hin/AAJTAK/index.m3u8
+#EXTINF:-1, 9xm
+http://192.99.54.242/ind_hin/9XM/index.m3u8
+#EXTINF:-1, 9x Jalwa
+http://192.99.54.242/ind_hin/9X_JALWA/index.m3u8
