@@ -1,2 +1,2 @@
-# free_channels
-900+ Free HD live tv channels
+# TV Channels
+1500 HD live tv channels
